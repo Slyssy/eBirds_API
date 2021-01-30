@@ -1,0 +1,989 @@
+,speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+0,amwpel,American White Pelican,Pelecanus erythrorhynchos,L12395856,"3671–3781 Pacheco Pass Hwy, Gilroy US-CA (36.9923,-121.4962)",2020-09-30 12:18,5.0,36.992302,-121.496236,True,False,True,S74233393
+1,turvul,Turkey Vulture,Cathartes aura,L12395856,"3671–3781 Pacheco Pass Hwy, Gilroy US-CA (36.9923,-121.4962)",2020-09-30 12:18,4.0,36.992302,-121.496236,True,False,True,S74233393
+2,rethaw,Red-tailed Hawk,Buteo jamaicensis,L12395856,"3671–3781 Pacheco Pass Hwy, Gilroy US-CA (36.9923,-121.4962)",2020-09-30 12:18,1.0,36.992302,-121.496236,True,False,True,S74233393
+3,whtkit,White-tailed Kite,Elanus leucurus,L12395856,"3671–3781 Pacheco Pass Hwy, Gilroy US-CA (36.9923,-121.4962)",2020-09-30 12:18,1.0,36.992302,-121.496236,True,False,True,S74233393
+4,norhar2,Northern Harrier,Circus hudsonius,L12395856,"3671–3781 Pacheco Pass Hwy, Gilroy US-CA (36.9923,-121.4962)",2020-09-30 12:18,1.0,36.992302,-121.496236,True,False,True,S74233393
+5,reshaw,Red-shouldered Hawk,Buteo lineatus,L12397408,"529–579 Guarding Point Ln, Kilmarnock US-VA (37.7781,-76.3145)",2020-09-30 11:57,1.0,37.778051,-76.314497,True,False,True,S74243480
+6,amekes,American Kestrel,Falco sparverius,L305617,Cape Island--CMP--Alexander Ave. dunes/beach,2020-09-30 11:57,1.0,38.9405526,-74.9714112,True,False,False,S74243106
+7,baleag,Bald Eagle,Haliaeetus leucocephalus,L12397408,"529–579 Guarding Point Ln, Kilmarnock US-VA (37.7781,-76.3145)",2020-09-30 11:57,1.0,37.778051,-76.314497,True,False,True,S74243480
+8,ambduc,American Black Duck,Anas rubripes,L12397408,"529–579 Guarding Point Ln, Kilmarnock US-VA (37.7781,-76.3145)",2020-09-30 11:57,5.0,37.778051,-76.314497,True,False,True,S74243480
+9,sander,Sanderling,Calidris alba,L12397397,"North Carolina 12, Avon, North Carolina, US (35.41, -75.485)",2020-09-30 11:56,12.0,35.4103086,-75.4854837,True,False,True,S74243407
+10,rudtur,Ruddy Turnstone,Arenaria interpres,L12397397,"North Carolina 12, Avon, North Carolina, US (35.41, -75.485)",2020-09-30 11:56,1.0,35.4103086,-75.4854837,True,False,True,S74243407
+11,willet1,Willet,Tringa semipalmata,L12397397,"North Carolina 12, Avon, North Carolina, US (35.41, -75.485)",2020-09-30 11:56,6.0,35.4103086,-75.4854837,True,False,True,S74243407
+12,bkbplo,Black-bellied Plover,Pluvialis squatarola,L12397397,"North Carolina 12, Avon, North Carolina, US (35.41, -75.485)",2020-09-30 11:56,5.0,35.4103086,-75.4854837,True,False,True,S74243407
+13,carchi,Carolina Chickadee,Poecile carolinensis,L475236,31204 Macon,2020-09-30 11:53,1.0,32.8415559,-83.6803722,True,False,True,S74243533
+14,reevir1,Red-eyed Vireo,Vireo olivaceus,L475236,31204 Macon,2020-09-30 11:53,1.0,32.8415559,-83.6803722,True,False,True,S74243533
+15,normoc,Northern Mockingbird,Mimus polyglottos,L475236,31204 Macon,2020-09-30 11:53,1.0,32.8415559,-83.6803722,True,False,True,S74243533
+16,carwre,Carolina Wren,Thryothorus ludovicianus,L475236,31204 Macon,2020-09-30 11:53,2.0,32.8415559,-83.6803722,True,False,True,S74243533
+17,brnthr,Brown Thrasher,Toxostoma rufum,L475236,31204 Macon,2020-09-30 11:53,1.0,32.8415559,-83.6803722,True,False,True,S74243533
+18,rebwoo,Red-bellied Woodpecker,Melanerpes carolinus,L475236,31204 Macon,2020-09-30 11:53,1.0,32.8415559,-83.6803722,True,False,True,S74243533
+19,moudov,Mourning Dove,Zenaida macroura,L475236,31204 Macon,2020-09-30 11:53,9.0,32.8415559,-83.6803722,True,False,True,S74243533
+20,hoowar,Hooded Warbler,Setophaga citrina,L12397387,"2717–2989 Lankford Hwy, Exmore US-VA 37.53922, -75.82508",2020-09-30 11:53,1.0,37.539222,-75.825082,True,False,True,S74243318
+21,amerob,American Robin,Turdus migratorius,L475236,31204 Macon,2020-09-30 11:53,1.0,32.8415559,-83.6803722,True,False,True,S74243533
+22,eawpew,Eastern Wood-Pewee,Contopus virens,L475236,31204 Macon,2020-09-30 11:53,1.0,32.8415559,-83.6803722,True,False,True,S74243533
+23,norcar,Northern Cardinal,Cardinalis cardinalis,L475236,31204 Macon,2020-09-30 11:53,6.0,32.8415559,-83.6803722,True,False,True,S74243533
+24,swathr,Swainson's Thrush,Catharus ustulatus,L1477338,1822 Sharon Road,2020-09-30 11:52,1.0,30.4659193,-84.317554,True,False,True,S74243352
+25,bnhnut,Brown-headed Nuthatch,Sitta pusilla,L10514350,"8449 Palmetto Pointe Road, Edisto Island, South Carolina, US (32.52, -80.323)",2020-09-30 11:49,1.0,32.5199871,-80.3233828,True,False,True,S74243234
+26,blujay,Blue Jay,Cyanocitta cristata,L8246257,"819 Lawn Avenue, Sellersville, Pennsylvania, US (40.365, -75.326)",2020-09-30 11:48,2.0,40.3650278,-75.3262896,True,False,True,S74243130
+27,coohaw,Cooper's Hawk,Accipiter cooperii,L8246257,"819 Lawn Avenue, Sellersville, Pennsylvania, US (40.365, -75.326)",2020-09-30 11:48,1.0,40.3650278,-75.3262896,True,False,True,S74243130
+28,blkvul,Black Vulture,Coragyps atratus,L12397340,"Windsor, Connecticut, US (41.864, -72.679)",2020-09-30 11:45,2.0,41.8640416,-72.6786977,True,False,True,S74243037
+29,mallar3,Mallard,Anas platyrhynchos,L6360739,Harry Kessler Park--Ottawa River Viewpoint,2020-09-30 11:45,2.0,41.7118685,-83.4868448,True,False,False,S74243290
+30,ribgul,Ring-billed Gull,Larus delawarensis,L6360739,Harry Kessler Park--Ottawa River Viewpoint,2020-09-30 11:45,,41.7118685,-83.4868448,True,False,False,S74243290
+31,naswar,Nashville Warbler,Leiothlypis ruficapilla,L12397377,"Hubbard Park, Montpelier US-VT 44.26805, -72.57407",2020-09-30 11:45,2.0,44.268054,-72.574071,True,False,True,S74243288
+32,easpho,Eastern Phoebe,Sayornis phoebe,L634474,Yard (Sunset Dr),2020-09-30 11:45,1.0,42.1603344,-71.8044401,True,False,True,S74243040
+33,doccor,Double-crested Cormorant,Phalacrocorax auritus,L6360739,Harry Kessler Park--Ottawa River Viewpoint,2020-09-30 11:45,1.0,41.7118685,-83.4868448,True,False,False,S74243290
+34,whtspa,White-throated Sparrow,Zonotrichia albicollis,L12397377,"Hubbard Park, Montpelier US-VT 44.26805, -72.57407",2020-09-30 11:45,5.0,44.268054,-72.574071,True,False,True,S74243288
+35,hergul,Herring Gull,Larus argentatus,L6360739,Harry Kessler Park--Ottawa River Viewpoint,2020-09-30 11:45,,41.7118685,-83.4868448,True,False,False,S74243290
+36,norpar,Northern Parula,Setophaga americana,L1943810,Chris and Pats yard,2020-09-30 11:44,1.0,41.4871662,-72.2466275,True,False,True,S74243233
+37,amegfi,American Goldfinch,Spinus tristis,L1943810,Chris and Pats yard,2020-09-30 11:44,2.0,41.4871662,-72.2466275,True,False,True,S74243233
+38,tuftit,Tufted Titmouse,Baeolophus bicolor,L1943810,Chris and Pats yard,2020-09-30 11:44,6.0,41.4871662,-72.2466275,True,False,True,S74243233
+39,bkcchi,Black-capped Chickadee,Poecile atricapillus,L1943810,Chris and Pats yard,2020-09-30 11:44,1.0,41.4871662,-72.2466275,True,False,True,S74243233
+40,whbnut,White-breasted Nuthatch,Sitta carolinensis,L1943810,Chris and Pats yard,2020-09-30 11:44,2.0,41.4871662,-72.2466275,True,False,True,S74243233
+41,dowwoo,Downy Woodpecker,Dryobates pubescens,L1943810,Chris and Pats yard,2020-09-30 11:44,3.0,41.4871662,-72.2466275,True,False,True,S74243233
+42,bawwar,Black-and-white Warbler,Mniotilta varia,L1943810,Chris and Pats yard,2020-09-30 11:44,1.0,41.4871662,-72.2466275,True,False,True,S74243233
+43,treswa,Tree Swallow,Tachycineta bicolor,L1943810,Chris and Pats yard,2020-09-30 11:44,4.0,41.4871662,-72.2466275,True,False,True,S74243233
+44,killde,Killdeer,Charadrius vociferus,L12397411,"4163 Cork Bocktown Road, Clinton, Pennsylvania, US (40.498, -80.327)",2020-09-30 11:43,1.0,40.4984656,-80.3274281,True,False,True,S74243517
+45,eursta,European Starling,Sturnus vulgaris,L12397411,"4163 Cork Bocktown Road, Clinton, Pennsylvania, US (40.498, -80.327)",2020-09-30 11:43,2.0,40.4984656,-80.3274281,True,False,True,S74243517
+46,chiswi,Chimney Swift,Chaetura pelagica,L12397411,"4163 Cork Bocktown Road, Clinton, Pennsylvania, US (40.498, -80.327)",2020-09-30 11:43,2.0,40.4984656,-80.3274281,True,False,True,S74243517
+47,amecro,American Crow,Corvus brachyrhynchos,L12397411,"4163 Cork Bocktown Road, Clinton, Pennsylvania, US (40.498, -80.327)",2020-09-30 11:43,1.0,40.4984656,-80.3274281,True,False,True,S74243517
+48,rthhum,Ruby-throated Hummingbird,Archilochus colubris,L2644493,East Fowler Rd,2020-09-30 11:41,1.0,42.1296572,-84.5343442,True,False,True,S74242904
+49,comgra,Common Grackle,Quiscalus quiscula,L9748861,"34 Ellery Street, Cambridge, Massachusetts, US (42.372, -71.111)",2020-09-30 11:41,2.0,42.3715029,-71.110543,True,False,True,S74243376
+50,houspa,House Sparrow,Passer domesticus,L9748861,"34 Ellery Street, Cambridge, Massachusetts, US (42.372, -71.111)",2020-09-30 11:41,3.0,42.3715029,-71.110543,True,False,True,S74243376
+51,tenwar,Tennessee Warbler,Leiothlypis peregrina,L9478648,"141 Pavlus Road, Fort Plain, New York, US (42.963, -74.485)",2020-09-30 11:40,1.0,42.9633892,-74.4846282,True,False,True,S74243185
+52,purfin,Purple Finch,Haemorhous purpureus,L2172195,backyard,2020-09-30 11:40,1.0,42.8344996,-82.4918747,True,False,True,S74243277
+53,whevir,White-eyed Vireo,Vireo griseus,L1979258,El Refugio Silvestre,2020-09-30 11:40,1.0,27.5627649,-80.3989792,True,False,True,S74243079
+54,acafly,Acadian Flycatcher,Empidonax virescens,L12397394,"2216 E Cherokee Dr, Woodstock US-GA 34.13864, -84.46354",2020-09-30 11:40,1.0,34.138643,-84.463543,True,False,True,S74243346
+55,rebnut,Red-breasted Nuthatch,Sitta canadensis,L2172195,backyard,2020-09-30 11:40,2.0,42.8344996,-82.4918747,True,False,True,S74243277
+56,cogdov,Common Ground Dove,Columbina passerina,L1979258,El Refugio Silvestre,2020-09-30 11:40,1.0,27.5627649,-80.3989792,True,False,True,S74243079
+57,houfin,House Finch,Haemorhous mexicanus,L2172195,backyard,2020-09-30 11:40,3.0,42.8344996,-82.4918747,True,False,True,S74243277
+58,grycat,Gray Catbird,Dumetella carolinensis,L9478648,"141 Pavlus Road, Fort Plain, New York, US (42.963, -74.485)",2020-09-30 11:40,1.0,42.9633892,-74.4846282,True,False,True,S74243185
+59,rocpig,Rock Pigeon,Columba livia,L683555,Bryant Park,2020-09-30 11:38,1.0,40.7536729,-73.9832322,True,False,False,S74242748
+60,sonspa,Song Sparrow,Melospiza melodia,L4139600,My Yard in Tucker,2020-09-30 11:37,1.0,33.8664774,-84.2122618,True,False,True,S74243263
+61,buwtea,Blue-winged Teal,Spatula discors,L12397294,"3253 Rose Road, Batavia, New York, US (42.973, -78.27)",2020-09-30 11:37,6.0,42.9728699,-78.2697498,True,False,True,S74242759
+62,robgro,Rose-breasted Grosbeak,Pheucticus ludovicianus,L4139600,My Yard in Tucker,2020-09-30 11:37,1.0,33.8664774,-84.2122618,True,False,True,S74243263
+63,laugul,Laughing Gull,Leucophaeus atricilla,L12045999,Wildwood Crest--Seaview Ave/E Nashville Ave,2020-09-30 11:35,2.0,38.968305,-74.841163,True,False,True,S74242714
+64,greegr,Great Egret,Ardea alba,L1136127,Point Lookout SP--The Point,2020-09-30 11:34,1.0,38.0400473,-76.322279,True,False,False,S74243313
+65,norpin,Northern Pintail,Anas acuta,L853030,Lake Odessa Sewage Ponds (Lakewood Wastewater Authority),2020-09-30 11:34,5.0,42.7884365,-85.0922696,True,False,False,S74243020
+66,grhowl,Great Horned Owl,Bubo virginianus,L3897351,EcOhio Farm and Wetland (restricted access),2020-09-30 11:34,1.0,39.4061633,-84.3022692,True,False,False,S74242662
+67,musduc,Muscovy Duck,Cairina moschata,L656190,Sugden Regional Park,2020-09-30 11:34,6.0,26.1137509,-81.7621422,True,False,False,S74243243
+68,buggna,Blue-gray Gnatcatcher,Polioptila caerulea,L656190,Sugden Regional Park,2020-09-30 11:34,2.0,26.1137509,-81.7621422,True,False,False,S74243243
+69,easblu,Eastern Bluebird,Sialia sialis,L12397370,"1700–1708 Radar Rd, Fleming Island US-FL 30.09206, -81.71251",2020-09-30 11:34,2.0,30.092056,-81.712507,True,False,True,S74243218
+70,rewbla,Red-winged Blackbird,Agelaius phoeniceus,L3897351,EcOhio Farm and Wetland (restricted access),2020-09-30 11:34,,39.4061633,-84.3022692,True,False,False,S74242662
+71,norsho,Northern Shoveler,Spatula clypeata,L853030,Lake Odessa Sewage Ponds (Lakewood Wastewater Authority),2020-09-30 11:34,5.0,42.7884365,-85.0922696,True,False,False,S74243020
+72,y00475,American Coot,Fulica americana,L656190,Sugden Regional Park,2020-09-30 11:34,3.0,26.1137509,-81.7621422,True,False,False,S74243243
+73,grnher,Green Heron,Butorides virescens,L3897351,EcOhio Farm and Wetland (restricted access),2020-09-30 11:34,1.0,39.4061633,-84.3022692,True,False,False,S74242662
+74,osprey,Osprey,Pandion haliaetus,L656190,Sugden Regional Park,2020-09-30 11:34,1.0,26.1137509,-81.7621422,True,False,False,S74243243
+75,brnpel,Brown Pelican,Pelecanus occidentalis,L1136127,Point Lookout SP--The Point,2020-09-30 11:34,5.0,38.0400473,-76.322279,True,False,False,S74243313
+76,anhing,Anhinga,Anhinga anhinga,L656190,Sugden Regional Park,2020-09-30 11:34,1.0,26.1137509,-81.7621422,True,False,False,S74243243
+77,redhea,Redhead,Aythya americana,L853030,Lake Odessa Sewage Ponds (Lakewood Wastewater Authority),2020-09-30 11:34,4.0,42.7884365,-85.0922696,True,False,False,S74243020
+78,whiibi,White Ibis,Eudocimus albus,L656190,Sugden Regional Park,2020-09-30 11:34,30.0,26.1137509,-81.7621422,True,False,False,S74243243
+79,palwar,Palm Warbler,Setophaga palmarum,L12397370,"1700–1708 Radar Rd, Fleming Island US-FL 30.09206, -81.71251",2020-09-30 11:34,1.0,30.092056,-81.712507,True,False,True,S74243218
+80,belkin1,Belted Kingfisher,Megaceryle alcyon,L3897351,EcOhio Farm and Wetland (restricted access),2020-09-30 11:34,1.0,39.4061633,-84.3022692,True,False,False,S74242662
+81,categr,Cattle Egret,Bubulcus ibis,L656190,Sugden Regional Park,2020-09-30 11:34,3.0,26.1137509,-81.7621422,True,False,False,S74243243
+82,cangoo,Canada Goose,Branta canadensis,L853030,Lake Odessa Sewage Ponds (Lakewood Wastewater Authority),2020-09-30 11:34,5.0,42.7884365,-85.0922696,True,False,False,S74243020
+83,gbbgul,Great Black-backed Gull,Larus marinus,L1136127,Point Lookout SP--The Point,2020-09-30 11:34,4.0,38.0400473,-76.322279,True,False,False,S74243313
+84,norfli,Northern Flicker,Colaptes auratus,L1056703,Presque Isle SP--Thompson Bay,2020-09-30 11:30,2.0,42.1681112,-80.081749,True,False,False,S74243066
+85,merlin,Merlin,Falco columbarius,L1056703,Presque Isle SP--Thompson Bay,2020-09-30 11:30,1.0,42.1681112,-80.081749,True,False,False,S74243066
+86,pibgre,Pied-billed Grebe,Podilymbus podiceps,L1056703,Presque Isle SP--Thompson Bay,2020-09-30 11:30,5.0,42.1681112,-80.081749,True,False,False,S74243066
+87,bkpwar,Blackpoll Warbler,Setophaga striata,L1056703,Presque Isle SP--Thompson Bay,2020-09-30 11:30,3.0,42.1681112,-80.081749,True,False,False,S74243066
+88,grbher3,Great Blue Heron,Ardea herodias,L1056703,Presque Isle SP--Thompson Bay,2020-09-30 11:30,1.0,42.1681112,-80.081749,True,False,False,S74243066
+89,yerwar,Yellow-rumped Warbler,Setophaga coronata,L1056703,Presque Isle SP--Thompson Bay,2020-09-30 11:30,7.0,42.1681112,-80.081749,True,False,False,S74243066
+90,wooduc,Wood Duck,Aix sponsa,L1171628,Cheshire Lake--Nobody's Rd causeway,2020-09-30 11:28,26.0,42.5217342,-73.196875,True,False,False,S74242735
+91,comyel,Common Yellowthroat,Geothlypis trichas,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,2.0,24.6034609,-81.5706199,True,False,False,S74243200
+92,triher,Tricolored Heron,Egretta tricolor,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,1.0,24.6034609,-81.5706199,True,False,False,S74243200
+93,magfri,Magnificent Frigatebird,Fregata magnificens,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,1.0,24.6034609,-81.5706199,True,False,False,S74243200
+94,snoegr,Snowy Egret,Egretta thula,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,1.0,24.6034609,-81.5706199,True,False,False,S74243200
+95,barswa,Barn Swallow,Hirundo rustica,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,3.0,24.6034609,-81.5706199,True,False,False,S74243200
+96,royter1,Royal Tern,Thalasseus maximus,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,1.0,24.6034609,-81.5706199,True,False,False,S74243200
+97,norwat,Northern Waterthrush,Parkesia noveboracensis,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,1.0,24.6034609,-81.5706199,True,False,False,S74243200
+98,prawar,Prairie Warbler,Setophaga discolor,L7269870,Florida Keys WEA--Sammy Creek Landing,2020-09-30 11:27,1.0,24.6034609,-81.5706199,True,False,False,S74243200
+99,camwar,Cape May Warbler,Setophaga tigrina,L1164379,Hillandale Park,2020-09-30 11:26,1.0,38.4423629,-78.8958263,True,False,False,S74242551
+100,yebcuc,Yellow-billed Cuckoo,Coccyzus americanus,L12397414,"Clarks Hill Park Dog Beach, Clarks Hill, South Carolina, US (33.672, -82.188)",2020-09-30 11:25,1.0,33.6720476,-82.1884786,True,False,True,S74243530
+101,chispa,Chipping Sparrow,Spizella passerina,L12396827,"03244, Windsor US-NH 43.11410, -72.01589",2020-09-30 11:23,70.0,43.114098,-72.015887,True,False,True,S74243271
+102,daejun,Dark-eyed Junco,Junco hyemalis,L12396827,"03244, Windsor US-NH 43.11410, -72.01589",2020-09-30 11:23,7.0,43.114098,-72.015887,True,False,True,S74243271
+103,buhvir,Blue-headed Vireo,Vireo solitarius,L12396827,"03244, Windsor US-NH 43.11410, -72.01589",2020-09-30 11:23,2.0,43.114098,-72.015887,True,False,True,S74243271
+104,pinwar,Pine Warbler,Setophaga pinus,L12396827,"03244, Windsor US-NH 43.11410, -72.01589",2020-09-30 11:23,5.0,43.114098,-72.015887,True,False,True,S74243271
+105,yebsap,Yellow-bellied Sapsucker,Sphyrapicus varius,L12396827,"03244, Windsor US-NH 43.11410, -72.01589",2020-09-30 11:23,1.0,43.114098,-72.015887,True,False,True,S74243271
+106,forter,Forster's Tern,Sterna forsteri,L1136116,Point Lookout SP--The Causeway,2020-09-30 11:22,4.0,38.0614053,-76.3264847,True,False,False,S74242430
+107,fiscro,Fish Crow,Corvus ossifragus,L1136116,Point Lookout SP--The Causeway,2020-09-30 11:22,1.0,38.0614053,-76.3264847,True,False,False,S74242430
+108,btnwar,Black-throated Green Warbler,Setophaga virens,L784907,Bald Eagle SP--Lower Greens Run,2020-09-30 11:22,1.0,41.0102485,-77.674123,True,False,False,S74242279
+109,cedwax,Cedar Waxwing,Bombycilla cedrorum,L784907,Bald Eagle SP--Lower Greens Run,2020-09-30 11:22,2.0,41.0102485,-77.674123,True,False,False,S74242279
+110,brwhaw,Broad-winged Hawk,Buteo platypterus,L12397184,"Nottingham Park, Nottingham US-PA 39.73989, -76.03730",2020-09-30 11:18,1.0,39.739894,-76.037305,True,False,True,S74242071
+111,eastow,Eastern Towhee,Pipilo erythrophthalmus,L12397184,"Nottingham Park, Nottingham US-PA 39.73989, -76.03730",2020-09-30 11:18,1.0,39.739894,-76.037305,True,False,True,S74242071
+112,haiwoo,Hairy Woodpecker,Dryobates villosus,L12397384,"Catawba College Ecological Preserve, Salisbury US-NC 35.69130, -80.47978",2020-09-30 11:18,2.0,35.691298,-80.479784,True,False,True,S74243306
+113,brdowl,Barred Owl,Strix varia,L12397384,"Catawba College Ecological Preserve, Salisbury US-NC 35.69130, -80.47978",2020-09-30 11:18,1.0,35.691298,-80.479784,True,False,True,S74243306
+114,amepip,American Pipit,Anthus rubescens,L1048147,Janoski's Farm,2020-09-30 11:18,3.0,40.4921644,-80.3318489,True,False,False,S74242828
+115,perfal,Peregrine Falcon,Falco peregrinus,L12397156,"901–905 W First St, Kill Devil Hills US-NC 36.02174, -75.67962",2020-09-30 11:16,1.0,36.021736,-75.679623,True,False,True,S74241921
+116,bongul,Bonaparte's Gull,Chroicocephalus philadelphia,L283187,Whirlpool SP,2020-09-30 11:16,12.0,43.1205482,-79.0660608,True,False,False,S74242620
+117,commer,Common Merganser,Mergus merganser,L1083495,Cheshire Lake--Farnams causeway,2020-09-30 11:15,1.0,42.5388525,-73.183279,True,False,False,S74242168
+118,scatan,Scarlet Tanager,Piranga olivacea,L808984,Florence Marina SP,2020-09-30 11:12,1.0,32.0901374,-85.0438356,True,False,False,S74242438
+119,magwar,Magnolia Warbler,Setophaga magnolia,L389737,American Center Marsh,2020-09-30 11:10,1.0,42.4876453,-83.3025777,True,False,False,S74242577
+120,hawk,hawk sp.,Accipitridae sp. (hawk sp.),L12397243,"J.P. Moseley Park Trail, Stockbridge, Georgia, US (33.534, -84.164)",2020-09-30 11:10,1.0,33.5339355,-84.163716,True,False,True,S74242393
+121,pilwoo,Pileated Woodpecker,Dryocopus pileatus,L140299,SE Indianhead Acres (private residence),2020-09-30 11:08,2.0,30.4175453,-84.2526474,True,False,True,S74242284
+122,sancra,Sandhill Crane,Antigone canadensis,L12100477,"CascadeLibrary, Grand Rapids US-MI (42.9116,-85.5049)",2020-09-30 11:07,3.0,42.911597,-85.504853,True,False,True,S74241582
+123,caster1,Caspian Tern,Hydroprogne caspia,L12358124,"Island Beach State Park, Ocean Gate US-NJ 39.80828, -74.09327",2020-09-30 11:07,1.0,39.808278,-74.093274,True,False,True,S74242525
+124,semplo,Semipalmated Plover,Charadrius semipalmatus,L12358124,"Island Beach State Park, Ocean Gate US-NJ 39.80828, -74.09327",2020-09-30 11:07,5.0,39.808278,-74.093274,True,False,True,S74242525
+125,mutswa,Mute Swan,Cygnus olor,L12397277,"725 CR-629, Cape May Point US-NJ 38.94190, -74.96132",2020-09-30 11:07,6.0,38.941896,-74.961318,True,False,True,S74242623
+126,indbun,Indigo Bunting,Passerina cyanea,L1528209,Hibernia County Park--Birdell Rd. (Chambers Lake),2020-09-30 11:06,1.0,40.0353202,-75.8573724,True,False,False,S74242607
+127,amered,American Redstart,Setophaga ruticilla,L1528209,Hibernia County Park--Birdell Rd. (Chambers Lake),2020-09-30 11:06,1.0,40.0353202,-75.8573724,True,False,False,S74242607
+128,woosto,Wood Stork,Mycteria americana,L2437906,Florida Gulf Coast University,2020-09-30 11:06,1.0,26.4640421,-81.7741585,True,False,False,S74242892
+129,winwre3,Winter Wren,Troglodytes hiemalis,L1528209,Hibernia County Park--Birdell Rd. (Chambers Lake),2020-09-30 11:06,1.0,40.0353202,-75.8573724,True,False,False,S74242607
+130,babwar,Bay-breasted Warbler,Setophaga castanea,L5157456,Lyman Lake Boat Ramp,2020-09-30 11:05,1.0,34.994522,-82.1967903,True,False,False,S74242560
+131,ruckin,Ruby-crowned Kinglet,Regulus calendula,L1391635,State Game Lands 169--Cabin Rd.,2020-09-30 11:05,1.0,40.1526512,-77.4637105,True,False,False,S74243222
+132,dunlin,Dunlin,Calidris alpina,L869458,Bombay Hook NWR--Saltmarsh Boardwalk Trail,2020-09-30 11:05,12.0,39.2540522,-75.4608325,True,False,False,S74242262
+133,warble,warbler sp. (Parulidae sp.),Parulidae sp.,L1499732,Oak Top (Private),2020-09-30 11:05,2.0,41.8547833,-71.1776575,True,False,False,S74242900
+134,chswar,Chestnut-sided Warbler,Setophaga pensylvanica,L1391635,State Game Lands 169--Cabin Rd.,2020-09-30 11:05,1.0,40.1526512,-77.4637105,True,False,False,S74243222
+135,rehwoo,Red-headed Woodpecker,Melanerpes erythrocephalus,L1597517,Neuse River Trail--Abbotts Creek,2020-09-30 11:04,1.0,35.9147972,-78.5711377,True,False,False,S74243045
+136,yelwar,Yellow Warbler,Setophaga petechia,L12397119,"Long Leaf Park, Wilmington US-NC 34.20550, -77.88540",2020-09-30 11:04,1.0,34.205498,-77.885396,True,False,True,S74241676
+137,linspa,Lincoln's Sparrow,Melospiza lincolnii,L12007703,Palmer Rd. flooding,2020-09-30 11:04,2.0,43.968562,-83.883358,True,False,False,S74243261
+138,swaspa,Swamp Sparrow,Melospiza georgiana,L12007703,Palmer Rd. flooding,2020-09-30 11:04,3.0,43.968562,-83.883358,True,False,False,S74243261
+139,savspa,Savannah Sparrow,Passerculus sandwichensis,L12007703,Palmer Rd. flooding,2020-09-30 11:04,3.0,43.968562,-83.883358,True,False,False,S74243261
+140,semsan,Semipalmated Sandpiper,Calidris pusilla,L387180,Stewart B. McKinney NWR--Long Beach Blvd. Pond,2020-09-30 11:03,1.0,41.162017,-73.1551051,True,False,False,S74241992
+141,pinsis,Pine Siskin,Spinus pinus,L4697773,Savoy Mountain State Forest--Tannery Rd,2020-09-30 11:03,10.0,42.6220159,-73.0069613,True,False,False,S74241999
+142,gnwtea,Green-winged Teal,Anas crecca,L387180,Stewart B. McKinney NWR--Long Beach Blvd. Pond,2020-09-30 11:03,19.0,41.162017,-73.1551051,True,False,False,S74241992
+143,greyel,Greater Yellowlegs,Tringa melanoleuca,L387180,Stewart B. McKinney NWR--Long Beach Blvd. Pond,2020-09-30 11:03,6.0,41.162017,-73.1551051,True,False,False,S74241992
+144,ycnher,Yellow-crowned Night-Heron,Nyctanassa violacea,L387180,Stewart B. McKinney NWR--Long Beach Blvd. Pond,2020-09-30 11:03,1.0,41.162017,-73.1551051,True,False,False,S74241992
+145,woewar1,Worm-eating Warbler,Helmitheros vermivorum,L10233981,Townsend yard,2020-09-30 11:02,1.0,27.900141,-82.231151,True,False,True,S74241747
+146,easmea,Eastern Meadowlark,Sturnella magna,L605512,Polk Co. E. TN Tree Farm,2020-09-30 11:00,4.0,35.2411328,-84.5652008,True,False,True,S74242635
+147,rudduc,Ruddy Duck,Oxyura jamaicensis,L12397376,"Griggs Reservoir Park, Columbus US-OH 40.01913, -83.09368",2020-09-30 11:00,1.0,40.019129,-83.093678,True,False,True,S74243273
+148,amgplo,American Golden-Plover,Pluvialis dominica,L12397210,"525 Voganville Road, New Holland, Pennsylvania, US (40.123, -76.123)",2020-09-30 11:00,3.0,40.1232641,-76.1225378,True,False,True,S74242225
+149,yetwar,Yellow-throated Warbler,Setophaga dominica,L3435766,Eustis FWC Lab,2020-09-30 11:00,1.0,28.8485466,-81.6919105,True,False,True,S74242098
+150,musduc2,Muscovy Duck (Domestic type),Cairina moschata (Domestic type),L12397376,"Griggs Reservoir Park, Columbus US-OH 40.01913, -83.09368",2020-09-30 11:00,2.0,40.019129,-83.093678,True,False,True,S74243273
+151,botgra,Boat-tailed Grackle,Quiscalus major,L3435766,Eustis FWC Lab,2020-09-30 11:00,11.0,28.8485466,-81.6919105,True,False,True,S74242098
+152,crecar1,Crested Caracara,Caracara cheriway,L12397410,"27600–27634 SH-359, Realitos US-TX (27.3629,-98.7581)",2020-09-30 10:58,2.0,27.362937,-98.758076,True,False,True,S74243498
+153,hrshaw,Harris's Hawk,Parabuteo unicinctus,L12397410,"27600–27634 SH-359, Realitos US-TX (27.3629,-98.7581)",2020-09-30 10:58,2.0,27.362937,-98.758076,True,False,True,S74243498
+154,sctfly,Scissor-tailed Flycatcher,Tyrannus forficatus,L12397410,"27600–27634 SH-359, Realitos US-TX (27.3629,-98.7581)",2020-09-30 10:58,1.0,27.362937,-98.758076,True,False,True,S74243498
+155,comloo,Common Loon,Gavia immer,L3969862,Bear Springs Camp,2020-09-30 10:57,1.0,44.578211,-69.836151,True,False,True,S74241533
+156,truswa,Trumpeter Swan,Cygnus buccinator,L516894,Killbuck Marsh Wildlife Area--Clark Rd.,2020-09-30 10:56,6.0,40.6988608,-81.972084,True,False,False,S74242050
+157,brncre,Brown Creeper,Certhia americana,L717752,Hodenpyl Woods,2020-09-30 10:56,1.0,42.9581971,-85.609417,True,False,False,S74243474
+158,swallo,swallow sp.,Hirundinidae sp.,L928659,Lee Bucks Rd.,2020-09-30 10:55,3.0,34.1238844,-78.0358028,True,False,False,S74241233
+159,houwre,House Wren,Troglodytes aedon,L8044419,Scalloptown Park,2020-09-30 10:55,1.0,41.6500455,-71.4542406,True,False,False,S74243100
+160,cathus,Catharus sp.,Catharus sp.,L597819,UMASS demonstation forest-Franklin St,2020-09-30 10:55,1.0,42.2470727,-72.3684883,True,False,True,S74242110
+161,logshr,Loggerhead Shrike,Lanius ludovicianus,L405338,Frog Pond WMA--Lucky Hammock,2020-09-30 10:54,2.0,25.396439,-80.566581,True,False,False,S74242458
+162,wiltur,Wild Turkey,Meleagris gallopavo,L1367015,Waquoit Farms Drive East Falmouth,2020-09-30 10:54,12.0,41.589021,-70.52892,True,False,True,S74241137
+163,whcspa,White-crowned Sparrow,Zonotrichia leucophrys,L5864836,Muskallonge Lake SP,2020-09-30 10:53,3.0,46.6763615,-85.628451,True,False,False,S74243285
+164,comrav,Common Raven,Corvus corax,L9290482,Logans Pond,2020-09-30 10:53,1.0,42.9658441,-74.5908263,True,False,True,S74243430
+165,gycthr,Gray-cheeked Thrush,Catharus minimus,L5864836,Muskallonge Lake SP,2020-09-30 10:53,1.0,46.6763615,-85.628451,True,False,False,S74243285
+166,comgal1,Common Gallinule,Gallinula galeata,L11228548,"10409 Northwest 11th Street, Pembroke Pines, Florida, US (26.015, -80.286)",2020-09-30 10:52,1.0,26.0151347,-80.2864074,True,False,True,S74242734
+167,bbwduc,Black-bellied Whistling-Duck,Dendrocygna autumnalis,L452007,Orlando Wetlands Park,2020-09-30 10:52,2.0,28.5753263,-80.9966826,True,False,False,S74243378
+168,libher,Little Blue Heron,Egretta caerulea,L452007,Orlando Wetlands Park,2020-09-30 10:52,2.0,28.5753263,-80.9966826,True,False,False,S74243378
+169,pecsan,Pectoral Sandpiper,Calidris melanotos,L12211340,"New York 3, Fulton, New York, US (43.329, -76.471)",2020-09-30 10:52,2.0,43.3291017,-76.4705017,True,False,True,S74241406
+170,solsan,Solitary Sandpiper,Tringa solitaria,L12211340,"New York 3, Fulton, New York, US (43.329, -76.471)",2020-09-30 10:52,4.0,43.3291017,-76.4705017,True,False,True,S74241406
+171,egygoo,Egyptian Goose,Alopochen aegyptiaca,L11228548,"10409 Northwest 11th Street, Pembroke Pines, Florida, US (26.015, -80.286)",2020-09-30 10:52,43.0,26.0151347,-80.2864074,True,False,True,S74242734
+172,gadwal,Gadwall,Mareca strepera,L267814,Montezuma NWR--Wildlife Drive,2020-09-30 10:51,7.0,42.9817483,-76.7353284,True,False,False,S74241494
+173,duck1,duck sp.,Anatinae sp.,L779520,Harvey-Wangsness Wetland,2020-09-30 10:50,80.0,43.2909044,-89.3047929,True,False,False,S74243388
+174,calidr,peep sp.,Calidris sp. (peep sp.),L268000,Robert Moses SP,2020-09-30 10:49,20.0,40.6242696,-73.2622342,True,False,False,S74241699
+175,bkbwar,Blackburnian Warbler,Setophaga fusca,L9436494,"Spruce Pine Lane, Pisgah Forest NC",2020-09-30 10:49,1.0,35.224,-82.6858,True,False,True,S74243241
+176,herthr,Hermit Thrush,Catharus guttatus,L473621,"15 Mine Road, South Strafford",2020-09-30 10:49,1.0,43.8341321,-72.3571157,True,False,True,S74241326
+177,yetvir,Yellow-throated Vireo,Vireo flavifrons,L9436494,"Spruce Pine Lane, Pisgah Forest NC",2020-09-30 10:49,1.0,35.224,-82.6858,True,False,True,S74243241
+178,shshaw,Sharp-shinned Hawk,Accipiter striatus,L276107,Cape Island--CMP (Cape May Point),2020-09-30 10:48,2.0,38.9377865,-74.9670721,True,False,False,S74242347
+179,lesyel,Lesser Yellowlegs,Tringa flavipes,L6188602,Dooly Co. Rd. Farm Pond,2020-09-30 10:48,8.0,32.2915949,-83.88622,True,False,False,S74242198
+180,bnhcow,Brown-headed Cowbird,Molothrus ater,L6188602,Dooly Co. Rd. Farm Pond,2020-09-30 10:48,3.0,32.2915949,-83.88622,True,False,False,S74242198
+181,nrwswa,Northern Rough-winged Swallow,Stelgidopteryx serripennis,L6188602,Dooly Co. Rd. Farm Pond,2020-09-30 10:48,35.0,32.2915949,-83.88622,True,False,False,S74242198
+182,leasan,Least Sandpiper,Calidris minutilla,L6188602,Dooly Co. Rd. Farm Pond,2020-09-30 10:48,10.0,32.2915949,-83.88622,True,False,False,S74242198
+183,amewig,American Wigeon,Mareca americana,L234417,Fair Haven Beach SP,2020-09-30 10:47,101.0,43.3435645,-76.6991904,True,False,False,S74241687
+184,smafal,small falcon sp.,Falco sp. (small falcon sp.),L620756,Elys Ferry Landing,2020-09-30 10:46,1.0,41.3634108,-72.3762989,True,False,False,S74242841
+185,larus,gull sp.,Larinae sp.,L620756,Elys Ferry Landing,2020-09-30 10:46,5.0,41.3634108,-72.3762989,True,False,False,S74242841
+186,sposan,Spotted Sandpiper,Actitis macularius,L3737529,Bells Gap Trail,2020-09-30 10:45,1.0,40.6149583,-78.3647409,True,False,False,S74242992
+187,santer1,Sandwich Tern,Thalasseus sandvicensis,L12397399,"S Padre Island Dr, Corpus Christi US-TX 27.66336, -97.27218",2020-09-30 10:42,1.0,27.663361,-97.272177,True,False,True,S74243413
+188,neocor,Neotropic Cormorant,Phalacrocorax brasilianus,L12397399,"S Padre Island Dr, Corpus Christi US-TX 27.66336, -97.27218",2020-09-30 10:42,2.0,27.663361,-97.272177,True,False,True,S74243413
+189,rosspo1,Roseate Spoonbill,Platalea ajaja,L12397399,"S Padre Island Dr, Corpus Christi US-TX 27.66336, -97.27218",2020-09-30 10:42,1.0,27.663361,-97.272177,True,False,True,S74243413
+190,grtgra,Great-tailed Grackle,Quiscalus mexicanus,L12397399,"S Padre Island Dr, Corpus Christi US-TX 27.66336, -97.27218",2020-09-30 10:42,7.0,27.663361,-97.272177,True,False,True,S74243413
+191,gockin,Golden-crowned Kinglet,Regulus satrapa,L2854336,0_Jenks_60201,2020-09-30 10:41,2.0,42.067574,-87.69893,True,False,True,S74242908
+192,eucdov,Eurasian Collared-Dove,Streptopelia decaocto,L127373,"Lake Okeechobee--Okeechobee Recreation Area Lock 7, Jaycee Park",2020-09-30 10:37,1.0,27.1955353,-80.8312011,True,False,False,S74242996
+193,gloibi,Glossy Ibis,Plegadis falcinellus,L127373,"Lake Okeechobee--Okeechobee Recreation Area Lock 7, Jaycee Park",2020-09-30 10:37,2.0,27.1955353,-80.8312011,True,False,False,S74242996
+194,blugrb1,Blue Grosbeak,Passerina caerulea,L651593,Jordan Lake--B. Everett Jordan Dam,2020-09-30 10:37,4.0,35.6542495,-79.0678176,True,False,False,S74242161
+195,limpki,Limpkin,Aramus guarauna,L127373,"Lake Okeechobee--Okeechobee Recreation Area Lock 7, Jaycee Park",2020-09-30 10:37,2.0,27.1955353,-80.8312011,True,False,False,S74242996
+196,fragul,Franklin's Gull,Leucophaeus pipixcan,L12397311,"Haskell Indian Nations University, Lawrence US-KS 38.93926, -95.23133",2020-09-30 10:36,8.0,38.939257,-95.231332,True,False,True,S74242878
+197,lbbgul,Lesser Black-backed Gull,Larus fuscus,L5109360,Bartlett's Farm Area,2020-09-30 10:36,7.0,41.263832,-70.127843,True,False,True,S74241237
+198,cubthr,Curve-billed Thrasher,Toxostoma curvirostre,L5254868,Green Hill Cemetry,2020-09-30 10:33,1.0,27.3536448,-98.7504036,True,False,False,S74243323
+199,grekis,Great Kiskadee,Pitangus sulphuratus,L5254868,Green Hill Cemetry,2020-09-30 10:33,2.0,27.3536448,-98.7504036,True,False,False,S74243323
+200,labwoo,Ladder-backed Woodpecker,Dryobates scalaris,L5254868,Green Hill Cemetry,2020-09-30 10:33,1.0,27.3536448,-98.7504036,True,False,False,S74243323
+201,warvir,Warbling Vireo,Vireo gilvus,L5254868,Green Hill Cemetry,2020-09-30 10:33,1.0,27.3536448,-98.7504036,True,False,False,S74243323
+202,gofwoo,Golden-fronted Woodpecker,Melanerpes aurifrons,L5254868,Green Hill Cemetry,2020-09-30 10:33,2.0,27.3536448,-98.7504036,True,False,False,S74243323
+203,blctit4,Black-crested Titmouse,Baeolophus atricristatus,L5254868,Green Hill Cemetry,2020-09-30 10:33,1.0,27.3536448,-98.7504036,True,False,False,S74243323
+204,coukin,Couch's Kingbird,Tyrannus couchii,L5254868,Green Hill Cemetry,2020-09-30 10:33,1.0,27.3536448,-98.7504036,True,False,False,S74243323
+205,phivir,Philadelphia Vireo,Vireo philadelphicus,L11827289,"Historic Fairfax Family Grounds, Fort Belvoir US-restricted access",2020-09-30 10:31,1.0,38.678377,-77.129765,True,False,True,S74242126
+206,orcwar,Orange-crowned Warbler,Leiothlypis celata,L1854308,Arcadia Wildlife Sanctuary (Mass Audubon),2020-09-30 10:31,1.0,42.2892095,-72.6454518,True,False,False,S74243396
+207,y00322,Downy/Hairy Woodpecker,Dryobates pubescens/villosus,L5802516,"Clays Lane, Averill Park, NY",2020-09-30 10:30,1.0,42.6019,-73.564291,True,False,True,S74242839
+208,y00632,Mallard/Mottled Duck,Anas platyrhynchos/fulvigula,L3174475,"Backyard - Bradenton, FL",2020-09-30 10:29,2.0,27.4891167,-82.4996907,True,False,True,S74240281
+209,rebmer,Red-breasted Merganser,Mergus serrator,L4754703,Shifting Lots Preserve,2020-09-30 10:28,1.0,41.8401371,-70.53684,True,False,False,S74241404
+210,horlar,Horned Lark,Eremophila alpestris,L12397247,"9320 Van Wert Road, Homer, Michigan, US (42.138, -84.712)",2020-09-30 10:28,2.0,42.1381878,-84.7121413,True,False,True,S74242423
+211,grnjay,Green Jay,Cyanocorax yncas,L1391443,Ebony Hills Golf Course and surrounding residential area,2020-09-30 10:26,3.0,26.2863235,-98.1700573,True,False,True,S74243283
+212,sparro1,sparrow sp.,Passerellidae sp. (sparrow sp.),L12357474,Bishop Road yard (private),2020-09-30 10:25,2.0,41.7612312,-72.7333894,True,False,True,S74241712
+213,lobdow,Long-billed Dowitcher,Limnodromus scolopaceus,L151157,Silver Creek Reservoir,2020-09-30 10:25,2.0,44.037586,-92.357025,True,False,False,S74242950
+214,paibun,Painted Bunting,Passerina ciris,L3216995,Turkey Pond,2020-09-30 10:24,2.0,32.924843,-82.2469139,True,False,False,S74241569
+215,whwdov,White-winged Dove,Zenaida asiatica,L12397200,"202 D'Evereux Dr, Lafayette US-LA 30.15575, -92.08108",2020-09-30 10:21,1.0,30.155751,-92.081082,True,False,True,S74242155
+216,btbwar,Black-throated Blue Warbler,Setophaga caerulescens,L164552,Blendon Woods Metro Park,2020-09-30 10:21,1.0,40.0730854,-82.8726196,True,False,False,S74242149
+217,domgoo1,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),L9372690,"Jacobson Park, Lexington US-KY (37.9886,-84.4309)",2020-09-30 10:21,2.0,37.988611,-84.430881,True,False,True,S74241155
+218,mallar2,Mallard (Domestic type),Anas platyrhynchos (Domestic type),L9372690,"Jacobson Park, Lexington US-KY (37.9886,-84.4309)",2020-09-30 10:21,5.0,37.988611,-84.430881,True,False,True,S74241155
+219,swahaw,Swainson's Hawk,Buteo swainsoni,L7758673,"15010 U.S. 83, Garden City, Kansas, US (38.167, -100.884)",2020-09-30 10:21,43.0,38.1670395,-100.8835318,True,False,True,S74242317
+220,harspa,Harris's Sparrow,Zonotrichia querula,L10351038,"27499 190th St NW, Warren US-MN (48.1513,-96.6416)",2020-09-30 10:20,4.0,48.151318,-96.641622,True,False,True,S74242654
+221,passer1,passerine sp.,Passeriformes sp.,L11166898,Grand Central Boulevard,2020-09-30 10:20,4.0,37.0586397,-84.6327331,True,False,True,S74243094
+222,sumtan,Summer Tanager,Piranga rubra,L11166898,Grand Central Boulevard,2020-09-30 10:20,1.0,37.0586397,-84.6327331,True,False,True,S74243094
+223,bird1,bird sp.,Aves sp.,L11166898,Grand Central Boulevard,2020-09-30 10:20,1.0,37.0586397,-84.6327331,True,False,True,S74243094
+224,purgal2,Purple Gallinule,Porphyrio martinica,L4319522,Sharon Rose Wiechens Preserve,2020-09-30 10:20,5.0,28.8451812,-81.9517422,True,False,False,S74241516
+225,incdov,Inca Dove,Columbina inca,L12397279,"268 Riverside Dr, San Antonio US-TX 29.37691, -98.48201",2020-09-30 10:17,1.0,29.376905,-98.482009,True,False,True,S74242646
+226,marwre,Marsh Wren,Cistothorus palustris,L7133397,"3825 Virgil Boulevard (Restricted Access), New Orleans, Louisiana, US (29.998, -90.069)",2020-09-30 10:15,1.0,29.9983834,-90.0693183,True,False,True,S74243214
+227,accipi,Accipiter sp.,Accipiter sp.,L4922520,State Hill Hawk Watch,2020-09-30 10:13,1.0,40.3626567,-76.0398396,True,False,True,S74242005
+228,balori,Baltimore Oriole,Icterus galbula,L7984989,Lake Wright,2020-09-30 10:13,1.0,36.8809854,-76.1988865,True,False,False,S74241578
+229,y00476,Greater/Lesser Yellowlegs,Tringa melanoleuca/flavipes,L474356,Indian Trail Sewage Lagoon,2020-09-30 10:12,1.0,43.0885731,-82.4880123,True,False,False,S74240001
+230,ovenbi1,Ovenbird,Seiurus aurocapilla,L164553,"Green Lawn Cemetery, Columbus",2020-09-30 10:10,1.0,39.940098,-83.03271,True,False,False,S74242436
+231,buntin,Passerina sp.,Passerina sp.,L11931675,Brentwood area,2020-09-30 10:09,2.0,30.423578,-91.097367,True,False,True,S74242186
+232,compea,Indian Peafowl,Pavo cristatus,L9538024,Jax Heights yard,2020-09-30 10:07,1.0,30.218526,-81.795968,True,False,True,S74241641
+233,rinphe,Ring-necked Pheasant,Phasianus colchicus,L212389,Stevenson Rd. Game Farm and Compost,2020-09-30 10:07,1.0,42.446935,-76.4375442,True,False,False,S74239931
+234,prowar,Prothonotary Warbler,Protonotaria citrea,L7682942,My house,2020-09-30 10:06,1.0,26.2792258,-81.8269805,True,False,True,S74240218
+235,empido,Empidonax sp.,Empidonax sp.,L12397136,"32754, Mims US-FL 28.79097, -80.80746",2020-09-30 10:05,1.0,28.790966,-80.807458,True,False,True,S74241800
+236,buwwar,Blue-winged Warbler,Vermivora cyanoptera,L12397136,"32754, Mims US-FL 28.79097, -80.80746",2020-09-30 10:05,1.0,28.790966,-80.807458,True,False,True,S74241800
+237,leafly,Least Flycatcher,Empidonax minimus,L716808,Forty Fort Rec Fields,2020-09-30 10:05,1.0,41.2885454,-75.8652091,True,False,False,S74243459
+238,wren1,wren sp.,Troglodytidae sp.,L12396919,Bradford Woods Development,2020-09-30 10:05,2.0,40.2304623,-75.4846402,True,False,True,S74240556
+239,greroa,Greater Roadrunner,Geococcyx californianus,L8234088,1drivewayloop,2020-09-30 10:02,1.0,30.4057409,-98.2541489,True,False,True,S74243528
+240,wooscj2,Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,L8234088,1drivewayloop,2020-09-30 10:02,1.0,30.4057409,-98.2541489,True,False,True,S74243528
+241,rinduc,Ring-necked Duck,Aythya collaris,L1613027,Pine City WTP,2020-09-30 10:00,5.0,45.8469322,-92.9633773,True,False,False,S74243298
+242,shoreb1,shorebird sp.,Charadriiformes sp.,L207345,Assawompsett Ponds complex (please use more refined location),2020-09-30 10:00,1.0,41.8176265,-70.9079238,True,False,False,S74241601
+243,banswa,Bank Swallow,Riparia riparia,L207345,Assawompsett Ponds complex (please use more refined location),2020-09-30 10:00,1.0,41.8176265,-70.9079238,True,False,False,S74241601
+244,woothr,Wood Thrush,Hylocichla mustelina,L2171622,Tareyton Park and NE Ithaca Rec. Way,2020-09-30 10:00,1.0,42.4749353,-76.4600828,True,False,False,S74240512
+245,hoomer,Hooded Merganser,Lophodytes cucullatus,L1613027,Pine City WTP,2020-09-30 10:00,2.0,45.8469322,-92.9633773,True,False,False,S74243298
+246,grecor,Great Cormorant,Phalacrocorax carbo,L207345,Assawompsett Ponds complex (please use more refined location),2020-09-30 10:00,1.0,41.8176265,-70.9079238,True,False,False,S74241601
+247,fiespa,Field Sparrow,Spizella pusilla,L3754359,US-WI-Clyde-6681 Leaches Crossing Rd,2020-09-30 09:59,2.0,43.137306,-90.235978,True,False,True,S74242605
+248,dabduc1,dabbling duck sp.,Anatidae sp. (dabbling duck sp.),L99388,Montezuma NWR--Main Pool,2020-09-30 09:59,100.0,42.9796604,-76.7437077,True,False,False,S74240952
+249,archil1,Ruby-throated/Black-chinned Hummingbird,Archilochus colubris/alexandri,L225644,Port Aransas--Holt Paradise Pond,2020-09-30 09:57,8.0,27.835069,-97.072276,True,False,False,S74242077
+250,easkin,Eastern Kingbird,Tyrannus tyrannus,L225644,Port Aransas--Holt Paradise Pond,2020-09-30 09:57,1.0,27.835069,-97.072276,True,False,False,S74242077
+251,comeid,Common Eider,Somateria mollissima,L109146,Jones Beach SP--Coast Guard Station,2020-09-30 09:56,1.0,40.5888889,-73.5566667,True,False,False,S74241297
+252,ameoys,American Oystercatcher,Haematopus palliatus,L109146,Jones Beach SP--Coast Guard Station,2020-09-30 09:56,100.0,40.5888889,-73.5566667,True,False,False,S74241297
+253,purswa3,Gray-headed Swamphen,Porphyrio poliocephalus,L830108,Harns Marsh,2020-09-30 09:56,5.0,26.6496729,-81.6869336,True,False,False,S74242661
+254,shbdow,Short-billed Dowitcher,Limnodromus griseus,L109146,Jones Beach SP--Coast Guard Station,2020-09-30 09:56,2.0,40.5888889,-73.5566667,True,False,False,S74241297
+255,motduc,Mottled Duck,Anas fulvigula,L830108,Harns Marsh,2020-09-30 09:56,2.0,26.6496729,-81.6869336,True,False,False,S74242661
+256,comter,Common Tern,Sterna hirundo,L109146,Jones Beach SP--Coast Guard Station,2020-09-30 09:56,5.0,40.5888889,-73.5566667,True,False,False,S74241297
+257,redkno,Red Knot,Calidris canutus,L109146,Jones Beach SP--Coast Guard Station,2020-09-30 09:56,3.0,40.5888889,-73.5566667,True,False,False,S74241297
+258,blksco2,Black Scoter,Melanitta americana,L109146,Jones Beach SP--Coast Guard Station,2020-09-30 09:56,2.0,40.5888889,-73.5566667,True,False,False,S74241297
+259,grcfly,Great Crested Flycatcher,Myiarchus crinitus,L127422,Crandon Park,2020-09-30 09:55,1.0,25.7089712,-80.1536322,True,False,False,S74243389
+260,grykin,Gray Kingbird,Tyrannus dominicensis,L127422,Crandon Park,2020-09-30 09:55,1.0,25.7089712,-80.1536322,True,False,False,S74243389
+261,ameavo,American Avocet,Recurvirostra americana,L573788,Cedar Key--No. 4 Bridge & Fishing Pier,2020-09-30 09:55,22.0,29.1642664,-83.0271149,True,False,False,S74240336
+262,pipplo,Piping Plover,Charadrius melodus,L127422,Crandon Park,2020-09-30 09:55,8.0,25.7089712,-80.1536322,True,False,False,S74243389
+263,y00616,Yellow-billed/Black-billed Cuckoo,Coccyzus americanus/erythropthalmus,L291403,Washington Park (Urban Ecology Center),2020-09-30 09:54,1.0,43.0523481,-87.9668937,True,False,False,S74241504
+264,wlswar,Wilson's Warbler,Cardellina pusilla,L284586,"Wendy Park, Whiskey Island",2020-09-30 09:52,1.0,41.4991725,-81.7146913,True,False,False,S74240510
+265,flsjay,Florida Scrub-Jay,Aphelocoma coerulescens,L278595,Blue Spring SP,2020-09-30 09:51,4.0,28.942476,-81.3418172,True,False,False,S74242658
+266,flycat1,flycatcher sp. (Tyrannidae sp.),Tyrannidae sp.,L727106,Rock Creek Cemetery,2020-09-30 09:51,3.0,38.9479576,-77.0112044,True,False,False,S74242871
+267,wesmea,Western Meadowlark,Sturnella neglecta,L6475311,Little Egypt Park,2020-09-30 09:51,4.0,48.1560989,-103.0394351,True,False,False,S74242127
+268,amtspa,American Tree Sparrow,Spizelloides arborea,L6475311,Little Egypt Park,2020-09-30 09:51,1.0,48.1560989,-103.0394351,True,False,False,S74242127
+269,parjae,Parasitic Jaeger,Stercorarius parasiticus,L7933665,Canaveral National Seashore--Lot #5,2020-09-30 09:50,1.0,28.6636668,-80.6386568,True,False,False,S74239714
+270,amewoo,American Woodcock,Scolopax minor,L3181910,Shaver's Creek Env. Center--Boardwalk,2020-09-30 09:50,1.0,40.6665575,-77.9083326,True,False,False,S74242118
+271,towwar,Townsend's Warbler,Setophaga townsendi,L2296807,Animas River--Huck Finn Pond & Hatchery area,2020-09-30 09:50,1.0,37.2807117,-107.8743696,True,False,False,S74243324
+272,amedip,American Dipper,Cinclus mexicanus,L2296807,Animas River--Huck Finn Pond & Hatchery area,2020-09-30 09:50,1.0,37.2807117,-107.8743696,True,False,False,S74243324
+273,verfly,Vermilion Flycatcher,Pyrocephalus rubinus,L12397219,"137 N Nueces Park Ln, Harlingen US-TX 26.20118, -97.76511",2020-09-30 09:47,1.0,26.201183,-97.76511,True,False,True,S74242271
+274,calqua,California Quail,Callipepla californica,L143030,Boise,2020-09-30 09:45,1.0,43.6134911,-116.203949,True,False,True,S74243260
+275,bkbmag1,Black-billed Magpie,Pica hudsonia,L12357163,"9755 48 Road, Mesa, Colorado, US (39.148, -108.166)",2020-09-30 09:45,1.0,39.1477392,-108.1663793,True,False,True,S74243211
+276,bewwre,Bewick's Wren,Thryomanes bewickii,L12357163,"9755 48 Road, Mesa, Colorado, US (39.148, -108.166)",2020-09-30 09:45,1.0,39.1477392,-108.1663793,True,False,True,S74243211
+277,foxspa,Fox Sparrow,Passerella iliaca,L5780552,Duluth--4th Ave. E between 1st and 4th St.,2020-09-30 09:44,1.0,46.7928468,-92.0960712,True,False,True,S74241638
+278,clcspa,Clay-colored Sparrow,Spizella pallida,L5780552,Duluth--4th Ave. E between 1st and 4th St.,2020-09-30 09:44,1.0,46.7928468,-92.0960712,True,False,True,S74241638
+279,boboli,Bobolink,Dolichonyx oryzivorus,L1596312,Yard list: Garland/Cunningham,2020-09-30 09:44,2.0,38.9373233,-74.9318693,True,False,True,S74242868
+280,casfin,Cassin's Finch,Haemorhous cassinii,L12397392,"7870 Cedar Way, Park City US-UT 40.74605, -111.60090",2020-09-30 09:43,4.0,40.746048,-111.600903,True,False,True,S74243341
+281,sstspa,Saltmarsh Sparrow,Ammospiza caudacuta,L4776720,Witch Island,2020-09-30 09:43,1.0,42.9379358,-70.7973361,True,False,True,S74240619
+282,eutspa,Eurasian Tree Sparrow,Passer montanus,L7347008,Andrews Ave.,2020-09-30 09:43,4.0,38.5712518,-90.4202442,True,False,True,S74240916
+283,evegro,Evening Grosbeak,Coccothraustes vespertinus,L12397392,"7870 Cedar Way, Park City US-UT 40.74605, -111.60090",2020-09-30 09:43,1.0,40.746048,-111.600903,True,False,True,S74243341
+284,bkhpar,Nanday Parakeet,Aratinga nenday,L1877656,Pinecraft Park,2020-09-30 09:43,2.0,27.3189746,-82.5037765,True,False,False,S74242326
+285,y00612,Sharp-shinned/Cooper's Hawk,Accipiter striatus/cooperii,L1827172,Hockhocking Adena Bikeway--Armitage Rd.,2020-09-30 09:43,1.0,39.3424808,-82.1095116,True,False,False,S74242621
+286,veery,Veery,Catharus fuscescens,L1877656,Pinecraft Park,2020-09-30 09:43,1.0,27.3189746,-82.5037765,True,False,False,S74242326
+287,larspa,Lark Sparrow,Chondestes grammacus,L12397002,"62675, Petersburg US-IL 39.92250, -89.81555",2020-09-30 09:42,1.0,39.922499,-89.815551,True,False,True,S74240694
+288,crow,crow sp.,Corvus sp. (crow sp.),L2957441,Beezamer,2020-09-30 09:42,1.0,42.3907709,-76.407305,True,False,True,S74241393
+289,mouwar,Mourning Warbler,Geothlypis philadelphia,L281786,Cornell University--Beebe Lake,2020-09-30 09:41,1.0,42.4512932,-76.4767515,True,False,False,S74242452
+290,larus1,Larus sp.,Larus sp.,L11451238,"NY:TOM:Ithaca: S Turtle Ln Hawthorns, Cass Pk",2020-09-30 09:40,6.0,42.4457855,-76.5146111,True,False,True,S74241883
+291,monpar,Monk Parakeet,Myiopsitta monachus,L4230553,Snapper Creek Park,2020-09-30 09:39,3.0,25.6938206,-80.35857,True,False,False,S74241590
+292,grbani,Groove-billed Ani,Crotophaga sulcirostris,L1938222,White Point & Koonce Loop,2020-09-30 09:38,1.0,27.8710619,-97.4199343,True,False,False,S74242553
+293,canwar,Canada Warbler,Cardellina canadensis,L1938222,White Point & Koonce Loop,2020-09-30 09:38,1.0,27.8710619,-97.4199343,True,False,False,S74242553
+294,y00604,Cliff/Cave Swallow,Petrochelidon pyrrhonota/fulva,L1938222,White Point & Koonce Loop,2020-09-30 09:38,15.0,27.8710619,-97.4199343,True,False,False,S74242553
+295,lobthr,Long-billed Thrasher,Toxostoma longirostre,L1938222,White Point & Koonce Loop,2020-09-30 09:38,2.0,27.8710619,-97.4199343,True,False,False,S74242553
+296,rengre,Red-necked Grebe,Podiceps grisegena,L3972115,Ashmun Bay Park--boat launch,2020-09-30 09:38,1.0,46.4988025,-84.3749202,True,False,False,S74241626
+297,pygnut,Pygmy Nuthatch,Sitta pygmaea,L11658563,S Doubleheader Ranch Rd,2020-09-30 09:37,6.0,39.564014,-105.251305,True,False,True,S74243122
+298,scaqua,Scaled Quail,Callipepla squamata,L12396967,"79852, Terlingua US-TX 29.30245, -103.68112",2020-09-30 09:37,10.0,29.302446,-103.681116,True,False,True,S74240516
+299,stejay,Steller's Jay,Cyanocitta stelleri,L11658563,S Doubleheader Ranch Rd,2020-09-30 09:37,5.0,39.564014,-105.251305,True,False,True,S74243122
+300,mouchi,Mountain Chickadee,Poecile gambeli,L11658563,S Doubleheader Ranch Rd,2020-09-30 09:37,7.0,39.564014,-105.251305,True,False,True,S74243122
+301,rusbla,Rusty Blackbird,Euphagus carolinus,L466377,"Dillant-Hopkins Airport, Swanzey",2020-09-30 09:36,5.0,42.9010558,-72.2696972,True,False,False,S74239663
+302,rufgro,Ruffed Grouse,Bonasa umbellus,L12397358,"1377-1301 Souls Hill Road, Chemung, New York, US (42.066, -76.592)",2020-09-30 09:35,1.0,42.0659458,-76.5915915,True,False,True,S74243161
+303,yebcha,Yellow-breasted Chat,Icteria virens,L2729411,Starkey Wetland,2020-09-30 09:34,1.0,37.2031626,-80.0018339,True,False,False,S74242516
+304,bushti,Bushtit,Psaltriparus minimus,L131197,Netherwood Park Neighborhood,2020-09-30 09:33,12.0,35.1042061,-106.6195526,True,False,True,S74242820
+305,sora,Sora,Porzana carolina,L12396746,"Auto selected 41.47611, -82.17882",2020-09-30 09:33,1.0,41.476105,-82.178817,True,False,True,S74239289
+306,rensap,Red-naped Sapsucker,Sphyrapicus nuchalis,L1525666,Heikoop backyard,2020-09-30 09:30,1.0,35.8199822,-106.2023798,True,False,True,S74242504
+307,revbul,Red-vented Bulbul,Pycnonotus cafer,L5162198,"Glenwood Cemetery, Houston",2020-09-30 09:30,4.0,29.765346,-95.3849316,True,False,False,S74242506
+308,blackb,blackbird sp.,Icteridae sp.,L5422482,Dyer Farm,2020-09-30 09:29,500.0,42.340561,-83.652073,True,False,True,S74238355
+309,wilsni1,Wilson's Snipe,Gallinago delicata,L1159583,Caledonia WWTP (private appt. only- call 616-889-7937),2020-09-30 09:29,1.0,42.8064027,-85.5076303,True,False,False,S74238260
+310,stisan,Stilt Sandpiper,Calidris himantopus,L1722141,Gibson Generating Station--East Perimeter County Roads,2020-09-30 09:29,3.0,38.3483973,-87.7307506,True,False,False,S74241926
+311,bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,L5715402,Saint Simons Island--Harrington Park,2020-09-30 09:28,2.0,31.207383,-81.367973,True,False,False,S74239957
+312,y00033,Carolina/Black-capped Chickadee,Poecile carolinensis/atricapillus,L815528,Aspinwall,2020-09-30 09:28,1.0,40.4926754,-79.904341,True,False,True,S74241130
+313,y00627,Bay-breasted/Blackpoll Warbler,Setophaga castanea/striata,L584304,Hoyt Farm Town Park,2020-09-30 09:26,1.0,40.8249489,-73.2672215,True,False,False,S74243489
+314,rufhum,Rufous Hummingbird,Selasphorus rufus,L2388654,Shane Yard,2020-09-30 09:26,1.0,37.98014,-100.86064,True,False,True,S74240137
+315,brthum,Broad-tailed Hummingbird,Selasphorus platycercus,L12397261,"Denver Botanic Gardens, Denver US-CO 39.73147, -104.96280",2020-09-30 09:25,2.0,39.731466,-104.962797,True,False,True,S74242526
+316,norbob,Northern Bobwhite,Colinus virginianus,L9732504,Root Down Farm,2020-09-30 09:25,2.0,30.88672,-83.803077,True,False,True,S74241291
+317,spotow,Spotted Towhee,Pipilo maculatus,L12397261,"Denver Botanic Gardens, Denver US-CO 39.73147, -104.96280",2020-09-30 09:25,1.0,39.731466,-104.962797,True,False,True,S74242526
+318,jaeger,jaeger sp.,Stercorarius sp. (jaeger sp.),L2407676,Fort Gratiot County Park,2020-09-30 09:24,1.0,43.0825318,-82.4694836,True,False,False,S74240088
+319,eargre,Eared Grebe,Podiceps nigricollis,L10069476,Ridgway SP--Bay View Day Use Area,2020-09-30 09:23,1.0,38.2024623,-107.7367869,True,False,False,S74242411
+320,wesgre,Western Grebe,Aechmophorus occidentalis,L10069476,Ridgway SP--Bay View Day Use Area,2020-09-30 09:23,1.0,38.2024623,-107.7367869,True,False,False,S74242411
+321,calgul,California Gull,Larus californicus,L10069476,Ridgway SP--Bay View Day Use Area,2020-09-30 09:23,15.0,38.2024623,-107.7367869,True,False,False,S74242411
+322,cantow,Canyon Towhee,Melozone fusca,L12256346,Home,2020-09-30 09:21,2.0,35.8239784,-106.1990585,True,False,True,S74242811
+323,snogoo,Snow Goose,Anser caerulescens,L453285,Lakeside Park,2020-09-30 09:20,1.0,43.7980487,-88.4444582,True,False,False,S74241564
+324,rucspa,Rufous-crowned Sparrow,Aimophila ruficeps,L458089,Twin Buttes Reservoir,2020-09-30 09:19,2.0,31.3774555,-100.5366611,True,False,False,S74239851
+325,gowwar,Golden-winged Warbler,Vermivora chrysoptera,L164542,Elinor Klapp-Phipps Park,2020-09-30 09:15,1.0,30.535666,-84.28821,True,True,False,S74241287
+326,spbori,Spot-breasted Oriole,Icterus pectoralis,L200830,A. D. Barnes Park,2020-09-30 09:15,1.0,25.7340827,-80.3108552,True,False,False,S74240423
+327,lesgol,Lesser Goldfinch,Spinus psaltria,L579526,Inks Dam National Fish Hatchery,2020-09-30 09:15,2.0,30.7229857,-98.3884907,True,False,False,S74242285
+328,bkchum,Black-chinned Hummingbird,Archilochus alexandri,L579526,Inks Dam National Fish Hatchery,2020-09-30 09:15,2.0,30.7229857,-98.3884907,True,False,False,S74242285
+329,mdxmal1,Muscovy Duck x Mallard (hybrid),Cairina moschata x Anas platyrhynchos,L10400779,Sabal Point ponds,2020-09-30 09:15,1.0,28.695783,-81.411192,True,False,True,S74238818
+330,dickci,Dickcissel,Spiza americana,L10984924,Old Hebert House (private),2020-09-30 09:14,1.0,29.931299,-95.940761,True,False,False,S74241242
+331,shthaw,Short-tailed Hawk,Buteo brachyurus,L127329,Sawgrass Lake Park,2020-09-30 09:13,1.0,27.8398,-82.6705,True,False,False,S74243451
+332,waterf1,waterfowl sp.,Anatidae sp.,L12396822,"2105 E Fifth St, Metropolis",2020-09-30 09:07,10.0,37.162507,-88.689518,True,False,True,S74239710
+333,goose1,goose sp.,Anser/Branta sp.,L227225,Millbrook Marsh Nature Center,2020-09-30 09:06,1.0,40.8136811,-77.8364684,True,False,False,S74239157
+334,caskin,Cassin's Kingbird,Tyrannus vociferans,L12397199,"State Line Rd, Lordsburg US-NM (31.8154,-109.0489)",2020-09-30 09:05,1.0,31.815447,-109.048866,True,False,True,S74242147
+335,gamqua,Gambel's Quail,Callipepla gambelii,L12397199,"State Line Rd, Lordsburg US-NM (31.8154,-109.0489)",2020-09-30 09:05,25.0,31.815447,-109.048866,True,False,True,S74242147
+336,meadow,Western/Eastern Meadowlark,Sturnella neglecta/magna,L1073519,Katy Prairie Conserv.--Mary Manor,2020-09-30 09:04,3.0,29.8960942,-95.8932638,True,False,False,S74240872
+337,whthaw,White-tailed Hawk,Geranoaetus albicaudatus,L1073519,Katy Prairie Conserv.--Mary Manor,2020-09-30 09:04,1.0,29.8960942,-95.8932638,True,False,False,S74240872
+338,sagthr,Sage Thrasher,Oreoscoptes montanus,L142100,Santa Rosa Lake SP,2020-09-30 09:04,5.0,35.0357094,-104.6678162,True,False,False,S74243030
+339,gnttow,Green-tailed Towhee,Pipilo chlorurus,L142100,Santa Rosa Lake SP,2020-09-30 09:04,1.0,35.0357094,-104.6678162,True,False,False,S74243030
+340,plegad,Glossy/White-faced Ibis,Plegadis falcinellus/chihi,L8952411,Corbina Road,2020-09-30 09:03,4.0,30.1008814,-93.1624135,True,False,False,S74240720
+341,y00728,gull/tern sp.,Laridae sp.,L12272427,(Pond Creek Watershed)Pond Creek Path part of the Louisville Loop Manslick Road Trailhead,2020-09-30 09:01,10.0,38.1196507,-85.7975215,True,False,True,S74237864
+342,dendro3,Setophaga sp.,Setophaga sp.,L9927693,Melrose Heights Neighborhood,2020-09-30 09:00,2.0,34.005199,-80.995879,True,False,True,S74238983
+343,bkbcuc,Black-billed Cuckoo,Coccyzus erythropthalmus,L161004,Barnegat Lighthouse SP,2020-09-30 09:00,1.0,39.7633333,-74.1058333,True,False,False,S74241532
+344,brebla,Brewer's Blackbird,Euphagus cyanocephalus,L11063594,Quail Brush Creek Dr Loop,2020-09-30 08:59,4.0,38.9349425,-104.6965005,True,False,True,S74241765
+345,x00195,Carolina x Black-capped Chickadee (hybrid),Poecile carolinensis x atricapillus,L329082,Beechwood Farms Nature Reserve,2020-09-30 08:59,1.0,40.5434793,-79.9062252,True,False,False,S74240666
+346,saypho,Say's Phoebe,Sayornis saya,L11063594,Quail Brush Creek Dr Loop,2020-09-30 08:59,1.0,38.9349425,-104.6965005,True,False,True,S74241765
+347,lessca,Lesser Scaup,Aythya affinis,L1000726,UNM--Main Campus (including Duck Pond),2020-09-30 08:58,1.0,35.084377,-106.6203403,True,False,False,S74242736
+348,virrai,Virginia Rail,Rallus limicola,L603712,Mentor Marsh State Nature Preserve--Wake Robin,2020-09-30 08:58,1.0,41.7297856,-81.3189554,True,False,False,S74239330
+349,horgre,Horned Grebe,Podiceps auritus,L956899,Whitefish Point--Harbor of Refuge,2020-09-30 08:57,6.0,46.761323,-84.9646745,True,False,False,S74237383
+350,chirav,Chihuahuan Raven,Corvus cryptoleucus,L12397406,"I-19 S, Rio Rico US-AZ 31.52583, -111.02256",2020-09-30 08:56,1.0,31.525826,-111.022556,True,False,True,S74243469
+351,comnig,Common Nighthawk,Chordeiles minor,L4381960,Rock Creek Park--Equitation Field,2020-09-30 08:56,1.0,38.9491077,-77.0483004,True,False,True,S74239377
+352,buteo,Buteo sp.,Buteo sp.,L10861814,"Union Mills Road, Troy, Virginia, US",2020-09-30 08:55,1.0,37.9596809,-78.3194719,True,False,True,S74242925
+353,x00422,Mallard x Mottled Duck (hybrid),Anas platyrhynchos x fulvigula,L10860201,Margaritaville Resort parking Lot Preserve,2020-09-30 08:54,2.0,28.346623,-81.6055275,True,False,True,S74239156
+354,annhum,Anna's Hummingbird,Calypte anna,L8032690,"20937 Southwest Moline Court, Beaverton, Oregon, US (45.517, -122.892)",2020-09-30 08:52,1.0,45.5170878,-122.8924917,True,False,True,S74243320
+355,nutwoo,Nuttall's Woodpecker,Dryobates nuttallii,L10742574,"5610 Hazel Ave, Richmond US-CA 37.93843, -122.31823",2020-09-30 08:52,1.0,37.938428,-122.318227,True,False,True,S74243282
+356,whwsco2,White-winged Scoter,Melanitta deglandi,L842144,Two Lights SP,2020-09-30 08:51,3.0,43.5589517,-70.2049971,True,False,False,S74240238
+357,greshe,Great Shearwater,Ardenna gravis,L842144,Two Lights SP,2020-09-30 08:51,2.0,43.5589517,-70.2049971,True,False,False,S74240238
+358,norgan,Northern Gannet,Morus bassanus,L842144,Two Lights SP,2020-09-30 08:51,65.0,43.5589517,-70.2049971,True,False,False,S74240238
+359,vultur1,new world vulture sp.,Cathartidae sp.,L684279,Saluda Shoals Park,2020-09-30 08:50,1.0,34.0486151,-81.1829352,True,False,False,S74241798
+360,chbchi,Chestnut-backed Chickadee,Poecile rufescens,L713500,San Simeon SP,2020-09-30 08:47,2.0,35.5968718,-121.1235286,True,False,False,S74243307
+361,cowscj1,California Scrub-Jay,Aphelocoma californica,L713500,San Simeon SP,2020-09-30 08:47,1.0,35.5968718,-121.1235286,True,False,False,S74243307
+362,baisan,Baird's Sandpiper,Calidris bairdii,L11136202,River Valley Drive,2020-09-30 08:45,1.0,38.7168804,-90.502147,True,False,True,S74240132
+363,whimbr,Whimbrel,Numenius phaeopus,L12396727,Weff Rd. Docks and surrounding neighborhood,2020-09-30 08:45,1.0,29.794771,-81.26347,True,False,True,S74239149
+364,gubter1,Gull-billed Tern,Gelochelidon nilotica,L12396727,Weff Rd. Docks and surrounding neighborhood,2020-09-30 08:45,1.0,29.794771,-81.26347,True,False,True,S74239149
+365,clarai11,Clapper Rail,Rallus crepitans,L12396727,Weff Rd. Docks and surrounding neighborhood,2020-09-30 08:45,2.0,29.794771,-81.26347,True,False,True,S74239149
+366,wessan,Western Sandpiper,Calidris mauri,L12396727,Weff Rd. Docks and surrounding neighborhood,2020-09-30 08:45,2.0,29.794771,-81.26347,True,False,True,S74239149
+367,y00338,House/Purple Finch,Haemorhous mexicanus/purpureus,L10746200,Backyard,2020-09-30 08:44,2.0,41.507726,-71.423529,True,False,True,S74238108
+368,altori,Altamira Oriole,Icterus gularis,L10576735,"2800–2804 Bentsen State Park Rd 43, Mission US-TX (26.1858,-98.3797)",2020-09-30 08:43,1.0,26.185775,-98.379724,True,False,True,S74241939
+369,woodpe1,woodpecker sp.,Picidae sp.,L10576735,"2800–2804 Bentsen State Park Rd 43, Mission US-TX (26.1858,-98.3797)",2020-09-30 08:43,1.0,26.185775,-98.379724,True,False,True,S74241939
+370,wesblu,Western Bluebird,Sialia mexicana,L6444005,UNM--North Golf Course,2020-09-30 08:42,1.0,35.098239,-106.621195,True,False,False,S74242547
+371,glwgul,Glaucous-winged Gull,Larus glaucescens,L12397356,"91 Sunset Avenue, Edmonds, Washington, US (47.812, -122.382)",2020-09-30 08:42,,47.8119365,-122.3819391,True,False,True,S74243151
+372,bracor,Brandt's Cormorant,Phalacrocorax penicillatus,L12397356,"91 Sunset Avenue, Edmonds, Washington, US (47.812, -122.382)",2020-09-30 08:42,,47.8119365,-122.3819391,True,False,True,S74243151
+373,cacgoo1,Cackling Goose,Branta hutchinsii,L277453,Lower Wisconsin SR--Bakken's Pond Unit,2020-09-30 08:41,4.0,43.1748874,-90.1545571,True,False,False,S74239796
+374,zonotr1,Zonotrichia sp.,Zonotrichia sp.,L2884763,Cut Bank--Swimming Pool Park,2020-09-30 08:41,1.0,48.6333714,-112.3411465,True,False,False,S74242442
+375,nutman,Scaly-breasted Munia,Lonchura punctulata,L12021201,"105 Keplar Pl, Fairhope US-AL 30.56211, -87.88458",2020-09-30 08:40,1.0,30.562111,-87.884576,True,False,True,S74242945
+376,acowoo,Acorn Woodpecker,Melanerpes formicivorus,L8381464,"2430 Canyon Glen Road, Los Alamos, New Mexico, US (35.901, -106.323)",2020-09-30 08:38,2.0,35.9005423,-106.3230029,True,False,True,S74240528
+377,grnkin,Green Kingfisher,Chloroceryle americana,L770565,South Padre Is.--Birding and Nature Center,2020-09-30 08:38,1.0,26.1374859,-97.1735573,True,False,False,S74242885
+378,abetow,Abert's Towhee,Melozone aberti,L9839788,901 Home,2020-09-30 08:38,1.0,33.466725,-112.062825,True,False,True,S74242872
+379,trokin,Tropical Kingbird,Tyrannus melancholicus,L770565,South Padre Is.--Birding and Nature Center,2020-09-30 08:38,3.0,26.1374859,-97.1735573,True,False,False,S74242885
+380,orcori,Orchard Oriole,Icterus spurius,L770565,South Padre Is.--Birding and Nature Center,2020-09-30 08:38,2.0,26.1374859,-97.1735573,True,False,False,S74242885
+381,leabit,Least Bittern,Ixobrychus exilis,L770565,South Padre Is.--Birding and Nature Center,2020-09-30 08:38,1.0,26.1374859,-97.1735573,True,False,False,S74242885
+382,y00324,Alder/Willow Flycatcher (Traill's Flycatcher),Empidonax alnorum/traillii,L770565,South Padre Is.--Birding and Nature Center,2020-09-30 08:38,2.0,26.1374859,-97.1735573,True,False,False,S74242885
+383,pyrrhu,Pyrrhuloxia,Cardinalis sinuatus,L12396692,"79842, Marathon US-TX 30.21225, -103.25482",2020-09-30 08:36,1.0,30.212248,-103.25482,True,False,True,S74238882
+384,easowl1,Eastern Screech-Owl,Megascops asio,L12396777,Near Canpground,2020-09-30 08:35,1.0,35.957801,-83.53701,True,False,True,S74239439
+385,blkski,Black Skimmer,Rynchops niger,L498948,Siesta Key Public Beach,2020-09-30 08:35,80.0,27.2643958,-82.5517845,True,False,False,S74237832
+386,snoplo5,Snowy Plover,Charadrius nivosus,L498948,Siesta Key Public Beach,2020-09-30 08:35,2.0,27.2643958,-82.5517845,True,False,False,S74237832
+387,wesgul,Western Gull,Larus occidentalis,L560458,Monterey Bay Aquarium,2020-09-30 08:33,2.0,36.6183407,-121.9016623,True,False,False,S74242935
+388,pelcor,Pelagic Cormorant,Phalacrocorax pelagicus,L560458,Monterey Bay Aquarium,2020-09-30 08:33,4.0,36.6183407,-121.9016623,True,False,False,S74242935
+389,pinjay,Pinyon Jay,Gymnorhinus cyanocephalus,L1984266,Tijeras Ranger Station,2020-09-30 08:33,30.0,35.0744073,-106.3841182,True,False,False,S74242139
+390,blkoys,Black Oystercatcher,Haematopus bachmani,L560458,Monterey Bay Aquarium,2020-09-30 08:33,2.0,36.6183407,-121.9016623,True,False,False,S74242935
+391,towsol,Townsend's Solitaire,Myadestes townsendi,L1984266,Tijeras Ranger Station,2020-09-30 08:33,3.0,35.0744073,-106.3841182,True,False,False,S74242139
+392,gocspa,Golden-crowned Sparrow,Zonotrichia atricapilla,L11457112,"Bay Ridge Trail --public access gate, Pacifica US-CA",2020-09-30 08:30,4.0,37.6327227,-122.4742572,True,False,False,S74243167
+393,oaktit,Oak Titmouse,Baeolophus inornatus,L1946202,home,2020-09-30 08:30,1.0,40.667104,-122.3098174,True,False,True,S74243371
+394,caltow,California Towhee,Melozone crissalis,L11457112,"Bay Ridge Trail --public access gate, Pacifica US-CA",2020-09-30 08:30,1.0,37.6327227,-122.4742572,True,False,False,S74243167
+395,blkpho,Black Phoebe,Sayornis nigricans,L1295042,Bufferlands--Black Crown Lake (limited access),2020-09-30 08:27,2.0,38.440615,-121.4850998,True,False,True,S74242584
+396,mallar,Mallard/Mexican Duck,Anas platyrhynchos/diazi,L264663,Kachina Wetlands,2020-09-30 08:27,14.0,35.1096843,-111.6895866,True,False,False,S74243436
+397,moublu,Mountain Bluebird,Sialia currucoides,L12391921,"82 Echo Trail, Cameron US-MT 44.82239, -111.54641",2020-09-30 08:25,8.0,44.822389,-111.546413,True,False,True,S74240536
+398,teal,teal sp.,Anatidae sp. (teal sp.),L1397102,Lickinghole Creek,2020-09-30 08:24,1.0,38.0603747,-78.6677957,True,True,False,S74238042
+399,clanut,Clark's Nutcracker,Nucifraga columbiana,L11007137,"117 Meadowlark Trail, Jefferson City US-MT 46.38699, -112.06890",2020-09-30 08:24,2.0,46.386991,-112.068896,True,False,True,S74241861
+400,snakit,Snail Kite,Rostrhamus sociabilis,L772833,Ralph V. Chisholm Regional Park,2020-09-30 08:23,1.0,28.2782779,-81.2518787,True,False,False,S74240962
+401,redcro,Red Crossbill,Loxia curvirostra,L12397192,"180 S Parker Rd, Coupeville US-WA 48.20891, -122.62398",2020-09-30 08:19,5.0,48.208906,-122.623975,True,False,True,S74242117
+402,pacwre1,Pacific Wren,Troglodytes pacificus,L12397192,"180 S Parker Rd, Coupeville US-WA 48.20891, -122.62398",2020-09-30 08:19,1.0,48.208906,-122.623975,True,False,True,S74242117
+403,dove1,pigeon/dove sp.,Columbidae sp.,L9362117,"Dyck Arboretum of the Plains, West Hickory Street, Hesston, KS",2020-09-30 08:18,4.0,38.129406,-97.433897,True,False,True,S74241314
+404,canwre,Canyon Wren,Catherpes mexicanus,L1577326,Austin Home,2020-09-30 08:18,1.0,42.8198823,-108.8135265,True,False,True,S74239846
+405,coshum,Costa's Hummingbird,Calypte costae,L12355098,Countryside Heights,2020-09-30 08:17,1.0,32.3696974,-111.0708279,True,False,True,S74242493
+406,phaino,Phainopepla,Phainopepla nitens,L12355098,Countryside Heights,2020-09-30 08:17,1.0,32.3696974,-111.0708279,True,False,True,S74242493
+407,gryfly,Gray Flycatcher,Empidonax wrightii,L9861160,Buffalo Thunder Casino Ponds (view from parking lot only),2020-09-30 08:17,1.0,35.8591521,-105.994053,True,False,False,S74241875
+408,oriole,new world oriole sp.,Icterus sp.,L9669890,Lake Creek Trail--East (Williamson Co.),2020-09-30 08:17,1.0,30.4626635,-97.7598189,True,False,False,S74241292
+409,gilwoo,Gila Woodpecker,Melanerpes uropygialis,L12355098,Countryside Heights,2020-09-30 08:17,1.0,32.3696974,-111.0708279,True,False,True,S74242493
+410,bknsti,Black-necked Stilt,Himantopus mexicanus,L987064,Grand Isle--Exxon fields,2020-09-30 08:17,2.0,29.247071,-89.9725771,True,False,False,S74238994
+411,brnowl,Barn Owl,Tyto alba,L421224,Heritage Community Park and Natural Area,2020-09-30 08:16,1.0,37.2397586,-80.457859,True,False,False,S74239053
+412,chicka1,chickadee sp.,Poecile sp.,L1109025,Ashford - 54802 306th Avenue East,2020-09-30 08:15,1.0,46.7609143,-122.01931,True,False,True,S74243456
+413,y00225,Gray-cheeked/Bicknell's Thrush,Catharus minimus/bicknelli,L6712649,Unadilla (TC Home),2020-09-30 08:15,1.0,32.274231,-83.6298097,True,False,True,S74238779
+414,y00470,Cackling/Canada Goose,Branta hutchinsii/canadensis,L3011029,Spring Garden City Park,2020-09-30 08:14,16.0,45.4629957,-122.7108586,True,False,False,S74243338
+415,wewpew,Western Wood-Pewee,Contopus sordidulus,L11766981,Rome Lane,2020-09-30 08:13,1.0,35.251673,-106.600858,True,False,True,S74239705
+416,hamfly,Hammond's Flycatcher,Empidonax hammondii,L11766981,Rome Lane,2020-09-30 08:13,1.0,35.251673,-106.600858,True,False,True,S74239705
+417,seaspa,Seaside Sparrow,Ammospiza maritima,L12396520,"30501–30599 LA-1, Golden Meadow US-LA 29.18960, -90.08599",2020-09-30 08:12,2.0,29.189601,-90.085994,True,False,True,S74237845
+418,y00012,Western/Clark's Grebe,Aechmophorus occidentalis/clarkii,L165048,Farmington Bay WMA,2020-09-30 08:11,25.0,40.955141,-111.9191396,True,False,False,S74241360
+419,whiegr1,white egret sp.,Ardea/Egretta/Bubulcus sp.,L165048,Farmington Bay WMA,2020-09-30 08:11,2.0,40.955141,-111.9191396,True,False,False,S74241360
+420,sterna,Sterna sp.,Sterna sp.,L165048,Farmington Bay WMA,2020-09-30 08:11,1.0,40.955141,-111.9191396,True,False,False,S74241360
+421,clagre,Clark's Grebe,Aechmophorus clarkii,L165048,Farmington Bay WMA,2020-09-30 08:11,2.0,40.955141,-111.9191396,True,False,False,S74241360
+422,falcon,falcon sp.,Falco sp.,L165048,Farmington Bay WMA,2020-09-30 08:11,1.0,40.955141,-111.9191396,True,False,False,S74241360
+423,spizel1,Spizella sp.,Spizella sp.,L165048,Farmington Bay WMA,2020-09-30 08:11,8.0,40.955141,-111.9191396,True,False,False,S74241360
+424,whfibi,White-faced Ibis,Plegadis chihi,L165048,Farmington Bay WMA,2020-09-30 08:11,7.0,40.955141,-111.9191396,True,False,False,S74241360
+425,batpig1,Band-tailed Pigeon,Patagioenas fasciata,L4953579,Beaumont - Wilshire / Grant Park Neighborhood,2020-09-30 08:11,7.0,45.545059,-122.627326,True,False,True,S74242514
+426,allhum,Allen's Hummingbird,Selasphorus sasin,L4896569,Campesino Place,2020-09-30 08:10,2.0,33.1870206,-117.3381042,True,False,True,S74242144
+427,gragoo1,Graylag Goose (Domestic type),Anser anser (Domestic type),L620092,Old Reid Park,2020-09-30 08:10,1.0,39.9487006,-83.7551308,True,False,False,S74240034
+428,sedwre,Sedge Wren,Cistothorus platensis,L337282,Runge Conservation Nature Center,2020-09-30 08:07,1.0,38.5891011,-92.2316623,True,False,False,S74241241
+429,swawar,Swainson's Warbler,Limnothlypis swainsonii,L229579,Everglades NP--Long Pine Key Campground & Trail,2020-09-30 08:07,1.0,25.3985091,-80.6554395,True,False,False,S74239163
+430,blkgui,Black Guillemot,Cepphus grylle,L272667,Dyer Point,2020-09-30 08:07,3.0,43.5653323,-70.1971416,True,False,False,S74239553
+431,vesspa,Vesper Sparrow,Pooecetes gramineus,L264663,Kachina Wetlands,2020-09-30 08:06,10.0,35.1096843,-111.6895866,True,False,False,S74242265
+432,grackl,grackle sp.,Quiscalus sp.,L10213821,"SE Alligator Gln, Lake City US-FL (30.1671,-82.6156)",2020-09-30 08:06,4.0,30.167144,-82.615646,True,False,True,S74242758
+433,goleag,Golden Eagle,Aquila chrysaetos,L12396766,"3419–3499 Belfry Hwy, Powell US-WY 44.96228, -109.05780",2020-09-30 08:05,1.0,44.962281,-109.057799,True,False,True,S74239398
+434,westan,Western Tanager,Piranga ludoviciana,L2505621,"Soquel, Crestline Way",2020-09-30 08:05,1.0,36.9936841,-121.9470379,True,False,True,S74242785
+435,larbun,Lark Bunting,Calamospiza melanocorys,L882592,"McAlister Park, Lubbock",2020-09-30 08:04,1.0,33.5422531,-101.9487476,True,False,False,S74238885
+436,amebit,American Bittern,Botaurus lentiginosus,L5904065,Dallas Hunting and Fishing Club (Private Limited Access),2020-09-30 08:04,1.0,32.6528068,-96.671889,True,False,True,S74242048
+437,hummin,hummingbird sp.,Trochilidae sp.,L5904065,Dallas Hunting and Fishing Club (Private Limited Access),2020-09-30 08:04,2.0,32.6528068,-96.671889,True,False,True,S74242048
+438,cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L5904065,Dallas Hunting and Fishing Club (Private Limited Access),2020-09-30 08:04,2.0,32.6528068,-96.671889,True,False,True,S74242048
+439,btywar,Black-throated Gray Warbler,Setophaga nigrescens,L373922,Heather Farm Park,2020-09-30 08:03,1.0,37.9209496,-122.0434338,True,False,False,S74243508
+440,gragoo4,Graylag Goose (Domestic type) x Canada Goose (hybrid),Anser anser (Domestic type) x Branta canadensis,L11995535,River Pointe Apartments,2020-09-30 08:01,2.0,41.6710225,-86.1059688,True,False,True,S74236388
+441,miskit,Mississippi Kite,Ictinia mississippiensis,L1008785,306 Mission Rd/Power station (Parakeet colony),2020-09-30 08:01,1.0,29.3972441,-98.4890494,True,False,False,S74239261
+442,y00983,Black-capped/Mountain Chickadee,Poecile atricapillus/gambeli,L9341890,"Illinois St to Deadman Gulch, Golden US-CO (39.7406,-105.2150)",2020-09-30 08:01,1.0,39.740597,-105.214961,True,False,True,S74243343
+443,verdin,Verdin,Auriparus flaviceps,L762169,Himmel Park,2020-09-30 08:00,4.0,32.2334226,-110.9327316,True,False,False,S74243450
+444,plsvir,Plumbeous Vireo,Vireo plumbeus,L762169,Himmel Park,2020-09-30 08:00,1.0,32.2334226,-110.9327316,True,False,False,S74243450
+445,cavswa,Cave Swallow,Petrochelidon fulva,L343037,Brazos River Valley Trail (PPW-W 003),2020-09-30 08:00,3.0,30.1721509,-96.2045545,True,False,False,S74241530
+446,nstspa,Nelson's Sparrow,Ammospiza nelsoni,L2706753,Pipestone Indian State WMA,2020-09-30 07:59,1.0,44.0210888,-96.3290477,True,False,False,S74239037
+447,hutvir,Hutton's Vireo,Vireo huttoni,L246114,Cibolo Nature Ctr. (HOTE 078),2020-09-30 07:59,1.0,29.7812891,-98.7096262,True,False,False,S74239052
+448,piggui,Pigeon Guillemot,Cepphus columba,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,4.0,47.6603,-122.50262,True,False,True,S74242701
+449,purmar,Purple Martin,Progne subis,L1609082,Indian Spring (restricted access/private golf course),2020-09-30 07:58,1.0,26.5052081,-80.1399958,True,False,True,S74237345
+450,finch1,finch sp.,Fringillidae sp.,L281786,Cornell University--Beebe Lake,2020-09-30 07:58,4.0,42.4512932,-76.4767515,True,False,False,S74238023
+451,mewgul,Mew Gull,Larus canus,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,13.0,47.6603,-122.50262,True,False,True,S74242701
+452,rhiauk,Rhinoceros Auklet,Cerorhinca monocerata,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,2.0,47.6603,-122.50262,True,False,True,S74242701
+453,cormor1,cormorant sp.,Phalacrocoracidae sp.,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,20.0,47.6603,-122.50262,True,False,True,S74242701
+454,pacloo,Pacific Loon,Gavia pacifica,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,1.0,47.6603,-122.50262,True,False,True,S74242701
+455,renpha,Red-necked Phalarope,Phalaropus lobatus,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,40.0,47.6603,-122.50262,True,False,True,S74242701
+456,y00656,Western/Glaucous-winged Gull,Larus occidentalis/glaucescens,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,4.0,47.6603,-122.50262,True,False,True,S74242701
+457,redegr,Reddish Egret,Egretta rufescens,L4608839,Anna Maria Island--Bean Point,2020-09-30 07:58,1.0,27.5372054,-82.7455044,True,False,False,S74237297
+458,sursco,Surf Scoter,Melanitta perspicillata,L3153773,Bainbridge Island - Skiff Point,2020-09-30 07:58,13.0,47.6603,-122.50262,True,False,True,S74242701
+459,bktgna,Black-tailed Gnatcatcher,Polioptila melanura,L1090218,Lake Mead NRA--Telephone Cove,2020-09-30 07:57,1.0,35.231248,-114.5719528,True,False,False,S74243245
+460,bktspa,Black-throated Sparrow,Amphispiza bilineata,L1090218,Lake Mead NRA--Telephone Cove,2020-09-30 07:57,11.0,35.231248,-114.5719528,True,False,False,S74243245
+461,thrush1,thrush sp.,Turdidae sp.,L6445575,*Moses Cone Memorial Park--Trout Lake,2020-09-30 07:55,1.0,36.1560943,-81.6948938,True,False,True,S74243068
+462,lawgol,Lawrence's Goldfinch,Spinus lawrencei,L6688547,"735 Sonja Ave, Ridgecrest US-CA (35.6363,-117.6852)",2020-09-30 07:55,8.0,35.63634,-117.685207,True,False,True,S74243206
+463,cacwre,Cactus Wren,Campylorhynchus brunneicapillus,L756149,Lincoln Park--Atturbury Wash,2020-09-30 07:54,1.0,32.1740142,-110.8135986,True,False,False,S74241925
+464,whtswi,White-throated Swift,Aeronautes saxatalis,L2264623,Grand Canyon NP--Grandview Point,2020-09-30 07:54,1.0,35.9975909,-111.9878483,True,False,False,S74240118
+465,laplon,Lapland Longspur,Calcarius lapponicus,L164179,Wisconsin Point,2020-09-30 07:53,10.0,46.701584,-92.00827,True,False,False,S74239182
+466,indpea1,Indian Peafowl (Domestic type),Pavo cristatus (Domestic type),L12154996,"14531 River Forest Dr, Houston US-TX 29.76449, -95.60448",2020-09-30 07:52,2.0,29.76449,-95.604481,True,False,True,S74238766
+467,heegul,Heermann's Gull,Larus heermanni,L467222,Richmond Beach Saltwater Park,2020-09-30 07:51,5.0,47.7635752,-122.3851633,True,False,False,S74242886
+468,gwfgoo,Greater White-fronted Goose,Anser albifrons,L1294688,Sacramento Reg Wastewater Treatment Plant (limited access),2020-09-30 07:51,6.0,38.4407495,-121.4792633,True,False,False,S74242107
+469,tern1,tern sp.,Sterninae sp.,L4385399,ACBS surveys ONLY--May Day Park,2020-09-30 07:51,25.0,30.6061517,-87.9126513,True,False,False,S74239751
+470,yecpar,Yellow-chevroned Parakeet,Brotogeris chiriri,L200830,A. D. Barnes Park,2020-09-30 07:51,2.0,25.7340827,-80.3108552,True,False,False,S74240651
+471,chukar,Chukar,Alectoris chukar,L12396685,"717–759 MT-72, Bearcreek US-MT 45.11217, -109.01725",2020-09-30 07:48,1.0,45.112171,-109.017252,True,False,True,S74238839
+472,y00327,Tufted/Black-crested Titmouse,Baeolophus bicolor/atricristatus,L11404399,"811 E Whitehead St, Smithville US-TX 30.00854, -97.14499",2020-09-30 07:45,2.0,30.00854,-97.144989,True,False,True,S74238504
+473,redjun1,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),L1449547,Clarence S. Higgs Memorial Beach,2020-09-30 07:45,8.0,24.546979,-81.78753,True,False,False,S74237374
+474,whcpig2,White-crowned Pigeon,Patagioenas leucocephala,L1449547,Clarence S. Higgs Memorial Beach,2020-09-30 07:45,1.0,24.546979,-81.78753,True,False,False,S74237374
+475,rocwre,Rock Wren,Salpinctes obsoletus,L7127054,Las Cruces-- West Mesa WTP,2020-09-30 07:44,1.0,32.2581858,-106.9098222,True,False,False,S74243015
+476,astfly,Ash-throated Flycatcher,Myiarchus cinerascens,L458089,Twin Buttes Reservoir,2020-09-30 07:44,1.0,31.3774555,-100.5366611,True,False,False,S74239707
+477,cintea,Cinnamon Teal,Spatula cyanoptera,L7127054,Las Cruces-- West Mesa WTP,2020-09-30 07:44,5.0,32.2581858,-106.9098222,True,False,False,S74243015
+478,lecspa,LeConte's Sparrow,Ammospiza leconteii,L12175446,Anderson Wildlife Area,2020-09-30 07:43,4.0,41.0267719,-95.1856972,True,False,False,S74241679
+479,bkhgro,Black-headed Grosbeak,Pheucticus melanocephalus,L197835,1 - Rick 'n' Mo's - Private,2020-09-30 07:43,1.0,32.8178367,-116.9244218,True,False,True,S74243036
+480,bncfly,Brown-crested Flycatcher,Myiarchus tyrannulus,L4254459,Brownsville Hike & Bike Trail,2020-09-30 07:42,1.0,25.9425249,-97.4908036,True,False,True,S74238070
+481,recpar,Red-crowned Parrot,Amazona viridigenalis,L4254459,Brownsville Hike & Bike Trail,2020-09-30 07:42,4.0,25.9425249,-97.4908036,True,False,True,S74238070
+482,y00001,Rufous/Allen's Hummingbird,Selasphorus rufus/sasin,L2169574,"Yard Birds, Encinitas",2020-09-30 07:42,5.0,33.0409751,-117.2410297,True,False,True,S74241213
+483,placha,Plain Chachalaca,Ortalis vetula,L4254459,Brownsville Hike & Bike Trail,2020-09-30 07:42,1.0,25.9425249,-97.4908036,True,False,True,S74238070
+484,yehpar,Yellow-headed Parrot,Amazona oratrix,L4254459,Brownsville Hike & Bike Trail,2020-09-30 07:42,2.0,25.9425249,-97.4908036,True,False,True,S74238070
+485,grnpar,Green Parakeet,Psittacara holochlorus,L4254459,Brownsville Hike & Bike Trail,2020-09-30 07:42,14.0,25.9425249,-97.4908036,True,False,True,S74238070
+486,bubhum,Buff-bellied Hummingbird,Amazilia yucatanensis,L4254459,Brownsville Hike & Bike Trail,2020-09-30 07:42,1.0,25.9425249,-97.4908036,True,False,True,S74238070
+487,wrenti,Wrentit,Chamaea fasciata,L12215877,"Via Milpas, Fallbrook US-CA 33.40562, -117.20654",2020-09-30 07:40,1.0,33.405617,-117.206537,True,False,True,S74242881
+488,calthr,California Thrasher,Toxostoma redivivum,L12215877,"Via Milpas, Fallbrook US-CA 33.40562, -117.20654",2020-09-30 07:40,1.0,33.405617,-117.206537,True,False,True,S74242881
+489,britit,Bridled Titmouse,Baeolophus wollweberi,L6247323,"Ranch Acres, Camp Verde",2020-09-30 07:40,5.0,34.569553,-111.8593383,True,False,True,S74242755
+490,conwar,Connecticut Warbler,Oporornis agilis,L247770,Kenilworth Park and Aquatic Gardens,2020-09-30 07:39,1.0,38.9133204,-76.9443433,True,False,False,S74239333
+491,vigswa,Violet-green Swallow,Tachycineta thalassina,L3629319,US-CA-Carmel Valley Village-336 El Caminito Rd,2020-09-30 07:38,30.0,36.488478,-121.721213,True,False,True,S74242625
+492,parake,parakeet sp.,Psittaciformes sp. (parakeet sp.),L200830,A. D. Barnes Park,2020-09-30 07:37,34.0,25.7340827,-80.3108552,True,False,False,S74240161
+493,mexjay4,Mexican Jay,Aphelocoma wollweberi,L1957708,"Weissler Yard, Hereford",2020-09-30 07:36,8.0,31.40261,-110.23148,True,False,True,S74240535
+494,brespa,Brewer's Sparrow,Spizella breweri,L1901783,Clement Park and Johnson Reservoir,2020-09-30 07:36,1.0,39.6063312,-105.0828203,True,False,False,S74240607
+495,y00704,Philadelphia/Warbling Vireo,Vireo philadelphicus/gilvus,L1514892,Rock Creek Park--Maintenance Yard,2020-09-30 07:35,1.0,38.9554951,-77.0493486,True,False,False,S74237636
+496,eleter1,Elegant Tern,Thalasseus elegans,L502380,Heron's Head Park,2020-09-30 07:35,9.0,37.7381243,-122.3725462,True,False,False,S74243007
+497,blktur,Black Turnstone,Arenaria melanocephala,L878727,Yachats SP,2020-09-30 07:34,7.0,44.3104337,-124.1074687,True,False,False,S74243532
+498,surfbi,Surfbird,Calidris virgata,L878727,Yachats SP,2020-09-30 07:34,1.0,44.3104337,-124.1074687,True,False,False,S74243532
+499,pitwhy,Pin-tailed Whydah,Vidua macroura,L3622815,Veeh Ranch Park,2020-09-30 07:34,1.0,33.6280293,-117.7380913,True,False,False,S74240446
+500,casauk,Cassin's Auklet,Ptychoramphus aleuticus,L878727,Yachats SP,2020-09-30 07:34,12.0,44.3104337,-124.1074687,True,False,False,S74243532
+501,y00224,Common/Red-breasted Merganser,Mergus merganser/serrator,L12396891,"1259 S State St, Saint Ignace US-MI 45.84951, -84.70528",2020-09-30 07:32,12.0,45.849512,-84.705281,True,False,True,S74240080
+502,aythya1,Aythya sp.,Aythya sp.,L12396891,"1259 S State St, Saint Ignace US-MI 45.84951, -84.70528",2020-09-30 07:32,20.0,45.849512,-84.705281,True,False,True,S74240080
+503,pasfly,Pacific-slope Flycatcher,Empidonax difficilis,L267487,Carpinteria Creek,2020-09-30 07:32,1.0,34.3930006,-119.5140259,True,False,False,S74243163
+504,dowitc,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,L267487,Carpinteria Creek,2020-09-30 07:32,1.0,34.3930006,-119.5140259,True,False,False,S74243163
+505,gresca,Greater Scaup,Aythya marila,L12396891,"1259 S State St, Saint Ignace US-MI 45.84951, -84.70528",2020-09-30 07:32,14.0,45.849512,-84.705281,True,False,True,S74240080
+506,comgol,Common Goldeneye,Bucephala clangula,L12396891,"1259 S State St, Saint Ignace US-MI 45.84951, -84.70528",2020-09-30 07:32,2.0,45.849512,-84.705281,True,False,True,S74240080
+507,scaup,Greater/Lesser Scaup,Aythya marila/affinis,L140452,Whitefish Point,2020-09-30 07:31,11.0,46.769001,-84.9530029,True,False,False,S74237055
+508,belvir,Bell's Vireo,Vireo bellii,L12395232,Bee Creek cut—behind Spring Creek,2020-09-30 07:31,1.0,30.608211,-96.28545,True,True,True,S74240476
+509,wesowl1,Western Screech-Owl,Megascops kennicottii,L7598456,"111 Alder Spring Road, Lyle, Washington, US (45.707, -121.237)",2020-09-30 07:26,1.0,45.7065574,-121.2370818,True,False,True,S74242344
+510,corshe,Cory's Shearwater,Calonectris diomedea,L490189,Camp Cronin,2020-09-30 07:25,12.0,41.3621949,-71.4872164,True,False,False,S74237372
+511,raven,raven sp.,Corvus sp. (raven sp.),L580481,Mt. Lemmon--Babad Do'ag Vista,2020-09-30 07:23,1.0,32.30937,-110.721,True,False,False,S74240305
+512,brbhum,Broad-billed Hummingbird,Cynanthus latirostris,L12216777,Yard List,2020-09-30 07:23,1.0,32.308272,-110.826483,True,False,True,S74240571
+513,gryhaw2,Gray Hawk,Buteo plagiatus,L3715748,Max A Mandel Golf Course,2020-09-30 07:22,1.0,27.660146,-99.66685,True,False,False,S74238286
+514,whcsee1,Morelet's Seedeater,Sporophila morelleti,L3715748,Max A Mandel Golf Course,2020-09-30 07:22,1.0,27.660146,-99.66685,True,False,False,S74238286
+515,audori,Audubon's Oriole,Icterus graduacauda,L3715748,Max A Mandel Golf Course,2020-09-30 07:22,2.0,27.660146,-99.66685,True,False,False,S74238286
+516,amazon,Amazona sp.,Amazona sp.,L152136,Peck Rd. Water Conservation Park,2020-09-30 07:20,4.0,34.10053,-118.01333,True,False,False,S74243024
+517,varthr,Varied Thrush,Ixoreus naevius,L968470,Pine Ridge Park,2020-09-30 07:20,2.0,47.8108471,-122.3467487,True,False,False,S74241288
+518,x00051,Western x Glaucous-winged Gull (hybrid),Larus occidentalis x glaucescens,L384030,Hood River mouth,2020-09-30 07:20,1.0,45.7152892,-121.5063858,True,False,False,S74241892
+519,mitpar,Mitred Parakeet,Psittacara mitratus,L8391904,Briar Bay Park,2020-09-30 07:19,14.0,25.649928,-80.340717,True,False,False,S74236366
+520,vireo1,vireo sp.,Vireo sp.,L7984234,Brumley Nature Preserve--North,2020-09-30 07:17,1.0,36.03391,-79.041909,True,False,False,S74243053
+521,norcro,Northwestern Crow,Corvus caurinus,L12396835,"516 Brook Way, Lynden US-WA 48.95512, -122.43579",2020-09-30 07:16,4.0,48.95512,-122.435791,True,False,True,S74239803
+522,tribla,Tricolored Blackbird,Agelaius tricolor,L10138628,Via Delta de Anza Trail Driftwood to Willow Pass,2020-09-30 07:13,4.0,38.0304327,-121.9686517,True,False,True,S74242158
+523,y00610,Black-crowned/Yellow-crowned Night-Heron,Nycticorax nycticorax/Nyctanassa violacea,L1434129,Lake Hefner--Stars and Stripes Park,2020-09-30 07:11,1.0,35.5512937,-97.5829469,True,False,False,S74239470
+524,rebsap,Red-breasted Sapsucker,Sphyrapicus ruber,L321969,Lake Sammamish SP,2020-09-30 07:09,1.0,47.5597558,-122.0549817,True,False,False,S74241311
+525,macwar,MacGillivray's Warbler,Geothlypis tolmiei,L4772783,Franklin--Railroad Wash Rd,2020-09-30 07:08,3.0,32.6859991,-109.0818733,True,False,False,S74242218
+526,yehbla,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,L4772783,Franklin--Railroad Wash Rd,2020-09-30 07:08,15.0,32.6859991,-109.0818733,True,False,False,S74242218
+527,crithr,Crissal Thrasher,Toxostoma crissale,L4772783,Franklin--Railroad Wash Rd,2020-09-30 07:08,3.0,32.6859991,-109.0818733,True,False,False,S74242218
+528,weskin,Western Kingbird,Tyrannus verticalis,L2605557,Santa Cruz River--Congress St. to Silverlake Rd.,2020-09-30 07:03,1.0,32.2105498,-110.9848738,True,False,False,S74242318
+529,lazbun,Lazuli Bunting,Passerina amoena,L2605557,Santa Cruz River--Congress St. to Silverlake Rd.,2020-09-30 07:03,3.0,32.2105498,-110.9848738,True,False,False,S74242318
+530,compau,Common Pauraque,Nyctidromus albicollis,L284174,Choke Canyon SP--Calliham Unit (McMullen Co.)(CTC 082),2020-09-30 07:02,1.0,28.4717282,-98.3394384,True,False,False,S74237449
+531,gilfli,Gilded Flicker,Colaptes chrysoides,L871530,McCormick Ranch--Lake Santa Fe,2020-09-30 07:01,1.0,33.5489774,-111.9085407,True,False,False,S74241348
+532,vauswi,Vaux's Swift,Chaetura vauxi,L3364514,"Home, North Glendora",2020-09-30 07:01,1.0,34.1483741,-117.8805307,True,False,True,S74241378
+533,kirwar,Kirtland's Warbler,Setophaga kirtlandii,L651593,Jordan Lake--B. Everett Jordan Dam,2020-09-30 07:01,1.0,35.6542495,-79.0678176,True,True,False,S74236907
+534,kenwar,Kentucky Warbler,Geothlypis formosa,L6235318,Robinson/Vanderah House,2020-09-30 07:00,1.0,29.4823054,-82.2639419,True,False,True,S74235673
+535,juntit1,Juniper Titmouse,Baeolophus ridgwayi,L11593552,"41 Cienega Canyon Road, Placitas, New Mexico, US (35.326, -106.475)",2020-09-30 07:00,1.0,35.3257169,-106.4749931,True,False,True,S74242090
+536,whepar2,White-eyed Parakeet,Psittacara leucophthalmus,L6307021,Dania Cutoff- backyard,2020-09-30 06:59,12.0,26.068117,-80.1876426,True,False,True,S74243001
+537,orwpar,Orange-winged Parrot,Amazona amazonica,L6307021,Dania Cutoff- backyard,2020-09-30 06:59,2.0,26.068117,-80.1876426,True,False,True,S74243001
+538,yebfly,Yellow-bellied Flycatcher,Empidonax flaviventris,L1289363,Ancarrow's Landing,2020-09-30 06:55,1.0,37.520068,-77.4188063,True,True,False,S74239312
+539,lucwar,Lucy's Warbler,Leiothlypis luciae,L9077402,My Patch(flood diversion canal) (from 51st ave. bridge to 67th ave. bridge),2020-09-30 06:53,1.0,33.6025908,-112.1792857,True,False,True,S74242299
+540,yebmag,Yellow-billed Magpie,Pica nuttalli,L11098624,Loch Lomond Park,2020-09-30 06:53,2.0,38.027798,-121.317358,True,True,False,S74240583
+541,dusfly,Dusky Flycatcher,Empidonax oberholseri,L9077402,My Patch(flood diversion canal) (from 51st ave. bridge to 67th ave. bridge),2020-09-30 06:53,1.0,33.6025908,-112.1792857,True,False,True,S74242299
+542,peflov,Rosy-faced Lovebird,Agapornis roseicollis,L9077402,My Patch(flood diversion canal) (from 51st ave. bridge to 67th ave. bridge),2020-09-30 06:53,3.0,33.6025908,-112.1792857,True,False,True,S74242299
+543,sheowl,Short-eared Owl,Asio flammeus,L4906697,Fort Sheridan Forest Preserve--Hawkwatch,2020-09-30 06:51,1.0,42.2227336,-87.8121006,True,True,False,S74238212
+544,henspa,Henslow's Sparrow,Centronyx henslowii,L342581,Wah'kon-tah Prairie,2020-09-30 06:50,3.0,37.8995056,-94.0214694,True,False,False,S74241746
+545,calypt,Anna's/Costa's Hummingbird,Calypte anna/costae,L2693778,Palm Springs--The Wellness Park/Ruth Hardy Park,2020-09-30 06:42,1.0,33.8357914,-116.5393424,True,False,False,S74240058
+546,ruwspa,Rufous-winged Sparrow,Peucaea carpalis,L756149,Lincoln Park--Atturbury Wash,2020-09-30 06:42,1.0,32.1740142,-110.8135986,True,False,False,S74240662
+547,casvir,Cassin's Vireo,Vireo cassinii,L2693778,Palm Springs--The Wellness Park/Ruth Hardy Park,2020-09-30 06:42,1.0,33.8357914,-116.5393424,True,False,False,S74240058
+548,whip-p1,Eastern Whip-poor-will,Antrostomus vociferus,L4512287,Ralph Winstead Rd,2020-09-30 06:40,1.0,36.4345074,-79.1241574,True,False,False,S74235314
+549,norjac,Northern Jacana,Jacana spinosa,L284132,Santa Cruz River--Ina Rd.,2020-09-30 06:39,1.0,32.3375895,-111.0813334,True,True,False,S74239487
+550,nopowl,Northern Pygmy-Owl,Glaucidium gnoma,L7056762,Scaponia Park,2020-09-30 06:37,1.0,45.84446,-123.094465,True,False,False,S74242362
+551,nswowl,Northern Saw-whet Owl,Aegolius acadicus,L12396537,Carson NF--FS5 Camp,2020-09-30 06:31,1.0,36.426029,-105.34134,True,False,True,S74237958
+552,herwar,Hermit Warbler,Setophaga occidentalis,L5566455,Mountainaire,2020-09-30 06:30,1.0,35.084535,-111.6594654,True,False,True,S74241147
+553,lobcur,Long-billed Curlew,Numenius americanus,L11854416,"2439 Bacon Street, San Diego, California, US (32.755, -117.242)",2020-09-30 06:26,1.0,32.7551917,-117.2420434,True,False,True,S74241998
+554,margod,Marbled Godwit,Limosa fedoa,L11854416,"2439 Bacon Street, San Diego, California, US (32.755, -117.242)",2020-09-30 06:26,2.0,32.7551917,-117.2420434,True,False,True,S74241998
+555,mexduc,Mexican Duck,Anas diazi,L208918,Sweetwater Wetlands,2020-09-30 06:25,1.0,32.278549,-111.022495,True,False,False,S74241914
+556,larter1,large tern sp.,Hydroprogne/Thalasseus sp.,L1779056,Hotel del Coronado & beach,2020-09-30 06:25,15.0,32.6790278,-117.1796072,True,False,False,S74241784
+557,mallar4,Mallard x Mexican Duck (hybrid),Anas platyrhynchos x diazi,L208918,Sweetwater Wetlands,2020-09-30 06:25,1.0,32.278549,-111.022495,True,False,False,S74241914
+558,wesfly,Pacific-slope/Cordilleran Flycatcher (Western Flycatcher),Empidonax difficilis/occidentalis,L208918,Sweetwater Wetlands,2020-09-30 06:25,1.0,32.278549,-111.022495,True,False,False,S74241914
+559,shearw,shearwater sp.,Procellariidae sp. (shearwater sp.),L490189,Camp Cronin,2020-09-30 06:20,2.0,41.3621949,-71.4872164,True,False,False,S74243110
+560,compoo,Common Poorwill,Phalaenoptilus nuttallii,L696156,Topanga--Hillside Dr.,2020-09-30 06:17,2.0,34.1065901,-118.5963956,True,False,False,S74237891
+561,swiwhe1,Swinhoe's White-eye,Zosterops simplex,L489033,Huntington Central Park--West,2020-09-30 06:15,15.0,33.6987793,-118.0100083,True,False,False,S74243136
+562,loeowl,Long-eared Owl,Asio otus,L5675731,JK Hill Hillsboro NM,2020-09-29 21:56,1.0,32.920771,-107.575696,True,False,True,S74237360
+563,burowl,Burrowing Owl,Athene cunicularia,L12395549,"574 S 197th Ave, Buckeye US-AZ 33.44132, -112.48352",2020-09-29 21:03,1.0,33.441316,-112.483518,True,False,True,S74231536
+564,grebe1,grebe sp.,Podicipedidae sp.,L12179205,"Ridgway State Park, Ridgway US-CO 38.22419, -107.73275",2020-09-29 20:13,7.0,38.22419,-107.732748,True,False,True,S74229924
+565,uplsan,Upland Sandpiper,Bartramia longicauda,L5814436,1515 S Medio River Cir,2020-09-29 20:00,2.0,29.603834,-95.589375,True,True,True,S74229712
+566,gryjay,Canada Jay,Perisoreus canadensis,L12395169,"120 Flat Creek Dr, Jackson US-WY 43.47626, -110.76909",2020-09-29 19:35,3.0,43.476262,-110.769087,True,False,True,S74228930
+567,commur,Common Murre,Uria aalge,L2821968,Pt. Whitehorn/Maple Way,2020-09-29 19:15,1.0,48.8861942,-122.7861857,True,False,True,S74231809
+568,retloo,Red-throated Loon,Gavia stellata,L2821968,Pt. Whitehorn/Maple Way,2020-09-29 19:15,6.0,48.8861942,-122.7861857,True,False,True,S74231809
+569,harduc,Harlequin Duck,Histrionicus histrionicus,L2821968,Pt. Whitehorn/Maple Way,2020-09-29 19:15,5.0,48.8861942,-122.7861857,True,False,True,S74231809
+570,y00325,Tropical/Couch's Kingbird,Tyrannus melancholicus/couchii,L7010231,"La Paloma, TX",2020-09-29 19:00,,26.0459106,-97.6673895,True,False,True,S74227217
+571,whrsan,White-rumped Sandpiper,Calidris fuscicollis,L12394415,"16280 23 Mile Rd, Macomb US-MI 42.67034, -82.96057",2020-09-29 18:56,1.0,42.67034,-82.960573,True,False,True,S74224142
+572,pingro,Pine Grosbeak,Pinicola enucleator,L12395681,"Yellowstone National Park, Wyoming, US (44.827, -110.834)",2020-09-29 18:44,2.0,44.8272989,-110.8337979,True,False,True,S74232338
+573,lesnig,Lesser Nighthawk,Chordeiles acutipennis,L1051870,My Yard,2020-09-29 18:40,1.0,31.9626851,-106.6660988,True,False,True,S74240826
+574,canvas,Canvasback,Aythya valisineria,L1315333,Thermalito Afterbay--causeway,2020-09-29 18:36,4.0,39.4935929,-121.6813946,True,False,False,S74228916
+575,hudgod,Hudsonian Godwit,Limosa haemastica,L452698,Loch Raven Reservoir--Paper Mill Flats,2020-09-29 18:30,2.0,39.5044049,-76.6224289,True,True,False,S74228110
+576,y00314,Blue-winged/Cinnamon Teal,Spatula discors/cyanoptera,L339165,North Diversion Channel Outfall (formerly Tramway Wetlands),2020-09-29 18:30,3.0,35.2084325,-106.6051265,True,False,False,S74228258
+577,rorpar,Rose-ringed Parakeet,Psittacula krameri,L12395604,"177 Ohana St, Kailua US-HI 21.39785, -157.73881",2020-09-29 18:26,1.0,21.397851,-157.738813,True,False,True,S74231844
+578,y00635,Red-necked/Red Phalarope,Phalaropus lobatus/fulicarius,L390083,Marlyn Nelson County Park,2020-09-29 18:26,15.0,48.094649,-123.045845,True,False,False,S74230866
+579,alcid,alcid sp.,Alcidae sp.,L390083,Marlyn Nelson County Park,2020-09-29 18:26,75.0,48.094649,-123.045845,True,False,False,S74230866
+580,y00701,Tree/Violet-green Swallow,Tachycineta bicolor/thalassina,L5181593,GC FARMS: NO PUBLIC ACCESS,2020-09-29 18:19,6.0,36.93839,-121.40324,True,False,True,S74231783
+581,scoori,Scott's Oriole,Icterus parisorum,L128911,Big Bend NP--Chisos Basin (FWTX 42),2020-09-29 18:18,1.0,29.2722493,-103.298049,True,False,False,S74230457
+582,graspa,Grasshopper Sparrow,Ammodramus savannarum,L7959405,Williams Green,2020-09-29 18:16,1.0,36.154193,-95.990175,True,False,False,S74226443
+583,hooori,Hooded Oriole,Icterus cucullatus,L1263591,Laredo- North Central Park,2020-09-29 18:11,1.0,27.6001374,-99.4713843,True,False,False,S74227214
+584,wilfly,Willow Flycatcher,Empidonax traillii,L486383,Commons Ford Ranch Metro Park,2020-09-29 18:05,1.0,30.3373826,-97.8930759,True,False,False,S74228144
+585,lewwoo,Lewis's Woodpecker,Melanerpes lewis,L506776,Highland Glen Park ,2020-09-29 18:04,1.0,40.414656,-111.7819834,True,False,False,S74227917
+586,clcrob,Clay-colored Thrush,Turdus grayi,L4152423,Personal location,2020-09-29 18:00,1.0,25.9410464,-97.4947894,True,False,True,S74228114
+587,grypar,Gray Partridge,Perdix perdix,L12394626,"4315 18th Avenue Southwest, Fargo, North Dakota, US (46.852, -96.853)",2020-09-29 17:59,13.0,46.8523187,-96.8527862,True,False,True,S74225400
+588,loon,loon sp.,Gavia sp.,L1297661,Flathead Lake--Somers Bay,2020-09-29 17:52,2.0,48.0744087,-114.2354965,True,False,False,S74226263
+589,olsfly,Olive-sided Flycatcher,Contopus cooperi,L139900,Las Vegas--Floyd Lamb Park at Tule Springs,2020-09-29 17:51,1.0,36.3249025,-115.266594,True,False,False,S74228666
+590,wilsap,Williamson's Sapsucker,Sphyrapicus thyroideus,L12057751,Forest's Fist,2020-09-29 17:48,1.0,35.2643656,-111.4974873,True,False,True,S74228912
+591,whhwoo,White-headed Woodpecker,Dryobates albolarvatus,L1271058,Bull Gap Sno Park West,2020-09-29 17:43,1.0,42.0714686,-122.6984882,True,False,True,S74229099
+592,y00486,American/Northwestern Crow,Corvus brachyrhynchos/caurinus,L1654829,North Olympic WA--Lower Dungeness Unit,2020-09-29 17:36,15.0,48.1448337,-123.1308693,True,False,False,S74231014
+593,sabgul,Sabine's Gull,Xema sabini,L11778429,"Missouri 13, Clinton, Missouri, US (38.329, -93.758)",2020-09-29 17:35,1.0,38.3289925,-93.7575706,True,True,True,S74223876
+594,wilpha,Wilson's Phalarope,Phalaropus tricolor,L130766,Hornsby Bend (HOTE 037),2020-09-29 17:31,7.0,30.2181988,-97.6458054,True,False,False,S74226998
+595,bargol,Barrow's Goldeneye,Bucephala islandica,L450388,Lake Hood & Lake Spenard (Anc. Int. Airport),2020-09-29 17:30,1.0,61.1787982,-149.9607182,True,False,False,S74233460
+596,y00004,Common/Barrow's Goldeneye,Bucephala clangula/islandica,L450388,Lake Hood & Lake Spenard (Anc. Int. Airport),2020-09-29 17:30,20.0,61.1787982,-149.9607182,True,False,False,S74233460
+597,litgul,Little Gull,Hydrocoloeus minutus,L2349083,Coralville Lake--Scales Pointe (private property),2020-09-29 17:26,1.0,41.8039822,-91.5899062,True,True,False,S74231300
+598,wilplo,Wilson's Plover,Charadrius wilsonia,L128974,Galveston Island SP (UTC 070),2020-09-29 17:25,2.0,29.1956654,-94.9559069,True,False,False,S74236310
+599,y00335,Lazuli/Indigo Bunting,Passerina amoena/cyanea,L3177894,West San Gabriel River Parkway Nature Trail,2020-09-29 17:24,1.0,33.8374021,-118.0950344,True,False,False,S74230998
+600,commyn,Common Myna,Acridotheres tristis,L3526746,Wawaloli Beach Park,2020-09-29 17:20,2.0,19.7179898,-156.0514784,True,False,False,S74232690
+601,y00833,Neotropic/Double-crested Cormorant,Phalacrocorax brasilianus/auritus,L241811,El Franco Lee Park,2020-09-29 17:20,1.0,29.594929,-95.2589295,True,False,False,S74230291
+602,zebdov,Zebra Dove,Geopelia striata,L3526746,Wawaloli Beach Park,2020-09-29 17:20,10.0,19.7179898,-156.0514784,True,False,False,S74232690
+603,pagplo,Pacific Golden-Plover,Pluvialis fulva,L3526746,Wawaloli Beach Park,2020-09-29 17:20,1.0,19.7179898,-156.0514784,True,False,False,S74232690
+604,buffle,Bufflehead,Bucephala albeola,L448084,Woodland/Davis Water Treatment Plant,2020-09-29 17:15,2.0,38.6657506,-121.7174863,True,False,False,S74228256
+605,bklkit,Black-legged Kittiwake,Rissa tridactyla,L364733,Race Point,2020-09-29 17:15,10.0,42.0691855,-70.2381706,True,False,False,S74227496
+606,blkter,Black Tern,Chlidonias niger,L127238,Lake Sequoyah,2020-09-29 17:15,1.0,36.0525,-94.0654,True,False,False,S74231245
+607,prafal,Prairie Falcon,Falco mexicanus,L12394511,"19409 Colorado 13, Rifle, Colorado, US (39.782, -107.95)",2020-09-29 17:13,1.0,39.7815601,-107.9502859,True,False,True,S74224711
+608,y00229,Horned/Eared Grebe,Podiceps auritus/nigricollis,L271825,Baseline Reservoir,2020-09-29 17:12,5.0,39.9964235,-105.2053332,True,False,False,S74224777
+609,bcxtit1,Tufted x Black-crested Titmouse (hybrid),Baeolophus bicolor x atricristatus,L4389089,Temple neighborhood,2020-09-29 17:10,2.0,31.0656822,-97.3951077,True,False,True,S74224546
+610,yeejun,Yellow-eyed Junco,Junco phaeonotus,L12323203,"stakeout Eared Quetzal, FR42 between Sunny Flat and SWRS (2020)",2020-09-29 17:08,6.0,31.8815054,-109.1891165,True,False,False,S74227877
+611,norgos,Northern Goshawk,Accipiter gentilis,L12393768,"1000 River Rd, Dresden US-ME (44.0260,-69.7931)",2020-09-29 17:07,1.0,44.026043,-69.793138,True,False,True,S74220136
+612,y00494,Black-bellied Plover/golden-plover sp.,Pluvialis sp.,L9782640,Pamet Harbor Boat Ramp,2020-09-29 17:05,1.0,41.9918022,-70.0716601,True,False,False,S74220761
+613,y00323,Northern/Gilded Flicker,Colaptes auratus/chrysoides,L2257540,Saguaro NP--West--Red Hills Visitors Center,2020-09-29 17:02,1.0,32.2542072,-111.1972591,True,False,False,S74228287
+614,lecthr,LeConte's Thrasher,Toxostoma lecontei,L553152,Chiriaco Summit,2020-09-29 17:00,1.0,33.6614962,-115.7210755,True,False,False,S74231402
+615,sagspa,Sagebrush/Bell's Sparrow (Sage Sparrow),Artemisiospiza nevadensis/belli,L553152,Chiriaco Summit,2020-09-29 16:55,1.0,33.6614962,-115.7210755,True,False,False,S74232356
+616,ferhaw,Ferruginous Hawk,Buteo regalis,L4834302,Dotson Family Marsh,2020-09-29 16:55,1.0,37.9818895,-122.3623323,True,False,False,S74230973
+617,spizel,Spizella sp./American Tree Sparrow,Spizella/Spizelloides sp.,L717752,Hodenpyl Woods,2020-09-29 16:55,1.0,42.9581971,-85.609417,True,False,False,S74224239
+618,bubsan,Buff-breasted Sandpiper,Calidris subruficollis,L280564,Sherwood Island State Park,2020-09-29 16:52,2.0,41.1157809,-73.3305955,True,True,False,S74221784
+619,comblh1,Common Black Hawk,Buteogallus anthracinus,L2714898,The Jail Trail,2020-09-29 16:51,1.0,34.7496668,-112.0269971,True,False,False,S74228591
+620,dusgro,Dusky Grouse,Dendragapus obscurus,L268297,Bryce Canyon NP,2020-09-29 16:51,1.0,37.6461898,-112.1660052,True,False,False,S74229503
+621,recwoo,Red-cockaded Woodpecker,Dryobates borealis,L799384,Big Branch Marsh NWR--Boy Scout Rd.,2020-09-29 16:50,2.0,30.2819728,-89.9234819,True,False,False,S74221604
+622,bkcspa,Black-chinned Sparrow,Spizella atrogularis,L4025076,Round Mountain Park,2020-09-29 16:45,2.0,33.403292,-110.769213,True,False,False,S74231846
+623,y00227,Rusty/Brewer's Blackbird,Euphagus carolinus/cyanocephalus,L1739531,Cat Island Causeway (restricted access),2020-09-29 16:40,1.0,44.5870937,-88.0162688,True,False,False,S74232126
+624,tunswa,Tundra Swan,Cygnus columbianus,L3091619,Des Lacs NWR--Lower Des Lacs Lake,2020-09-29 16:30,6.0,48.607187,-102.0095084,True,False,False,S74227709
+625,ruff,Ruff,Calidris pugnax,L266875,Willcox--Lake Cochise and Twin Lakes Golf Course,2020-09-29 16:30,1.0,32.2298515,-109.8243175,True,True,False,S74230024
+626,shtsan,Sharp-tailed Sandpiper,Calidris acuminata,L282253,Billy Frank Jr. Nisqually NWR,2020-09-29 16:30,1.0,47.0812514,-122.7180576,True,True,False,S74229179
+627,swagoo2,Swan Goose (Domestic type),Anser cygnoides (Domestic type),L140687,ABQ BioPark--Tingley Lagoon,2020-09-29 16:29,1.0,35.0864029,-106.6737442,True,True,False,S74224263
+628,sapsuc,sapsucker sp.,Sphyrapicus sp.,L2271195,Staunton SP (Jefferson Co),2020-09-29 16:26,1.0,39.5174412,-105.3884554,True,False,False,S74227184
+629,y00485,Cassin's/Blue-headed Vireo,Vireo cassinii/solitarius,L9159624,Canyon Club at Four Hills,2020-09-29 16:19,1.0,35.050426,-106.497246,True,True,True,S74227866
+630,brnboo,Brown Booby,Sula leucogaster,L127324,Honeymoon Island SP,2020-09-29 16:19,1.0,28.0706,-82.8314,True,True,False,S74218600
+631,maghum1,Rivoli's Hummingbird,Eugenes fulgens,L268114,Madera Canyon--Santa Rita Lodge,2020-09-29 16:15,2.0,31.7251514,-110.8801067,True,False,False,S74225471
+632,grefri,Great Frigatebird,Fregata minor,L7900924,Lanai,2020-09-29 16:09,1.0,21.9065438,-159.5822563,True,False,True,S74229582
+633,chclon,Chestnut-collared Longspur,Calcarius ornatus,L266875,Willcox--Lake Cochise and Twin Lakes Golf Course,2020-09-29 16:08,1.0,32.2298515,-109.8243175,True,True,False,S74229437
+634,soogro1,Sooty Grouse,Dendragapus fuliginosus,L7676962,Lassen Volcanic NP--Cold Boiling Lake,2020-09-29 15:59,1.0,40.4562542,-121.4840269,True,True,False,S74229956
+635,paired,Painted Redstart,Myioborus pictus,L1588063,NMSU Campus,2020-09-29 15:49,1.0,32.2798162,-106.7503689,True,True,False,S74223969
+636,x00759,Domestic goose sp. (Domestic type) x Canada Goose (hybrid),Anser sp. (Domestic type) x Branta canadensis,L6726175,Sequiota Park,2020-09-29 15:40,2.0,37.1474596,-93.2381897,True,True,False,S74219471
+637,kingle,kinglet sp.,Regulus sp.,L163354,Green Lake,2020-09-29 15:38,1.0,47.681797,-122.33953,True,False,False,S74227368
+638,zothaw,Zone-tailed Hawk,Buteo albonotatus,L1879333,Hazel Bazemore Park Hawkwatch Platform,2020-09-29 15:30,1.0,27.8660551,-97.6427346,True,False,False,S74223943
+639,rempar,Red-masked Parakeet,Psittacara erythrogenys,L1501860,Holly Park,2020-09-29 15:30,4.0,37.7371541,-122.4201177,True,False,False,S74226248
+640,whtdov,White-tipped Dove,Leptotila verreauxi,L1879333,Hazel Bazemore Park Hawkwatch Platform,2020-09-29 15:30,1.0,27.8660551,-97.6427346,True,False,False,S74223943
+641,y00478,Iceland Gull,Larus glaucoides,L390227,Eagle Beach SRA,2020-09-29 15:30,40.0,58.5283716,-134.8270512,True,False,False,S74229893
+642,calhum,Calliope Hummingbird,Selasphorus calliope,L129060,Portal,2020-09-29 15:27,1.0,31.9136009,-109.1408005,True,False,False,S74221578
+643,whwcro,White-winged Crossbill,Loxia leucoptera,L534241,Peat Ponds Wildlife Area (Fairbanks),2020-09-29 15:16,10.0,64.9110145,-147.9393518,True,False,False,S74226185
+644,borchi2,Boreal Chickadee,Poecile hudsonicus,L534241,Peat Ponds Wildlife Area (Fairbanks),2020-09-29 15:16,1.0,64.9110145,-147.9393518,True,False,False,S74226185
+645,goldfi,Spinus sp. (goldfinch sp.),Spinus sp. (goldfinch sp.),L12103809,"663 Juanita Dr, Jacksonville US-OR 42.29527, -122.97629",2020-09-29 15:07,1.0,42.295271,-122.976286,True,False,True,S74223099
+646,haemor1,Haemorhous sp.,Haemorhous sp.,L12103809,"663 Juanita Dr, Jacksonville US-OR 42.29527, -122.97629",2020-09-29 15:07,6.0,42.295271,-122.976286,True,False,True,S74223099
+647,y00319,Rock/Band-tailed Pigeon,Columba livia/Patagioenas fasciata,L324835,North Seattle Comm.College,2020-09-29 15:00,5.0,47.7017213,-122.3312035,True,False,False,S74226334
+648,buthum,Blue-throated Mountain-gem,Lampornis clemenciae,L129060,Portal,2020-09-29 14:57,1.0,31.9136009,-109.1408005,True,False,False,S74219625
+649,y00639,crow/raven sp.,Corvus sp.,L12015378,North Deck,2020-09-29 14:56,1.0,47.3007803,-122.1125385,True,False,True,S74222631
+650,mouqua,Mountain Quail,Oreortyx pictus,L12395301,"Lassen Volcanic National Park, Shingletown US-CA 40.44863, -121.53561",2020-09-29 14:52,3.0,40.448626,-121.535613,True,False,True,S74229890
+651,manshe,Manx Shearwater,Puffinus puffinus,L490189,Camp Cronin,2020-09-29 14:52,1.0,41.3621949,-71.4872164,True,False,False,S74223374
+652,ducfly,Dusky-capped Flycatcher,Myiarchus tuberculifer,L352346,Santa Gertrudis Lane (foot access only),2020-09-29 14:42,2.0,31.5620774,-111.047042,True,False,False,S74227585
+653,rugdov,Ruddy Ground Dove,Columbina talpacoti,L352346,Santa Gertrudis Lane (foot access only),2020-09-29 14:42,2.0,31.5620774,-111.047042,True,True,False,S74227585
+654,sprpip,Sprague's Pipit,Anthus spragueii,L5098119,TNC--Little Jerusalem Badlands SP,2020-09-29 14:20,1.0,38.8041409,-100.9401244,True,False,False,S74219077
+655,yebkin2,yellow-bellied kingbird sp.,Tyrannus sp. (yellow-bellied),L302786,Hazel Bazemore Park (CTC 078),2020-09-29 14:14,1.0,27.8669646,-97.6418281,True,False,False,S74221401
+656,eagle1,eagle sp.,Accipitridae sp. (eagle sp.),L12392929,Route 202,2020-09-29 14:09,1.0,40.7114649,-74.582633,True,False,True,S74214743
+657,wantat1,Wandering Tattler,Tringa incana,L6574159,Siuslaw River--South Jetty (general),2020-09-29 14:08,1.0,44.0017135,-124.1344185,True,False,False,S74222185
+658,y00619,Cassin's/Western Kingbird,Tyrannus vociferans/verticalis,L12394214,"El Capitán State Beach, Goleta US-CA 34.45966, -120.02506",2020-09-29 14:04,2.0,34.459655,-120.025062,True,False,True,S74222770
+659,diurap1,diurnal raptor sp.,Accipitriformes/Falconiformes sp.,L152646,Greene Valley Forest Preserve,2020-09-29 13:55,1.0,41.7385,-88.0777,True,False,False,S74222564
+660,ariwoo,Arizona Woodpecker,Dryobates arizonae,L12323203,"stakeout Eared Quetzal, FR42 between Sunny Flat and SWRS (2020)",2020-09-29 13:51,1.0,31.8815054,-109.1891165,True,False,False,S74238308
+661,kinrai4,King Rail,Rallus elegans,L199461,Lake Woodruff NWR,2020-09-29 13:50,1.0,29.1092685,-81.3752445,True,False,False,S74215030
+662,grawar,Grace's Warbler,Setophaga graciae,L128906,Big Bend NP--Pine Canyon (FWTX 43),2020-09-29 13:45,1.0,29.2672329,-103.2484549,True,True,False,S74230966
+663,gnatca1,gnatcatcher sp.,Polioptila sp.,L128906,Big Bend NP--Pine Canyon (FWTX 43),2020-09-29 13:45,1.0,29.2672329,-103.2484549,True,False,False,S74230966
+664,leagre,Least Grebe,Tachybaptus dominicus,L263942,Christmas Mountains Oasis,2020-09-29 13:41,1.0,29.4917768,-103.4670389,True,True,False,S74228818
+665,luchum,Lucifer Hummingbird,Calothorax lucifer,L263942,Christmas Mountains Oasis,2020-09-29 13:41,3.0,29.4917768,-103.4670389,True,False,False,S74228818
+666,yelrai,Yellow Rail,Coturnicops noveboracensis,L12393646,Holland Well Fields,2020-09-29 13:31,1.0,44.085305,-96.297344,True,True,True,S74219420
+667,scoter,scoter sp.,Melanitta sp.,L743257,Strawberry Hill,2020-09-29 13:25,200.0,44.2540677,-124.1119158,True,False,False,S74220296
+668,chwwid,Chuck-will's-widow,Antrostomus carolinensis,L374130,Blucher Park (CTC 071),2020-09-29 13:23,1.0,27.791317,-97.399174,True,False,False,S74231632
+669,saffin,Saffron Finch,Sicalis flaveola,L12394548,"94-6275 Kamāʻoa Rd, Naalehu US-HI 19.05979, -155.61535",2020-09-29 13:16,4.0,19.059793,-155.615353,True,False,True,S74224916
+670,hawhaw,Hawaiian Hawk,Buteo solitarius,L12394548,"94-6275 Kamāʻoa Rd, Naalehu US-HI 19.05979, -155.61535",2020-09-29 13:16,2.0,19.059793,-155.615353,True,False,True,S74224916
+671,warwhe1,Warbling White-eye,Zosterops japonicus,L12394548,"94-6275 Kamāʻoa Rd, Naalehu US-HI 19.05979, -155.61535",2020-09-29 13:16,5.0,19.059793,-155.615353,True,False,True,S74224916
+672,reblei,Red-billed Leiothrix,Leiothrix lutea,L12394548,"94-6275 Kamāʻoa Rd, Naalehu US-HI 19.05979, -155.61535",2020-09-29 13:16,2.0,19.059793,-155.615353,True,False,True,S74224916
+673,comwax,Common Waxbill,Estrilda astrild,L12394548,"94-6275 Kamāʻoa Rd, Naalehu US-HI 19.05979, -155.61535",2020-09-29 13:16,3.0,19.059793,-155.615353,True,False,True,S74224916
+674,yebcar,Yellow-billed Cardinal,Paroaria capitata,L12394548,"94-6275 Kamāʻoa Rd, Naalehu US-HI 19.05979, -155.61535",2020-09-29 13:16,4.0,19.059793,-155.615353,True,False,True,S74224916
+675,yefcan,Yellow-fronted Canary,Crithagra mozambica,L12394548,"94-6275 Kamāʻoa Rd, Naalehu US-HI 19.05979, -155.61535",2020-09-29 13:16,4.0,19.059793,-155.615353,True,False,True,S74224916
+676,bulori,Bullock's Oriole,Icterus bullockii,L234314,De Anza Trail--Tubac,2020-09-29 13:10,1.0,31.6128313,-111.040829,True,False,False,S74224174
+677,grepew,Greater Pewee,Contopus pertinax,L234314,De Anza Trail--Tubac,2020-09-29 13:10,1.0,31.6128313,-111.040829,True,True,False,S74224174
+678,heptan,Hepatic Tanager,Piranga flava,L234314,De Anza Trail--Tubac,2020-09-29 13:10,1.0,31.6128313,-111.040829,True,False,False,S74224174
+679,y00316,Royal/Elegant Tern,Thalasseus maximus/elegans,L471741,Villa Creek--Estero Bluffs State Park,2020-09-29 13:09,1.0,35.4599561,-120.9688341,True,False,False,S74225532
+680,earque,Eared Quetzal,Euptilotis neoxenus,L12323203,"stakeout Eared Quetzal, FR42 between Sunny Flat and SWRS (2020)",2020-09-29 12:58,2.0,31.8815054,-109.1891165,True,True,False,S74218405
+681,ridrai1,Ridgway's Rail,Rallus obsoletus,L161083,MLK Jr. Regional Shoreline--Arrowhead Marsh,2020-09-29 12:54,8.0,37.7421628,-122.2112274,True,False,False,S74220005
+682,dawsco,Surf/Black Scoter,Melanitta perspicillata/americana,L1018792,Boiler Bay State Wayside,2020-09-29 12:47,5.0,44.8288173,-124.0658998,True,False,False,S74219567
+683,x00427,Western x Clark's Grebe (hybrid),Aechmophorus occidentalis x clarkii,L168214,Eleven Mile State Park,2020-09-29 12:24,1.0,38.928547,-105.51113,True,True,False,S74227628
+684,x00050,Herring x Glaucous-winged Gull (hybrid),Larus argentatus x glaucescens,L168214,Eleven Mile State Park,2020-09-29 12:24,1.0,38.928547,-105.51113,True,True,False,S74227628
+685,y00600,Mallard/American Black Duck,Anas platyrhynchos/rubripes,L12393044,"117 Stephen Dr, Chatham US-MA 41.68108, -70.00392",2020-09-29 12:14,17.0,41.681082,-70.003918,True,False,True,S74215498
+686,rosgoo,Ross's Goose,Anser rossii,L1215121,Carondelet Park,2020-09-29 12:00,1.0,38.5615895,-90.2653885,True,True,False,S74228080
+687,monqua,Montezuma Quail,Cyrtonyx montezumae,L3651544,Madera Canyon--Old Baldy Trail,2020-09-29 11:55,6.0,31.7064483,-110.868596,True,False,False,S74225406
+688,aldfly,Alder Flycatcher,Empidonax alnorum,L9790528,"Cut-Off Lake, Lake Jackson US-TX (29.0433,-95.5170)",2020-09-29 11:42,1.0,29.043325,-95.51702,True,False,True,S74214000
+689,y00479,Pomarine/Parasitic Jaeger,Stercorarius pomarinus/parasiticus,L12394127,"95039, Moss Landing US-CA 36.80373, -121.76204",2020-09-29 11:37,1.0,36.803727,-121.76204,True,False,True,S74222290
+690,comred,Common Redpoll,Acanthis flammea,L9512474,Hatcher Pass--Reed Lakes Trail,2020-09-29 11:24,50.0,61.8053071,-149.2031091,True,False,False,S74232672
+691,rolhaw,Rough-legged Hawk,Buteo lagopus,L9512474,Hatcher Pass--Reed Lakes Trail,2020-09-29 11:24,1.0,61.8053071,-149.2031091,True,False,False,S74232672
+692,y00014,Hammond's/Dusky Flycatcher,Empidonax hammondii/oberholseri,L12323203,"stakeout Eared Quetzal, FR42 between Sunny Flat and SWRS (2020)",2020-09-29 11:21,1.0,31.8815054,-109.1891165,True,False,False,S74221644
+693,belspa2,Bell's Sparrow,Artemisiospiza belli,L10765565,"5920 George St, Rosamond US-CA 34.83098, -118.23604",2020-09-29 11:21,2.0,34.830984,-118.236036,True,False,True,S74215361
+694,corfly,Cordilleran Flycatcher,Empidonax occidentalis,L12323203,"stakeout Eared Quetzal, FR42 between Sunny Flat and SWRS (2020)",2020-09-29 11:21,1.0,31.8815054,-109.1891165,True,False,False,S74221644
+695,brocow,Bronzed Cowbird,Molothrus aeneus,L7898920,"2809 North 7th Street, Harlingen, Texas, US (26.221, -97.69)",2020-09-29 11:13,15.0,26.2209088,-97.6899394,True,False,True,S74210593
+696,marmur,Marbled Murrelet,Brachyramphus marmoratus,L12375405,"18844 SE 42nd St, Issaquah US-WA 47.56959, -122.08586",2020-09-29 11:05,1.0,47.569589,-122.085864,True,False,True,S74220904
+697,calgna,California Gnatcatcher,Polioptila californica,L283345,Guajome Regional Park,2020-09-29 11:04,1.0,33.2471763,-117.2729558,True,False,False,S74225043
+698,layalb,Laysan Albatross,Phoebastria immutabilis,L12393539,"US (52.023, 174.755)",2020-09-29 11:03,20.0,52.0234478,174.7547443,True,False,True,S74218622
+699,norful,Northern Fulmar,Fulmarus glacialis,L12393539,"US (52.023, 174.755)",2020-09-29 11:03,100.0,52.0234478,174.7547443,True,False,True,S74218622
+700,bkfalb,Black-footed Albatross,Phoebastria nigripes,L12393539,"US (52.023, 174.755)",2020-09-29 11:03,5.0,52.0234478,174.7547443,True,False,True,S74218622
+701,slbgul,Slaty-backed Gull,Larus schistisagus,L12393539,"US (52.023, 174.755)",2020-09-29 11:03,1.0,52.0234478,174.7547443,True,False,True,S74218622
+702,y00727,Common/Forster's Tern,Sterna hirundo/forsteri,L3717961,Van Hook Recreation Area,2020-09-29 11:02,1.0,47.9482603,-102.3575504,True,False,False,S74208470
+703,razorb,Razorbill,Alca torda,L4687553,Machias Bay,2020-09-29 11:00,4.0,44.6138117,-67.3461056,True,False,True,S74216957
+704,bkbwoo,Black-backed Woodpecker,Picoides arcticus,L1061551,Yard-Buoy Avenue,2020-09-29 11:00,1.0,60.4943437,-151.2669325,True,True,True,S74223842
+705,hawgoo,Hawaiian Goose,Branta sandvicensis,L868863,Wailoa River SP -- Waiakea Pond,2020-09-29 11:00,4.0,19.7168384,-155.074296,True,False,False,S74227296
+706,hawcoo,Hawaiian Coot,Fulica alai,L868863,Wailoa River SP -- Waiakea Pond,2020-09-29 11:00,2.0,19.7168384,-155.074296,True,False,False,S74227296
+707,attwoo1,American Three-toed Woodpecker,Picoides dorsalis,L1061551,Yard-Buoy Avenue,2020-09-29 11:00,1.0,60.4943437,-151.2669325,True,False,True,S74223842
+708,spodov,Spotted Dove,Streptopelia chinensis,L868863,Wailoa River SP -- Waiakea Pond,2020-09-29 11:00,2.0,19.7168384,-155.074296,True,False,False,S74227296
+709,x00776,Graylag x Swan Goose (Domestic type) (hybrid),Anser anser x cygnoides (Domestic type),L868863,Wailoa River SP -- Waiakea Pond,2020-09-29 11:00,1.0,19.7168384,-155.074296,True,False,False,S74227296
+710,saggro,Greater Sage-Grouse,Centrocercus urophasianus,L12392179,"1535 N East Butte Rd, Jackson US-WY 43.50336, -110.77417",2020-09-29 10:48,2.0,43.503364,-110.774171,True,False,True,S74209829
+711,rewbul,Red-whiskered Bulbul,Pycnonotus jocosus,L2345696,"Vina Vieja, Gwinn and Sunnyslope Parks",2020-09-29 10:45,1.0,34.1579842,-118.0874081,True,False,False,S74229424
+712,virwar,Virginia's Warbler,Leiothlypis virginiae,L10764560,Pueblo Canyon WTP Outfall/Wetland (Los Alamos County),2020-09-29 10:42,1.0,35.881418,-106.2483659,True,False,False,S74223157
+713,vichum,Violet-crowned Hummingbird,Amazilia violiceps,L247122,Paton Center for Hummingbirds (Patons' Yard),2020-09-29 10:37,2.0,31.5390131,-110.7606337,True,False,False,S74215516
+714,varbun,Varied Bunting,Passerina versicolor,L247122,Paton Center for Hummingbirds (Patons' Yard),2020-09-29 10:37,1.0,31.5390131,-110.7606337,True,False,False,S74215516
+715,mexchi,Mexican Chickadee,Poecile sclateri,L339731,Cave Creek Canyon--Sunny Flat CG,2020-09-29 10:30,1.0,31.8847242,-109.1755749,True,False,False,S74231702
+716,sprgro,Spruce Grouse,Falcipennis canadensis,L2782628,Tonsina beach,2020-09-29 10:26,1.0,60.0462534,-149.4391251,True,False,True,S74223472
+717,pirang1,tanager sp. (Piranga sp.),Piranga sp.,L1944155,*Home*,2020-09-29 10:16,1.0,36.1752449,-94.4541407,True,False,True,S74208076
+718,y00618,Gray/Dusky Flycatcher,Empidonax wrightii/oberholseri,L283374,McCormick Ranch--Camelback Lake (Chart House),2020-09-29 10:11,1.0,33.550265,-111.9235075,True,False,False,S74213751
+719,bacspa,Bachman's Sparrow,Peucaea aestivalis,L6942028,Everglades Headwaters WMA--Hatchineha Unit,2020-09-29 10:07,1.0,28.026849,-81.4862978,True,False,False,S74221685
+720,swtkit,Swallow-tailed Kite,Elanoides forficatus,L12391538,"4431–5351 Montgomery Rd, Richmond US-TX 29.62947, -95.88236",2020-09-29 10:06,1.0,29.629475,-95.882363,True,True,True,S74205737
+721,owl1,owl sp.,Strigiformes sp.,L589914,Rendezvous Park,2020-09-29 10:00,1.0,41.705296,-111.8500444,True,False,False,S74219748
+722,selasp,Selasphorus sp.,Selasphorus sp.,L2143052,Ortego Home (private),2020-09-29 09:54,1.0,28.7341731,-97.1371651,True,False,False,S74205928
+723,melthr,Chinese Hwamei,Garrulax canorus,L4602230,Orchidland Estates 500' elev.,2020-09-29 09:50,1.0,19.551365,-155.003829,True,False,True,S74232918
+724,javspa,Java Sparrow,Lonchura oryzivora,L4602230,Orchidland Estates 500' elev.,2020-09-29 09:50,1.0,19.551365,-155.003829,True,False,True,S74232918
+725,hawama,Hawaii Amakihi,Chlorodrepanis virens,L4602230,Orchidland Estates 500' elev.,2020-09-29 09:50,1.0,19.551365,-155.003829,True,False,True,S74232918
+726,apapan,Apapane,Himatione sanguinea,L4602230,Orchidland Estates 500' elev.,2020-09-29 09:50,6.0,19.551365,-155.003829,True,False,True,S74232918
+727,grpchi,Greater Prairie-Chicken,Tympanuchus cupido,L6528257,Buena Vista Grassland/Marsh -- Taft Rd,2020-09-29 09:46,1.0,44.3247878,-89.5489272,True,False,True,S74204887
+728,thbkin,Thick-billed Kingbird,Tyrannus crassirostris,L352346,Santa Gertrudis Lane (foot access only),2020-09-29 09:43,1.0,31.5620774,-111.047042,True,True,False,S74209883
+729,larsho1,large shorebird sp.,Scolopacidae sp. (large shorebird sp.),L507756,Pt. Isabel Regional Shoreline,2020-09-29 09:40,6.0,37.9001201,-122.3251247,True,True,False,S74214501
+730,y00226,Spotted/Eastern Towhee (Rufous-sided Towhee),Pipilo maculatus/erythrophthalmus,L1007741,Ringgold,2020-09-29 09:36,1.0,41.5073721,-100.7907629,True,False,False,S74235816
+731,olispa,Olive Sparrow,Arremonops rufivirgatus,L375230,Bishop City Park (CTC 085),2020-09-29 09:36,1.0,27.5802355,-97.8023529,True,False,False,S74207168
+732,y00496,Semipalmated/Western Sandpiper,Calidris pusilla/mauri,L591483,Saint Simons Island--Goulds Inlet,2020-09-29 09:34,,31.1570695,-81.3650036,True,False,False,S74226441
+733,eurwig,Eurasian Wigeon,Mareca penelope,L420537,Nob Hill Pond,2020-09-29 09:33,1.0,37.521054,-122.2500711,True,True,False,S74212742
+734,shtgro,Sharp-tailed Grouse,Tympanuchus phasianellus,L5234233,Sax-Zim Bog--Racek Rd. Sharp-tailed Grouse Lek,2020-09-29 09:31,1.0,47.0997743,-92.7196049,True,False,False,S74205866
+735,y00598,Louisiana/Northern Waterthrush,Parkesia motacilla/noveboracensis,L166463,Dauphin Island,2020-09-29 09:30,1.0,30.2504,-88.1058,True,False,False,S74229613
+736,y00788,Golden-fronted/Red-bellied Woodpecker,Melanerpes aurifrons/carolinus,L486383,Commons Ford Ranch Metro Park,2020-09-29 09:21,1.0,30.3373826,-97.8930759,True,False,False,S74231204
+737,parrot,parrot sp.,Psittaciformes sp. (parrot sp.),L859369,Harry Griffen Regional Park,2020-09-29 09:20,2.0,32.7859369,-116.98789,True,False,False,S74215366
+738,bubfly,Buff-breasted Flycatcher,Empidonax fulvifrons,L290332,Evergreen Cemetery,2020-09-29 09:15,1.0,32.2649478,-110.9811517,True,True,False,S74216013
+739,fuwduc,Fulvous Whistling-Duck,Dendrocygna bicolor,L284163,Galveston--Lafitte's Cove (UTC 068),2020-09-29 09:10,1.0,29.2169006,-94.9349016,True,False,False,S74205201
+740,calcon,California Condor,Gymnogyps californianus,L851680,Grand Canyon NP--Yaki Point,2020-09-29 09:09,1.0,36.0587009,-112.0832974,True,False,False,S74228143
+741,rallus,King/Clapper Rail,Rallus elegans/crepitans,L462851,Caw Caw Interpretive Center,2020-09-29 09:00,2.0,32.7913603,-80.1975989,True,False,False,S74224709
+742,gcrfin,Gray-crowned Rosy-Finch,Leucosticte tephrocotis,L5154166,Mt. Baker--Artist Point,2020-09-29 08:58,20.0,48.8464382,-121.6926813,True,False,False,S74229216
+743,x00891,Steller's Jay x Woodhouse's Scrub-Jay (hybrid),Cyanocitta stelleri x Aphelocoma woodhouseii,L10276246,Amy’s place,2020-09-29 08:52,1.0,39.093588,-104.424767,True,True,True,S74208798
+744,y00965,Nuttall's/Ladder-backed Woodpecker,Dryobates nuttallii/scalaris,L1434371,Desert Willow Golf Resort,2020-09-29 08:49,1.0,33.7667262,-116.3656196,True,False,False,S74211690
+745,woopew,Western/Eastern Wood-Pewee,Contopus sordidulus/virens,L233704,Golden Ponds Park and Nature Area,2020-09-29 08:47,1.0,40.1694087,-105.1385843,True,True,False,S74218654
+746,sagspa1,Sagebrush Sparrow,Artemisiospiza nevadensis,L365439,Pastorius Reservoir,2020-09-29 08:40,1.0,37.1999797,-107.8119278,True,True,False,S74218096
+747,nobtyr,Northern Beardless-Tyrannulet,Camptostoma imberbe,L129054,Pena Blanca Lake,2020-09-29 08:35,2.0,31.401,-111.087,True,False,False,S74221149
+748,casspa,Cassin's Sparrow,Peucaea cassinii,L6051577,TTU HSC by Preston Smith Library,2020-09-29 08:30,2.0,33.589673,-101.893598,True,False,True,S74209470
+749,x00004,Mallard x American Black Duck (hybrid),Anas platyrhynchos x rubripes,L1550970,The Rookery,2020-09-29 08:26,2.0,41.5075868,-81.2842757,True,False,False,S74204172
+750,manduc,Mandarin Duck,Aix galericulata,L446946,Mile Square Regional Park,2020-09-29 08:18,1.0,33.7246609,-117.9395199,True,False,False,S74218343
+751,cerwar,Cerulean Warbler,Setophaga cerulea,L663753,Tuckernuck Island,2020-09-29 08:12,1.0,41.3012815,-70.257225,True,True,False,S74211333
+752,y00683,Western/Yellow-footed Gull,Larus occidentalis/livens,L670563,Salton Sea--North Shore marina,2020-09-29 08:12,1.0,33.5190985,-115.9383023,True,False,False,S74238273
+753,vermiv1,Leiothlypis sp.,Leiothlypis sp.,L2180919,Baton Rouge--The Wolfe Den,2020-09-29 08:11,1.0,30.441522,-91.167453,True,False,True,S74203040
+754,whehum,White-eared Hummingbird,Hylocharis leucotis,L264842,Miller Canyon--Beatty's Guest Ranch,2020-09-29 08:10,1.0,31.4156019,-110.2765277,True,True,False,S74232217
+755,mancuc,Mangrove Cuckoo,Coccyzus minor,L12391264,"J.N. Ding Darling National Wildlife Refuge, Sanibel US-FL 26.45049, -82.11324",2020-09-29 07:56,1.0,26.450493,-82.113238,True,True,True,S74203977
+756,helgui1,Helmeted Guineafowl (Domestic type),Numida meleagris (Domestic type),L2652888,Amelia Earhart Park,2020-09-29 07:52,1.0,25.8861129,-80.2765632,True,False,False,S74202952
+757,budger1,Budgerigar (Domestic type),Melopsittacus undulatus (Domestic type),L2272159,"Private Personal Residence, NE, St.Pete, FL",2020-09-29 07:50,1.0,27.8211854,-82.6345242,True,True,True,S74201965
+758,y00925,Summer/Scarlet Tanager,Piranga rubra/olivacea,L3183433,Baird Drive*,2020-09-29 07:45,1.0,35.7067128,-78.7186959,True,False,True,S74202007
+759,phalar,phalarope sp.,Phalaropus sp.,L364733,Race Point,2020-09-29 07:45,4.0,42.0691855,-70.2381706,True,False,False,S74228409
+760,y00629,Boat-tailed/Great-tailed Grackle,Quiscalus major/mexicanus,L1076700,Tyrrell Park--Cattail Marsh,2020-09-29 07:25,20.0,30.0074226,-94.1400433,True,False,False,S74217771
+761,towhee1,towhee sp.,Melozone/Pipilo sp.,L1175561,Red Rock Canyon Open Space,2020-09-29 07:23,1.0,38.8473432,-104.8811263,True,False,False,S74209316
+762,rotbec,Rose-throated Becard,Pachyramphus aglaiae,L234314,De Anza Trail--Tubac,2020-09-29 07:19,3.0,31.6128313,-111.040829,True,True,False,S74209499
+763,relpar,Red-lored Parrot,Amazona autumnalis,L4254459,Brownsville Hike & Bike Trail,2020-09-29 07:12,2.0,25.9425249,-97.4908036,True,False,True,S74201122
+764,flaowl,Flammulated Owl,Psiloscops flammeolus,L1529298,Intermountain Bird Observatory at Lucky Peak,2020-09-29 07:10,1.0,43.6056275,-116.0600716,True,False,False,S74230184
+765,redava,Red Avadavat,Amandava amandava,L8670450,Helipad,2020-09-29 07:02,2.0,21.9835343,-159.344296,True,False,True,S74210475
+766,chemun,Chestnut Munia,Lonchura atricapilla,L8670450,Helipad,2020-09-29 06:55,4.0,21.9835343,-159.344296,True,False,True,S74210354
+767,bkfgra,Black-faced Grassquit,Melanospiza bicolor,L122388,Big Pine Key--Blue Hole,2020-09-29 06:53,1.0,24.705893,-81.380295,True,True,False,S74206490
+768,benthr,Bendire's Thrasher,Toxostoma bendirei,L3251777,Wittmann--Jump the Moon Ranch,2020-09-29 06:48,1.0,33.730643,-112.535426,True,False,True,S74205360
+769,y00651,Red-winged/Tricolored Blackbird,Agelaius phoeniceus/tricolor,L2096821,"17932 Lyons Valley Road, Jamul, California",2020-09-29 06:47,10.0,32.7149441,-116.7606032,True,False,True,S74204268
+770,redjun,Red Junglefowl,Gallus gallus,L8670450,Helipad,2020-09-29 06:46,2.0,21.9835343,-159.344296,True,False,True,S74214507
+771,y00822,Varied Thrush/American Robin,Ixoreus naevius/Turdus migratorius,L1839965,Windy Gap (King Co.),2020-09-29 06:34,10.0,47.1288646,-121.3965225,True,False,False,S74230228
+772,shtspa,Nelson's/Saltmarsh Sparrow (Sharp-tailed Sparrow),Ammospiza nelsoni/caudacuta,L444827,Parker River NWR--Lot 1,2020-09-29 06:32,1.0,42.7897793,-70.8091271,True,False,False,S74198903
+773,y00647,Northern Cardinal/Pyrrhuloxia,Cardinalis cardinalis/sinuatus,L393566,Casa de San Pedro B&B--Visitors Welcome,2020-09-29 06:25,1.0,31.4088134,-110.1067829,True,False,False,S74220352
+774,y00333,Dark-eyed/Yellow-eyed Junco,Junco hyemalis/phaeonotus,L12323203,"stakeout Eared Quetzal, FR42 between Sunny Flat and SWRS (2020)",2020-09-29 05:30,4.0,31.8815054,-109.1891165,True,True,False,S74220217
+775,swan1,swan sp.,Cygnus sp.,L6138225,Inter-Urban Pathway,2020-09-28 18:35,3.0,42.7408485,-84.4336773,True,False,False,S74187355
+776,pewee1,pewee sp. (Contopus sp.),Contopus sp.,L386547,Moore Park (Del Rio),2020-09-28 18:29,1.0,29.3691685,-100.8844464,True,False,False,S74189588
+777,rinkin1,Ringed Kingfisher,Megaceryle torquata,L386547,Moore Park (Del Rio),2020-09-28 18:29,1.0,29.3691685,-100.8844464,True,False,False,S74189588
+778,glagul,Glaucous Gull,Larus hyperboreus,L11794143,Stebbins,2020-09-28 18:12,3.0,63.5173757,-162.2867359,True,False,True,S74196195
+779,whfpar1,White-fronted Parrot,Amazona albifrons,L1918641,"Oliveira Park, Brownsville",2020-09-28 18:11,10.0,25.9374284,-97.52159,True,False,False,S74192146
+780,nighth1,nighthawk sp.,Chordeiles sp.,L629667,George Mehl Foothills District Park,2020-09-28 17:56,1.0,32.276141,-110.9061091,True,False,False,S74192325
+781,reccar,Red-crested Cardinal,Paroaria coronata,L7307928,"3666 Kuiloko Road, Hanapepe, Hawaii, US (21.897, -159.601)",2020-09-28 17:37,3.0,21.8974828,-159.6012216,True,False,True,S74194994
+782,cursan,Curlew Sandpiper,Calidris ferruginea,L1072376,UCSB--East beach (formerly Goleta Bay West beach),2020-09-28 17:30,1.0,34.4101847,-119.8419678,True,True,False,S74195428
+783,y00019,Yellow-bellied/Red-naped Sapsucker,Sphyrapicus varius/nuchalis,L4687182,Rock Creek Canyon,2020-09-28 17:13,1.0,38.7046933,-104.8419285,True,False,True,S74190121
+784,afrsil1,African Silverbill,Euodice cantans,L577361,Salt Pond Beach Park ponds,2020-09-28 17:11,2.0,21.8996151,-159.6055824,True,False,False,S74195006
+785,whrsha,White-rumped Shama,Copsychus malabaricus,L577361,Salt Pond Beach Park ponds,2020-09-28 17:11,1.0,21.8996151,-159.6055824,True,False,False,S74195006
+786,x00423,Mallard x Hawaiian Duck (hybrid),Anas platyrhynchos x wyvilliana,L12389722,"98-135 Kamehameha Highway, Aiea, Hawaii, US (21.383, -157.944)",2020-09-28 16:57,5.0,21.3827232,-157.9442325,True,False,True,S74194052
+787,whiwag,White Wagtail,Motacilla alba,L481023,Los Angeles River--Willow St.,2020-09-28 16:54,1.0,33.8048977,-118.2059383,True,True,False,S74190071
+788,y00331,Canyon/Abert's Towhee,Melozone fusca/aberti,L453085,Santa Cruz River--Cortaro Mesquite Bosque,2020-09-28 16:19,2.0,32.3845823,-111.1214089,True,False,False,S74194506
+789,y00020,Sooty/Short-tailed Shearwater,Ardenna grisea/tenuirostris,L12389245,"US (51.692, 175.707)",2020-09-28 15:47,10.0,51.692444,175.7068445,True,False,True,S74190689
+790,motpet,Mottled Petrel,Pterodroma inexpectata,L12389245,"US (51.692, 175.707)",2020-09-28 15:47,1.0,51.692444,175.7068445,True,False,True,S74190689
+791,ftspet,Fork-tailed Storm-Petrel,Oceanodroma furcata,L12389245,"US (51.692, 175.707)",2020-09-28 15:47,10.0,51.692444,175.7068445,True,False,True,S74190689
+792,lcspet,Leach's Storm-Petrel,Oceanodroma leucorhoa,L12389245,"US (51.692, 175.707)",2020-09-28 15:47,5.0,51.692444,175.7068445,True,False,True,S74190689
+793,leaauk,Least Auklet,Aethia pusilla,L12389245,"US (51.692, 175.707)",2020-09-28 15:47,8.0,51.692444,175.7068445,True,False,True,S74190689
+794,whtpta1,White-tailed Ptarmigan,Lagopus leucura,L131,Slate Peak (Okanogan Co.),2020-09-28 15:29,1.0,48.7419703,-120.6801844,True,False,False,S74239019
+795,swift1,swift sp.,Apodidae sp.,L224081,Hawk Hill,2020-09-28 15:21,1.0,37.8281456,-122.4991411,True,False,False,S74191044
+796,rubrob,Rufous-backed Robin,Turdus rufopalliatus,L765033,Las Cienegas NCA--Fortynine Wash Access Rd,2020-09-28 15:11,1.0,31.8283103,-110.5891299,True,True,False,S74190613
+797,bkvshe,Black-vented Shearwater,Puffinus opisthomelas,L624665,Dana Pt.--nearshore (ORA Co.),2020-09-28 15:00,20.0,33.4245646,-117.7205658,True,False,False,S74195698
+798,y00944,Golden/Bald Eagle,Aquila chrysaetos/Haliaeetus leucocephalus,L6806746,Rocky Mountain Arsenal NWR-- East Auto Tour,2020-09-28 14:54,1.0,39.8179101,-104.8280454,True,False,False,S74218382
+799,whiter,White Tern,Gygis alba,L9049821,Archie Baker Park,2020-09-28 14:50,2.0,21.3079673,-157.8310839,True,False,True,S74197147
+800,bohwax,Bohemian Waxwing,Bombycilla garrulus,L12388493,"685 Dalton Trail, Fairbanks, Alaska, US (64.891, -147.848)",2020-09-28 14:28,3.0,64.890519,-147.8482586,True,False,True,S74185784
+801,y00789,Red-naped/Red-breasted Sapsucker,Sphyrapicus nuchalis/ruber,L766360,Union Gap to Lake Janus (Snohomish Co.),2020-09-28 14:12,1.0,47.8144226,-121.1006212,True,False,False,S74194535
+802,shtshe,Short-tailed Shearwater,Ardenna tenuirostris,L12389245,"US (51.692, 175.707)",2020-09-28 13:26,5.0,51.692444,175.7068445,True,False,True,S74190804
+803,y00334,Rose-breasted/Black-headed Grosbeak,Pheucticus ludovicianus/melanocephalus,L8385353,4304 Rio Grande Blvd NW,2020-09-28 13:10,1.0,35.1417602,-106.6664474,True,True,True,S74178957
+804,tufpuf,Tufted Puffin,Fratercula cirrhata,L1096408,Seaside Cove,2020-09-28 12:55,3.0,45.9755964,-123.9397073,True,False,False,S74180917
+805,grouse1,grouse sp.,Tetraoninae sp.,L12387626,"BIA Rd 2, Camp Sherman US-OR 44.64895, -121.65454",2020-09-28 12:42,1.0,44.648951,-121.654536,True,False,True,S74180180
+806,mcclon,McCown's Longspur,Rhynchophanes mccownii,L6586651,MCR 4 & GG,2020-09-28 12:32,2.0,40.466506,-104.0706778,True,False,True,S74213342
+807,brant,Brant,Branta bernicla,L373997,Pt. Mugu Naval Air Station (restricted access),2020-09-28 12:27,2.0,34.1113782,-119.111495,True,False,False,S74214455
+808,toxost1,Toxostoma sp.,Toxostoma sp.,L339732,Cave Creek Canyon--Idlewild CG,2020-09-28 12:08,1.0,31.894938,-109.164516,True,False,False,S74182450
+809,y00674,Ruffed/Spruce Grouse,Bonasa umbellus/Falcipennis canadensis,L476604,Acadia NP--Gorham Mtn.,2020-09-28 12:03,1.0,44.328269,-68.1930828,True,True,False,S74193344
+810,y00620,Loggerhead/Northern Shrike,Lanius ludovicianus/borealis,L879379,Grant Lake,2020-09-28 11:51,1.0,37.8369032,-119.1160698,True,False,False,S74178595
+811,x00621,Black x Eastern Phoebe (hybrid),Sayornis nigricans x phoebe,L338027,"Pueblo Reservoir--Rock Canyon area (below dam, north of river)",2020-09-28 11:25,1.0,38.266051,-104.7096741,True,True,False,S74178758
+812,broman1,Bronze Mannikin,Spermestes cucullata,L1357335,Huntington Central Park--East,2020-09-28 11:11,1.0,33.7040978,-118.0022383,True,False,False,S74185489
+813,leater1,Least Tern,Sternula antillarum,L129103,Galveston--8 Mile Rd./Sportsman's Rd (UTC 066),2020-09-28 11:05,1.0,29.2539795,-94.8935137,True,False,False,S74173882
+814,lavwax,Lavender Waxbill,Estrilda coerulescens,L9441055,Keauhou Bay,2020-09-28 10:49,1.0,19.565079,-155.962028,True,False,True,S74183077
+815,x00197,Snow x Canada Goose (hybrid),Anser caerulescens x Branta canadensis,L12385716,"674 Brown City Rd, Imlay City US-MI 43.04965, -83.02926",2020-09-28 10:35,1.0,43.049654,-83.02926,True,True,True,S74167617
+816,bluebi,bluebird sp.,Sialia sp.,L304010,Bird Creek Meadows,2020-09-28 10:10,14.0,46.152027,-121.4371206,True,False,False,S74219705
+817,smaplo1,small plover sp.,Charadrius sp.,L506275,San Diego River--tidal mudflats,2020-09-28 10:07,200.0,32.7567948,-117.2390952,True,False,False,S74185205
+818,empgoo,Emperor Goose,Anser canagicus,L1130056,Kodiak Is.--Kalsin Pond and Olds River Estuary,2020-09-28 10:00,80.0,57.584638,-152.4485207,True,False,False,S74196332
+819,norshr4,Northern Shrike,Lanius borealis,L1130056,Kodiak Is.--Kalsin Pond and Olds River Estuary,2020-09-28 10:00,1.0,57.584638,-152.4485207,True,False,False,S74196332
+820,crossb,crossbill sp.,Loxia sp.,L2339354,Yellowstone NP--Pebble Creek Campground,2020-09-28 09:23,4.0,44.9182609,-110.1142931,True,False,False,S74225010
+821,y00631,Acanthis/Spinus sp.,Acanthis/Spinus sp.,L472173,Alton Baker Park,2020-09-28 09:14,20.0,44.0515703,-123.0640411,True,False,False,S74177434
+822,sooshe,Sooty Shearwater,Ardenna grisea,L3763572,Grayland Beach,2020-09-28 09:10,2.0,46.8094527,-124.1008759,True,False,False,S74190907
+823,eurgol,European Goldfinch,Carduelis carduelis,L7426193,Heritage Oaks Park,2020-09-28 08:52,7.0,42.2340464,-88.0739594,True,False,False,S74176833
+824,louwat,Louisiana Waterthrush,Parkesia motacilla,L1964546,Fakahatchee Strand Preserve SP--Jones Grade,2020-09-28 08:47,6.0,26.1433271,-81.3620424,True,False,False,S74170774
+825,dryoba1,Dryobates sp.,Dryobates sp.,L8812892,Garden Canyon Rd--BETWEEN Upper Picnic Area and Sawmill Canyon,2020-09-28 08:25,1.0,31.460941,-110.361756,True,False,False,S74190355
+826,oliwar,Olive Warbler,Peucedramus taeniatus,L753061,Mt. Lemmon--Summerhaven,2020-09-28 08:16,1.0,32.4427119,-110.7598686,True,False,False,S74195817
+827,chfmac1,Chestnut-fronted Macaw,Ara severus,L3098639,HIghland Oaks Park,2020-09-28 08:15,2.0,25.9658912,-80.1529361,True,False,False,S74172524
+828,redpha1,Red Phalarope,Phalaropus fulicarius,L1074959,D River Beach Wayside,2020-09-28 08:13,1.0,44.9676217,-124.0172768,True,False,False,S74174155
+829,bucpar,Blue-crowned Parakeet,Thectocercus acuticaudatus,L9794932,Private Residence,2020-09-28 08:01,21.0,32.7508624,-117.0571512,True,True,True,S74169430
+830,orcwax,Orange-cheeked Waxbill,Estrilda melpoda,L446946,Mile Square Regional Park,2020-09-28 07:58,2.0,33.7246609,-117.9395199,True,False,False,S74178635
+831,y00688,Lincoln's/Swamp Sparrow,Melospiza lincolnii/georgiana,L109054,Goetchius Wetland Preserve (FLLT)--Flat Iron,2020-09-28 07:52,2.0,42.3860243,-76.3019298,True,False,False,S74162587
+832,bicthr,Bicknell's Thrush,Catharus bicknelli,L109135,Cape Island--Higbee Beach WMA,2020-09-28 07:46,1.0,38.9613889,-74.9608333,True,False,False,S74169929
+833,x00662,Downy x Nuttall's Woodpecker (hybrid),Dryobates pubescens x nuttallii,L419997,Stevens Creek Trail--north of US-101,2020-09-28 07:35,1.0,37.4216539,-122.0688885,True,True,False,S74191573
+834,yegvir,Yellow-green Vireo,Vireo flavoviridis,L6524344,Doyle Community Park,2020-09-28 07:28,1.0,32.8645448,-117.2193595,True,True,False,S74174401
+835,jay1,jay sp.,Corvidae sp. (jay sp.),L12385765,"11484 Pioneer Way, Lead US-SD 44.37140, -103.75454",2020-09-28 07:10,1.0,44.371396,-103.754536,True,False,True,S74168033
+836,solvir1,solitary vireo sp.,Vireo cassinii/solitarius/plumbeus,L392317,Camp Pendleton--Lake O'Neill,2020-09-28 07:05,1.0,33.329094,-117.3227406,True,True,False,S74175874
+837,pifshe,Pink-footed Shearwater,Ardenna creatopus,L329116,Southeast Farallon Island (restricted access),2020-09-28 07:00,3.0,37.69852,-123.002789,True,False,False,S74195117
+838,y00484,Cassin's/Plumbeous Vireo,Vireo cassinii/plumbeus,L1044320,San Antonio Oxbow Open Space,2020-09-28 06:48,1.0,35.1346021,-106.6947944,True,False,False,S74166598
+839,gryfra,Gray Francolin,Francolinus pondicerianus,L1076142,Kealakehe Wastewater Treatment Plant,2020-09-28 06:40,2.0,19.6621002,-156.0179014,True,False,False,S74182106
+840,scrjay,Aphelocoma sp.,Aphelocoma sp.,L284779,Mt. Lemmon--Gordon Hirabayashi RA (Prison Camp),2020-09-28 06:15,1.0,32.3377823,-110.718673,True,True,False,S74175467
+841,borowl,Boreal Owl,Aegolius funereus,L833184,Harts Pass,2020-09-28 06:00,1.0,48.7208672,-120.6694722,True,False,False,S74232185
+842,whsowl1,Whiskered Screech-Owl,Megascops trichopsis,L128985,Cave Creek Canyon--Herb Martyr CG,2020-09-28 04:46,2.0,31.8724995,-109.2335968,True,True,False,S74182481
+843,snobun,Snow Bunting,Plectrophenax nivalis,L11794143,Stebbins,2020-09-27 19:55,12.0,63.5173757,-162.2867359,True,False,True,S74190672
+844,eletro,Elegant Trogon,Trogon elegans,L3380924,*US-AZ-Cochise-Portal--2494 S. Old Canyon Rd. (private),2020-09-27 17:43,1.0,31.9063055,-109.1534289,True,True,True,S74153752
+845,pomjae,Pomarine Jaeger,Stercorarius pomarinus,L605526,Santa Barbara Channel--east channel (VEN Co.),2020-09-27 17:27,4.0,34.1544317,-119.3767548,True,False,False,S74166664
+846,asspet,Ashy Storm-Petrel,Oceanodroma homochroa,L605526,Santa Barbara Channel--east channel (VEN Co.),2020-09-27 17:27,1.0,34.1544317,-119.3767548,True,False,False,S74166664
+847,waxwin,Bohemian/Cedar Waxwing,Bombycilla garrulus/cedrorum,L271449,Perrot SP,2020-09-27 17:27,1.0,44.0157312,-91.4605084,True,False,False,S74226155
+848,psitta2,Psittacara sp.,Psittacara sp.,L8002824,Mayflower Village,2020-09-27 17:15,14.0,34.1219308,-118.0045315,True,False,True,S74157628
+849,snipe2,snipe sp.,Gallinago sp.,L7868981,"Cypress Grove, Marshall US-CA (38.1657,-122.8991)",2020-09-27 17:10,1.0,38.165659,-122.899127,True,True,True,S74152188
+850,bkhgul,Black-headed Gull,Chroicocephalus ridibundus,L129037,Newburyport Harbor,2020-09-27 16:27,1.0,42.8116989,-70.839798,True,True,False,S74155276
+851,redpol,Common/Hoary Redpoll,Acanthis flammea/hornemanni,L464529,Cape Nome,2020-09-27 16:24,4.0,64.4360032,-165.0108719,True,False,False,S74196537
+852,lotduc,Long-tailed Duck,Clangula hyemalis,L450388,Lake Hood & Lake Spenard (Anc. Int. Airport),2020-09-27 16:06,1.0,61.1787982,-149.9607182,True,False,False,S74151089
+853,y00794,Mitred/Red-masked Parakeet,Psittacara mitratus/erythrogenys,L598129,Corona Heights Park,2020-09-27 15:50,26.0,37.764744,-122.4390221,True,False,False,S74156776
+854,bulshe,Buller's Shearwater,Ardenna bulleri,L12384123,"US (38.157, -123.333)",2020-09-27 15:33,5.0,38.1572289,-123.3330623,True,False,True,S74157616
+855,sopsku1,South Polar Skua,Stercorarius maccormicki,L12384123,"US (38.157, -123.333)",2020-09-27 15:33,1.0,38.1572289,-123.3330623,True,False,True,S74157616
+856,y00762,Purple/Cassin's Finch,Haemorhous purpureus/cassinii,L6072041,Windy Gap (Kittitas Co),2020-09-27 14:45,,47.1270827,-121.3946128,True,False,False,S74195682
+857,lotjae,Long-tailed Jaeger,Stercorarius longicaudus,L12384111,"Sep 27, 2020 21:31
+38.082, -123.51",2020-09-27 14:34,1.0,38.0815783,-123.5098751,True,False,True,S74167406
+858,bkspet,Black Storm-Petrel,Oceanodroma melania,L12384090,"Sep 27, 2020 21:27
+38.141, -123.604",2020-09-27 13:41,3.0,38.1413069,-123.6041985,True,False,True,S74157473
+859,wispet,Wilson's Storm-Petrel,Oceanites oceanicus,L12384090,"Sep 27, 2020 21:27
+38.141, -123.604",2020-09-27 13:41,1.0,38.1413069,-123.6041985,True,False,True,S74157473
+860,y00481,Parasitic/Long-tailed Jaeger,Stercorarius parasiticus/longicaudus,L12384090,"Sep 27, 2020 21:27
+38.141, -123.604",2020-09-27 13:41,1.0,38.1413069,-123.6041985,True,False,True,S74157473
+861,lsspet,Least Storm-Petrel,Oceanodroma microsoma,L12388816,2020-09-27 h,2020-09-27 13:22,10.0,32.639587,-117.457979,True,True,True,S74187907
+862,rnxsap1,Red-naped x Red-breasted Sapsucker (hybrid),Sphyrapicus nuchalis x ruber,L444656,Summer Lake Wildlife Area,2020-09-27 13:19,1.0,42.950819,-120.7639503,True,False,False,S74170549
+863,wesjay,California/Woodhouse's Scrub-Jay,Aphelocoma californica/woodhouseii,L12383623,"Abert Lake, milepost 94D",2020-09-27 13:15,1.0,42.5750681,-120.1886051,True,False,True,S74155593
+864,eaywag,Eastern Yellow Wagtail,Motacilla tschutschensis,L12384069,Loleta Bottoms--Cannibal Island Rd.,2020-09-27 13:05,1.0,40.6419118,-124.2425272,True,True,True,S74157297
+865,calidr1,Calidris sp.,Calidris sp.,L298379,Hammonasset Beach SP,2020-09-27 12:47,2.0,41.2619859,-72.5548234,True,False,False,S74139154
+866,rosfin,rosy-finch sp.,Leucosticte sp.,L12391891,"236 County Road 110, Glenwood Springs US-CO 39.46160, -107.26166",2020-09-27 12:24,1.0,39.461595,-107.261661,True,False,True,S74207897
+867,stopet,storm-petrel sp.,Oceanitidae/Hydrobatidae sp.,L12388767,2020-09-27 g,2020-09-27 12:22,1.0,32.699057,-117.531108,True,False,True,S74187585
+868,strept1,Streptopelia sp.,Streptopelia sp.,L384546,Waneka Lake/Greenlee Preserve,2020-09-27 12:12,1.0,39.9970462,-105.1141834,True,False,False,S74150068
+869,smilon,Smith's Longspur,Calcarius pictus,L12379553,"58341, Selz US-ND (47.8498,-99.9035)",2020-09-27 12:07,13.0,47.849805,-99.903457,True,False,True,S74131312
+870,blkswi,Black Swift,Cypseloides niger,L224081,Hawk Hill,2020-09-27 12:00,40.0,37.8281456,-122.4991411,True,True,False,S74151505
+871,oahama,Oahu Amakihi,Chlorodrepanis flava,L253053,Lower 'Aiea Loop Trail and Keaiwa Heiau SP,2020-09-27 11:39,5.0,21.3988172,-157.9000568,True,False,False,S74145299
+872,flfshe,Flesh-footed Shearwater,Ardenna carneipes,L12389386,"Auto selected 36.51558, -122.22741",2020-09-27 11:34,1.0,36.515577,-122.227411,True,False,True,S74191708
+873,y01014,Black-throated Gray/Townsend's Warbler,Setophaga nigrescens/townsendi,L3782785,Yard,2020-09-27 11:08,1.0,47.509119,-122.268173,True,False,True,S74135435
+874,y01076,Downy/Ladder-backed Woodpecker,Dryobates pubescens/scalaris,L783521,Crescent Bend Nature Park (Bexar Co.),2020-09-27 11:01,1.0,29.5502272,-98.2325739,True,False,False,S74126278
+875,rocsan,Rock Sandpiper,Calidris ptilocnemis,L1130056,Kodiak Is.--Kalsin Pond and Olds River Estuary,2020-09-27 11:00,1.0,57.584638,-152.4485207,True,False,False,S74142728
+876,bkwvir,Black-whiskered Vireo,Vireo altiloquus,L12378449,Plantation Hammock Preserve,2020-09-27 10:40,1.0,24.963068,-80.566722,True,False,True,S74124426
+877,swagoo3,Swan Goose (Domestic type) x Canada Goose (hybrid),Anser cygnoides (Domestic type) x Branta canadensis,L12382860,"Temperance and Ashlan Ponding Basin (36.791, -119.665)",2020-09-27 10:38,1.0,36.7906932,-119.6649705,True,False,True,S74150371
+878,batgod,Bar-tailed Godwit,Limosa lapponica,L674614,East Shackleford Banks,2020-09-27 10:33,1.0,34.6495906,-76.5520477,True,True,False,S74142896
+879,larfal,large falcon sp.,Falco sp. (large falcon sp.),L12383813,Route 206 - NW of Mountain Identifier,2020-09-27 10:32,1.0,45.3906374,-120.4190103,True,True,True,S74156046
+880,x00446,Spotted x Eastern Towhee (hybrid),Pipilo maculatus x erythrophthalmus,L1119775,Mormon Island SRA,2020-09-27 10:30,2.0,40.8245917,-98.3633423,True,False,False,S74131832
+881,nuthat1,nuthatch sp.,Sitta sp.,L492402,Hixon Forest (La Crosse),2020-09-27 10:17,5.0,43.821957,-91.2087536,True,False,False,S74130685
+882,plover2,plover sp.,Charadriidae sp.,L12391693,"21906 Kennedy Drive, Galveston, Texas, US (29.137, -95.045)",2020-09-27 10:15,1.0,29.136656,-95.0445606,True,False,True,S74206732
+883,y00773,Red-shouldered/Broad-winged Hawk,Buteo lineatus/platypterus,L1423081,Donald County Park (Dane Co.),2020-09-27 10:11,1.0,42.9572228,-89.6787988,True,False,False,S74154688
+884,wetshe,Wedge-tailed Shearwater,Ardenna pacifica,L875376,"Turtle Bay Resort, 'O'ahu",2020-09-27 09:59,2.0,21.7051636,-157.9987192,True,False,False,S74150927
+885,marswi,Mariana Swiftlet,Aerodramus bartschi,L1042043,Aiea Ridge Trail and upper Aiea Loop Trail,2020-09-27 09:50,1.0,21.4059294,-157.8822041,True,False,False,S74143583
+886,y00222,American/Pacific Golden-Plover (Lesser Golden-Plover),Pluvialis dominica/fulva,L3280784,"stakeout LeConte's Sparrow, Abbotts Lagoon (2014-16)",2020-09-27 09:42,1.0,38.110268,-122.953773,True,False,False,S74159060
+887,ammosp1,Ammospiza sp.,Ammospiza sp.,L109233,Sandy Point,2020-09-27 09:38,3.0,41.2645658,-72.9312372,True,False,False,S74132087
+888,y00628,MacGillivray's/Mourning Warbler,Geothlypis tolmiei/philadelphia,L130673,Clear Spring Ranch,2020-09-27 09:13,1.0,38.6187096,-104.6835098,True,False,False,S74147401
+889,licpar,Lilac-crowned Parrot,Amazona finschi,L12379103,Cypress and Hibiscus,2020-09-27 09:05,20.0,34.0491732,-117.1740701,True,False,True,S74129006
+890,orabis1,Northern Red Bishop,Euplectes franciscanus,L2896764,Mill Creek Wetlands,2020-09-27 08:40,1.0,33.9472939,-117.6166999,True,True,False,S74149712
+891,bkcgna,Black-capped Gnatcatcher,Polioptila nigriceps,L720787,Florida Canyon--lower,2020-09-27 08:31,2.0,31.7633436,-110.8458804,True,True,False,S74141547
+892,cramur,Craveri's Murrelet,Synthliboramphus craveri,L12388415,2020-09-27 b,2020-09-27 08:30,1.0,32.642894,-117.570471,True,True,True,S74185578
+893,kalphe,Kalij Pheasant,Lophura leucomelanos,L12380037,"19-4771 Amaumau Rd, Volcano US-HI 19.47853, -155.26568",2020-09-27 08:24,4.0,19.478535,-155.265681,True,False,True,S74134004
+894,x00059,Townsend's x Hermit Warbler (hybrid),Setophaga townsendi x occidentalis,L268207,Melrose Woods,2020-09-27 08:24,1.0,34.4343548,-103.7991207,True,True,False,S74136649
+895,audshe,Audubon's Shearwater,Puffinus lherminieri,L12392557,"Auto selected 37.34443, -72.99260",2020-09-27 08:15,2.0,37.344427,-72.992604,True,True,True,S74212402
+896,gryvir,Gray Vireo,Vireo vicinior,L2266290,Saguaro NP--East--Javelina Picnic Area,2020-09-27 08:05,1.0,32.1657012,-110.7236373,True,True,False,S74189999
+897,bawshe1,black-and-white shearwater sp.,Puffinus sp. (black-and-white shearwater sp.),L12384030,"California, US (38.296, -123.12)",2020-09-27 07:49,1.0,38.2958013,-123.1196031,True,False,True,S74157957
+898,rucwar,Rufous-capped Warbler,Basileuterus rufifrons,L129105,Sycamore Canyon (Pajarito Mountains),2020-09-27 07:46,1.0,31.4290009,-111.1905975,True,True,False,S74150675
+899,y00666,Cooper's Hawk/Northern Goshawk,Accipiter cooperii/gentilis,L4948296,Aldape Summit,2020-09-27 07:36,1.0,43.6395537,-116.0651278,True,True,False,S74139061
+900,y00469,Snow/Ross's Goose,Anser caerulescens/rossii,L152722,Springbrook Prairie Forest Preserve,2020-09-27 07:30,1.0,41.7392,-88.1754,True,False,False,S74136527
+901,anas1,Anas sp.,Anas sp.,L8600695,Blackstone River Bike Path--Valley Marsh,2020-09-27 07:16,1.0,41.9027514,-71.3980847,True,True,False,S74114542
+902,refboo,Red-footed Booby,Sula sula,L1105848,Makapu'u Beach Park,2020-09-27 07:05,16.0,21.3139641,-157.6612008,True,False,False,S74130829
+903,masboo,Masked Booby,Sula dactylatra,L1105848,Makapu'u Beach Park,2020-09-27 07:05,1.0,21.3139641,-157.6612008,True,False,False,S74130829
+904,brnnod,Brown Noddy,Anous stolidus,L1105848,Makapu'u Beach Park,2020-09-27 07:05,3.0,21.3139641,-157.6612008,True,False,False,S74130829
+905,y00320,ground dove/Inca Dove sp.,Columbina sp.,L12377484,"228 E Pasaro Dr, Phoenix US-AZ 33.76778, -112.06995",2020-09-27 07:04,1.0,33.767779,-112.069951,True,False,True,S74119132
+906,whpwil,Eastern/Mexican Whip-poor-will,Antrostomus vociferus/arizonae,L128933,Carlsbad Caverns NP--Rattlesnake Springs,2020-09-27 06:54,1.0,32.1091003,-104.4710999,True,True,False,S74125512
+907,bkcpet,Black-capped Petrel,Pterodroma hasitata,L12392555,"Auto selected 37.32703, -72.94700",2020-09-27 06:23,1.0,37.327031,-72.947001,True,True,True,S74212383
+908,oporor1,Connecticut/MacGillivray's/Mourning Warbler,Oporornis/Geothlypis sp. (Mourning-type),L207343,Arcadia WS--Meadows Conservation Area (Mass Audubon),2020-09-27 06:16,1.0,42.3007929,-72.647502,True,True,False,S74115761
+909,elfowl,Elf Owl,Micrathene whitneyi,L12382484,Silver Peak Trailhead,2020-09-26 19:09,1.0,31.896347,-109.164461,True,True,True,S74147947
+910,x00677,Great Blue Heron x Great Egret (hybrid),Ardea herodias x alba,L1078491,Northshore Park,2020-09-26 17:06,1.0,27.7840369,-82.6235819,True,True,False,S74095306
+911,y00330,Curve-billed/Bendire's Thrasher,Toxostoma curvirostre/bendirei,L5238840,E Mountain View Road (private residence),2020-09-26 17:00,1.0,31.3853692,-110.2273214,True,False,True,S74134913
+912,heron1,heron sp.,Ardeidae sp.,L12319834,"11863 Four Lakes Dr, South Lyon US-MI 42.45001, -83.70810",2020-09-26 17:00,1.0,42.450007,-83.708103,True,False,True,S74092472
+913,horpuf,Horned Puffin,Fratercula corniculata,L4905028,Kodiak Is.--Burton's Beach,2020-09-26 16:15,8.0,57.4614804,-152.3247099,True,False,False,S74119796
+914,whttro,White-tailed Tropicbird,Phaethon lepturus,L12382863,"4160 Wailapa Road, Kilauea, Hawaii, US (22.218, -159.386)",2020-09-26 15:47,2.0,22.2181145,-159.3861535,True,False,True,S74150417
+915,x00783,Neotropic x Double-crested Cormorant (hybrid),Phalacrocorax brasilianus x auritus,L143084,Wakodahatchee Wetlands,2020-09-26 15:41,1.0,26.4781984,-80.144738,True,True,False,S74092597
+916,y00328,Sedge/Marsh Wren,Cistothorus platensis/palustris,L252032,Horicon NWR--Ledge and Point Rds,2020-09-26 14:54,1.0,43.596762,-88.6288637,True,False,False,S74090368
+917,y00956,Herring/Glaucous-winged Gull,Larus argentatus/glaucescens,L2386178,Campbell Creek Estuary Natural Area,2020-09-26 14:39,30.0,61.1315982,-149.9667907,True,False,False,S74106550
+918,rettro,Red-tailed Tropicbird,Phaethon rubricauda,L8027824,Kilauea Overlook - Always Open,2020-09-26 14:26,1.0,22.2277391,-159.4012624,True,False,True,S74104855
+919,hawduc,Hawaiian Duck,Anas wyvilliana,L1169080,Hanalei NWR -- Highway Overlook,2020-09-26 14:00,,22.2127226,-159.475786,True,False,False,S74100090
+920,x00057,Herring x Lesser Black-backed Gull (hybrid),Larus argentatus x fuscus,L634210,Nauset Marsh,2020-09-26 13:06,1.0,41.8143142,-69.9504232,True,True,False,S74172604
+921,gretit1,Great Tit,Parus major,L4758547,Sheboygan Indian Mound Park,2020-09-26 13:00,1.0,43.6969906,-87.7182287,True,False,False,S74087936
+922,arcter,Arctic Tern,Sterna paradisaea,L168688,Ocean Shores--Pt. Brown Jetty,2020-09-26 11:58,1.0,46.92816,-124.17397,True,False,False,S74090930
+923,botspa,Botteri's Sparrow,Peucaea botterii,L12370024,"212 Harshaw Avenue, Patagonia, Arizona, US (31.541, -110.749)",2020-09-26 11:13,3.0,31.5410578,-110.7487103,True,False,True,S74149076
+924,skylar,Eurasian Skylark,Alauda arvensis,L1430539,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),2020-09-26 11:00,3.0,19.8864154,-155.668606,True,False,False,S74109525
+925,ercfra,Erckel's Francolin,Pternistis erckelii,L1430539,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),2020-09-26 11:00,1.0,19.8864154,-155.668606,True,False,False,S74109525
+926,y00317,Common/Arctic Tern,Sterna hirundo/paradisaea,L12374605,"Auto selected 44.39165, -124.83734",2020-09-26 11:00,1.0,44.391655,-124.837339,True,False,True,S74103281
+927,x00699,MacGillivray's x Mourning Warbler (hybrid),Geothlypis tolmiei x philadelphia,L268207,Melrose Woods,2020-09-26 10:34,1.0,34.4343548,-103.7991207,True,True,False,S74085283
+928,whocra,Whooping Crane,Grus americana,L12371400,"61350, Ottawa US-IL (41.3254,-88.9660)",2020-09-26 09:44,1.0,41.325417,-88.965951,True,True,True,S74085095
+929,murrel,murrelet sp.,Brachyramphus/Synthliboramphus sp.,L109542,Point No Point,2020-09-26 09:32,1.0,47.9118696,-122.5283182,True,False,False,S74087575
+930,blknod,Black Noddy,Anous minutus,L12382907,"Kalalau Trail, Kapaʻa, Hawaii, US (22.221, -159.583)",2020-09-26 09:09,3.0,22.2212007,-159.5830961,True,False,True,S74150720
+931,roster,Roseate Tern,Sterna dougallii,L2325228,Off Pamet Harbor,2020-09-26 09:00,2.0,41.9999786,-70.112772,True,False,True,S74073102
+932,y01165,LeConte's/Nelson's Sparrow,Ammospiza leconteii/nelsoni,L603712,Mentor Marsh State Nature Preserve--Wake Robin,2020-09-26 09:00,1.0,41.7297856,-81.3189554,True,True,False,S74079491
+933,y00337,Bronzed/Brown-headed Cowbird,Molothrus aeneus/ater,L4350377,National Butterfly Center--South of levee,2020-09-26 08:42,6.0,26.1738318,-98.3657885,True,False,False,S74073641
+934,mergan1,merganser sp.,Mergellus/Lophodytes/Mergus sp.,L9967831,Tygart Lake Lodge,2020-09-26 08:30,4.0,39.3047135,-80.0227587,True,False,True,S74095129
+935,booby1,booby sp.,Sula sp.,L433164,Silver Strand SB--beach & ocean,2020-09-26 08:30,1.0,32.6224634,-117.1380506,True,True,False,S74098404
+936,y00471,Trumpeter/Tundra Swan,Cygnus buccinator/columbianus,L2915999,Paxson Lake Cmpgrnd (Richardson Hwy-MP F179.8),2020-09-26 08:19,12.0,62.8644515,-145.5477676,True,False,False,S74106612
+937,kingfi1,kingfisher sp.,Alcedinidae sp.,L130766,Hornsby Bend (HOTE 037),2020-09-26 08:01,1.0,30.2181988,-97.6458054,True,False,False,S74077195
+938,btmjay,Black-throated Magpie-Jay,Calocitta colliei,L418752,Tijuana River Valley Regional Park--Bird & Butterfly Garden,2020-09-26 07:58,4.0,32.5542929,-117.0857942,True,False,False,S74095846
+939,tringa1,Tringa sp.,Tringa sp.,L1833369,Berlin Lake Bike Trail,2020-09-26 07:55,3.0,41.0237741,-81.0213294,True,False,False,S74078184
+940,x00739,Anna's Hummingbird x Selasphorus sp. (hybrid),Calypte anna x Selasphorus sp.,L9817881,Home,2020-09-26 07:30,1.0,33.9990074,-117.8041415,True,True,True,S74096412
+941,y00711,California/Gambel's Quail,Callipepla californica/gambelii,L675214,Borrego Springs--Resort and Country Club,2020-09-26 06:50,32.0,33.2427076,-116.3570166,True,False,False,S74091525
+942,x00634,Yellow-bellied x Red-naped Sapsucker (hybrid),Sphyrapicus varius x nuchalis,L5750423,Rio Mesa Station (restricted access),2020-09-26 06:50,1.0,38.7992853,-109.2046978,True,True,False,S74099335
+943,bcrfin,Brown-capped Rosy-Finch,Leucosticte australis,L267228,Mount Audubon Trail,2020-09-26 06:35,1.0,40.10204,-105.59224,True,False,False,S74093381
+944,y00606,Cory's/Great Shearwater,Calonectris diomedea/Ardenna gravis,L364733,Race Point,2020-09-26 05:45,1.0,42.0691855,-70.2381706,True,False,False,S74077102
+945,spinus1,Spinus sp.,Spinus sp.,L12005088,San Miguel Ranch,2020-09-25 18:25,1.0,32.6697515,-116.9903256,True,False,True,S74059913
+946,y00329,Brown/Long-billed Thrasher,Toxostoma rufum/longirostre,L163665,San Antonio Botanical Garden,2020-09-25 18:00,1.0,29.4601113,-98.4572897,True,False,False,S74180949
+947,blkfra,Black Francolin,Francolinus francolinus,L12312305,Port Allen Airport,2020-09-25 18:00,1.0,21.8967944,-159.6021308,True,False,True,S74060896
+948,souwpw1,Mexican Whip-poor-will,Antrostomus arizonae,L12323203,"stakeout Eared Quetzal, FR42 between Sunny Flat and SWRS (2020)",2020-09-25 16:45,1.0,31.8815054,-109.1891165,True,False,False,S74093918
+949,x00620,Nuttall's x Ladder-backed Woodpecker (hybrid),Dryobates nuttallii x scalaris,L863722,Joshua Tree NP--Black Rock Campground,2020-09-25 16:15,1.0,34.0738777,-116.3906316,True,False,False,S74105883
+950,albatr1,albatross sp.,Diomedeidae sp.,L2349115,Cape Disappointment SP--North Head,2020-09-25 15:15,1.0,46.29863,-124.0775084,True,False,False,S74100666
+951,ardea1,Ardea sp.,Ardea sp.,L933826,Cedarcrest Subdivision,2020-09-25 15:12,1.0,30.4306778,-91.0702819,True,True,True,S74054572
+952,rail1,rail/crake sp.,Rallidae sp. (rail/crake sp.),L233562,East Boulder Trail--Teller Lakes,2020-09-25 14:00,1.0,40.0397737,-105.1425792,True,False,False,S74062683
+953,y00483,White-winged/Yellow-chevroned Parakeet,Brotogeris versicolurus/chiriri,L12362931,"S Dixie Hwy, Homestead US-FL (25.5346,-80.4129)",2020-09-25 11:47,10.0,25.534589,-80.412887,True,False,True,S74035503
+954,y00488,Orchard/Hooded Oriole,Icterus spurius/cucullatus,L374642,"Pt. Pinos--general (sea & shore Coral to Jewell, Crespi Pond, cypresses etc)",2020-09-25 09:55,1.0,36.6366173,-121.9337591,True,False,False,S74040687
+955,elepai,Hawaii Elepaio,Chasiempis sandwichensis,L12365845,"Upper Waiakea Forest Resv, Hilo US-HI (19.6769,-155.3844)",2020-09-25 09:21,1.0,19.676915,-155.384408,True,False,True,S74053286
+956,iiwi,Iiwi,Drepanis coccinea,L880981,"Pu'u Maka'ala NAR, Army Road",2020-09-25 09:13,1.0,19.5651078,-155.231173,True,False,False,S74056806
+957,x00006,American x Black Oystercatcher (hybrid),Haematopus palliatus x bachmani,L631718,Ventura Harbor--Marina Park,2020-09-25 09:12,1.0,34.2542014,-119.2683935,True,True,False,S74038560
+958,aratin,large parakeet sp. (former Aratinga sp.),Eupsittula/Aratinga/Thectocercus/Psittacara sp.,L5725679,Point Loma residential--upper,2020-09-25 09:10,4.0,32.7157812,-117.2457612,True,False,False,S74054123
+959,fepowl,Ferruginous Pygmy-Owl,Glaucidium brasilianum,L507911,King Ranch--Norias Division (Kenedy Co.),2020-09-25 08:09,1.0,26.7876524,-97.7707243,True,False,False,S74040833
+960,tropar,Tropical Parula,Setophaga pitiayumi,L507911,King Ranch--Norias Division (Kenedy Co.),2020-09-25 08:09,1.0,26.7876524,-97.7707243,True,False,False,S74040833
+961,x00623,Black-capped x Mountain Chickadee (hybrid),Poecile atricapillus x gambeli,L1145419,Corrales Bosque -- La Entrada - East Ella,2020-09-25 07:53,1.0,35.2204294,-106.606689,True,True,False,S74038244
+962,y00321,Chimney/Vaux's Swift,Chaetura pelagica/vauxi,L466266,Atascadero Wastewater Treatment Ponds--no internal access,2020-09-25 06:42,20.0,35.4816927,-120.6434119,True,False,False,S74060007
+963,y00694,Great/Double-crested Cormorant,Phalacrocorax carbo/auritus,L865421,Acadia NP--Schoodic Point,2020-09-25 06:22,35.0,44.3324746,-68.0603456,True,False,False,S74032076
+964,y00851,Eurasian/African Collared-Dove,Streptopelia decaocto/roseogrisea,L10053852,Sweetwater Park,2020-09-25 02:40,1.0,33.6059164,-111.9884062,True,False,True,S74107866
+965,subfly,Sulphur-bellied Flycatcher,Myiodynastes luteiventris,L12351974,"stakeout Sulphur-bellied Flycatcher, Long Beach (Sep 2020)",2020-09-24 17:00,1.0,33.7857481,-118.1513682,True,True,False,S74023816
+966,y00332,White-crowned/White-throated Sparrow,Zonotrichia leucophrys/albicollis,L12359414,"3151 WIS-31, Caledonia US-WI 42.75840, -87.83607",2020-09-24 13:33,1.0,42.7584,-87.836067,True,False,True,S74013316
+967,myiarc,Myiarchus sp.,Myiarchus sp.,L144858,Riparian Preserve at Gilbert Water Ranch,2020-09-24 12:29,1.0,33.3614502,-111.7339478,True,False,False,S74010719
+968,baispa,Baird's Sparrow,Centronyx bairdii,L2883112,Chiricahua Desert Museum,2020-09-24 11:50,1.0,31.87029,-109.0351,True,True,False,S74004989
+969,blkswa,Black Swan,Cygnus atratus,L374880,Lake Eola Park,2020-09-24 10:50,2.0,28.5441162,-81.3731575,True,False,False,S74057803
+970,refcor,Red-faced Cormorant,Phalacrocorax urile,L11072374,Fort Abercrombie,2020-09-24 10:00,7.0,57.8340488,-152.3572397,True,True,True,S74012259
+971,winwre,Pacific/Winter Wren,Troglodytes pacificus/hiemalis,L12205661,Butterfield Canyon Rd Turnoff,2020-09-24 09:41,1.0,40.513171,-112.092283,True,True,True,S73999936
+972,frigat,frigatebird sp.,Fregata sp.,L140452,Whitefish Point,2020-09-24 08:30,1.0,46.769001,-84.9530029,True,True,False,S74019478
+973,brewar,Brewster's Warbler (hybrid),Vermivora chrysoptera x cyanoptera (F1 hybrid),L585696,Battery Kemble Park,2020-09-24 08:07,1.0,38.9271154,-77.0947981,True,True,False,S73998049
+974,nightj1,nightjar sp.,Caprimulgidae sp.,L1776225,Heron Pond Natural Area,2020-09-24 07:58,2.0,39.7943468,-104.9725959,True,False,False,S74003342
+975,y01099,Mexican/Mottled Duck,Anas diazi/fulvigula,L8174694,Royal oak estates  nearby canal,2020-09-24 07:47,1.0,26.265317,-98.212159,True,False,True,S74008508
+976,y00219,Arctic/Pacific Loon,Gavia arctica/pacifica,L140452,Whitefish Point,2020-09-24 07:31,1.0,46.769001,-84.9530029,True,True,False,S74017250
+977,y00645,Townsend's/Hermit Warbler,Setophaga townsendi/occidentalis,L144858,Riparian Preserve at Gilbert Water Ranch,2020-09-24 07:30,1.0,33.3614502,-111.7339478,True,False,False,S74011455
+978,y00326,Oak/Juniper Titmouse (Plain Titmouse),Baeolophus inornatus/ridgwayi,L1149403,Lava Beds NM--Cave Loop Rd.,2020-09-24 07:30,6.0,41.7058075,-121.5164709,True,False,False,S74014354
+979,cuckoo3,cuckoo sp. (Cuculidae sp.),Cuculidae sp.,L880645,Michaux SF--Camp Michaux,2020-09-24 07:26,1.0,40.037206,-77.3385448,True,True,False,S73994106
+980,procel2,Procellariid sp.,Procellariidae sp.,L12358210,"88-131 Kai Ave, Captain Cook US-HI 19.20455, -155.90371",2020-09-24 06:29,1.0,19.204553,-155.90371,True,False,True,S74005745
+981,towshe2,Newell's Shearwater,Puffinus newelli,L7991696,Glass Beach Cliff Seawatch,2020-09-23 18:47,4.0,21.8965995,-159.5828359,True,False,True,S73986187
+982,hawpet1,Hawaiian Petrel,Pterodroma sandwichensis,L7991696,Glass Beach Cliff Seawatch,2020-09-23 18:47,1.0,21.8965995,-159.5828359,True,False,True,S73986187
+983,bufpar,Turquoise-fronted Parrot,Amazona aestiva,L4093801,Parrot roost--E. Washington Blvd and Fair Oaks Ave,2020-09-23 18:17,1.0,34.1691064,-118.1503576,True,False,False,S73983066

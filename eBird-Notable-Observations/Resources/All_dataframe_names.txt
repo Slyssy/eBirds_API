@@ -1,0 +1,10 @@
+df_notables
+TX_NOTABLE_OBS_df (all species)
+name_count_df (to get most common species)
+TX_species_df (narrowed to single most common species)
+species_taxonomy_df (got taxonomy of the single species)
+
+US_species_df (full US for single species)
+US_SPECIES_OBS_df (cleaned up df)
+
+TX_SPECIES_OBS_df (cleaned up)
