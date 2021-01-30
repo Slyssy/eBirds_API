@@ -8,11 +8,11 @@
 * Visualizations: Plot.ly, mapbox
 
 ### Contributors
-Rachel Reynolds: Parakeet Story
-David Vance: Notable Observations
-Stephen Lyssy: Endangered Birds
-Brad Lampton: State by State Observations
-Maria Sierra-Cardoza: Migratory Pattern (Ruby-Throated Hummingbird)
+Rachel Reynolds: Parakeet Story<br>
+David Vance: Notable Observations<br>
+Stephen Lyssy: Endangered Birds<br>
+Brad Lampton: State by State Observations<br>
+Maria Sierra-Cardoza: Migratory Pattern (Ruby-Throated Hummingbird)<br>
 
 ### Below is a list of API Request in order to get the data we needed for the visualizations shown below.
 * Migratory Pattern (Ruby-throated Hummingbird): https://api.ebird.org/v2/data/obs/US-TX/historic/2019/{month}/{day}
