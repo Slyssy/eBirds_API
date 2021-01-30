@@ -7,6 +7,13 @@
 * Python: Pandas, Numpy
 * Visualizations: Plot.ly, mapbox
 
+### Contributors
+Rachel Reynolds: Parakeet Story
+David Vance: Notable Observations
+Stephen Lyssy: Endangered Birds
+Brad Lampton: State by State Observations
+Maria Sierra-Cardoza: Migratory Pattern (Ruby-Throated Hummingbird)
+
 ### Below is a list of API Request in order to get the data we needed for the visualizations shown below.
 * Migratory Pattern (Ruby-throated Hummingbird): https://api.ebird.org/v2/data/obs/US-TX/historic/2019/{month}/{day}
 * Notable Observations: https://api.ebird.org/v2/data/obs/
@@ -20,6 +27,8 @@
 ![ruby_throated_hummingbird_map](images/ruby_throated_hummingbird_map.png)
 <br>
 <br>
+## State Bird Sightings
+![state_bird_sightings](images/state_bird_sightings.png)
 ## Notable Observations
 ![notable_calliope_hummingbird](images/notable_calliope_hummingbird.png)
 ![notable_observations_all_species_map](images/notable_observations_all_species_map.png)
